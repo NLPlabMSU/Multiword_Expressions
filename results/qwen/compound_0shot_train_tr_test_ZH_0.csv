@@ -1,0 +1,3070 @@
+,sentence,full_output,output,label
+0,1964年1月28日(1964-01-28)(52歲),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1964年1月28日(1964-01-28)(52歲)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+1,Lomography為您帶來透心涼Lomo’InstantHavanaEdition即影即有相機!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Lomography為您帶來透心涼Lomo’InstantHavanaEdition即影即有相機!
+assistant
+<think>
+
+</think>
+
+COMP: Lomo’InstantHavanaEdition",COMP: Lomo’InstantHavanaEdition,COMP: 透心涼
+2,隨後，阿骨打揮軍攻佔賓州、祥州、咸州等地，兀惹、奚等部族紛紛前來歸降。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+隨後，阿骨打揮軍攻佔賓州、祥州、咸州等地，兀惹、奚等部族紛紛前來歸降。
+assistant
+<think>
+
+</think>
+
+COMP: 隨後，阿骨打揮軍攻佔賓州、祥州、咸州等地，兀惹、奚等部族紛紛前來歸降。",COMP: 隨後，阿骨打揮軍攻佔賓州、祥州、咸州等地，兀惹、奚等部族紛紛前來歸降。,No compound found.
+3,"第4筆,共19筆(伍德兰兹)共485則評論","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+第4筆,共19筆(伍德兰兹)共485則評論
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 伍德兰兹)
+4,英國DJ、電音製作人諾曼·庫克(以FatboySlim的藝名為人熟知)就在與《DailyStar》的訪問中表達了對這首歌的高度讚揚與欣賞:「他們令我印象深刻。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+英國DJ、電音製作人諾曼·庫克(以FatboySlim的藝名為人熟知)就在與《DailyStar》的訪問中表達了對這首歌的高度讚揚與欣賞:「他們令我印象深刻。
+assistant
+<think>
+
+</think>
+
+COMP: DJ、電音",COMP: DJ、電音,COMP: 欣賞:
+5,查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕這一觀點。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕這一觀點。
+assistant
+<think>
+
+</think>
+
+COMP: 查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕",COMP: 查爾斯·克拉克在其同年出版的專著《蘇門答臘島與西馬來西亞的豬籠草》中拒絕,COMP: 蘇門答臘島
+6,",中壢有那些飯店,中壢家商,中壢高商,中壢市公所,中壢哪邊好玩好逛,中壢哪裡熱鬧阿,中壢監理站考駕照時間,中壢中福幼稚園托兒所在哪,中壢高中,髮廊","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+,中壢有那些飯店,中壢家商,中壢高商,中壢市公所,中壢哪邊好玩好逛,中壢哪裡熱鬧阿,中壢監理站考駕照時間,中壢中福幼稚園托兒所在哪,中壢高中,髮廊
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 中壢
+COMP: 飯店
+COMP: 中壢
+COMP: 中壢
+COMP: 中壢
+COMP: 市公所
+COMP: 中壢
+COMP: 中壢
+COMP: 中壢
+COMP: 監理站
+COMP: 幼稚園
+COMP: 中壢"
+7,"故事講述米奇、米妮和一班好友,本來開開心心坐著音樂馬車出外遊玩,卻遇上壞蛋Pete大搞破壞!","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+故事講述米奇、米妮和一班好友,本來開開心心坐著音樂馬車出外遊玩,卻遇上壞蛋Pete大搞破壞!
+assistant
+<think>
+
+</think>
+
+COMP: 故事講述",COMP: 故事講述,No compound found.
+8,"**因違規數量過多,違反者將直接刪除**","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+**因違規數量過多,違反者將直接刪除**
+assistant
+<think>
+
+</think>
+
+COMP: 因違規數量過多",COMP: 因違規數量過多,No compound found.
+9,列星頓號航空母艦(CV-2)M,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+列星頓號航空母艦(CV-2)M
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 列星頓號
+10,新西蘭:自由黨(新西蘭)、自由黨(1963)、自由黨(1992),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+新西蘭:自由黨(新西蘭)、自由黨(1963)、自由黨(1992)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 新西蘭:
+COMP: 自由黨
+COMP: 新西蘭)
+COMP: 自由黨
+COMP: 自由黨"
+11,"如果三十歲以前非要做一件事,而且只能做一件事,我會說──「接受好話語的洗禮,身處被好話語圍繞的環境。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+如果三十歲以前非要做一件事,而且只能做一件事,我會說──「接受好話語的洗禮,身處被好話語圍繞的環境。
+assistant
+<think>
+
+</think>
+
+COMP: 如果三十歲以前非要做一件事",COMP: 如果三十歲以前非要做一件事,No compound found.
+12,這應該是Qos調低的問題.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+這應該是Qos調低的問題.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+13,Tigard的最棒鮮蝦,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Tigard的最棒鮮蝦
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 棒鮮蝦
+14,"女友擰了男方一把,嬌嗔著:「不然幹嘛那麼早來這,不說了,我們快去占位子,要搶到第一排哦!","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+女友擰了男方一把,嬌嗔著:「不然幹嘛那麼早來這,不說了,我們快去占位子,要搶到第一排哦!
+assistant
+<think>
+
+</think>
+
+COMP: 嬌嗔著",COMP: 嬌嗔著,No compound found.
+15,"至於附錄-每位孩子的生命至少需要一盞明燈,看了會讓人為偏鄉的弱勢學生的遭遇及困境而感傷不已,也感佩那些無私奉獻的大愛者。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+至於附錄-每位孩子的生命至少需要一盞明燈,看了會讓人為偏鄉的弱勢學生的遭遇及困境而感傷不已,也感佩那些無私奉獻的大愛者。
+assistant
+<think>
+
+</think>
+
+COMP: 至於附錄-每位孩子的生命至少需要一盞明燈",COMP: 至於附錄-每位孩子的生命至少需要一盞明燈,No compound found.
+16,"內巷甕仔雞提供合菜料理,可事先預約。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+內巷甕仔雞提供合菜料理,可事先預約。
+assistant
+<think>
+
+</think>
+
+COMP: 內巷甕仔雞",COMP: 內巷甕仔雞,No compound found.
+17,排名第2(共4家)的班底登加特色住宿卓越獎什麼是卓越獎?,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+排名第2(共4家)的班底登加特色住宿卓越獎什麼是卓越獎?
+assistant
+<think>
+
+</think>
+
+COMP: 特色住宿",COMP: 特色住宿,"COMP: 卓越獎
+COMP: 卓越獎"
+18,談不攏是因為這份工作不是很適合你啦.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+談不攏是因為這份工作不是很適合你啦.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+19,4-23333598台中縣霧峰鄉林森路609號223,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+4-23333598台中縣霧峰鄉林森路609號223
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 台中縣
+COMP: 霧峰鄉"
+20,「太過份的是妳吧。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+「太過份的是妳吧。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+21,唉！跟做賊差不多。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+唉！跟做賊差不多。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+22,快樂888:專屬竹南頭份的美食-置頂~HOT~-yam天空部落於<kaplancosmeticsurgery>引用本文,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+快樂888:專屬竹南頭份的美食-置頂~HOT~-yam天空部落於<kaplancosmeticsurgery>引用本文
+assistant
+<think>
+
+</think>
+
+COMP: 快樂888:專屬竹南頭份的美食-置頂~HOT~-yam",COMP: 快樂888:專屬竹南頭份的美食-置頂~HOT~-yam,No compound found.
+23,"嚴禁任何形式廣告,會員絕不可以發表其它音樂網頁或論壇的連結,如主題內容涉及其他論壇網址,均會扣分及刪除主題處理。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+嚴禁任何形式廣告,會員絕不可以發表其它音樂網頁或論壇的連結,如主題內容涉及其他論壇網址,均會扣分及刪除主題處理。
+assistant
+<think>
+
+</think>
+
+COMP: 會員絕不可以發表其它音樂網頁或論壇的連結",COMP: 會員絕不可以發表其它音樂網頁或論壇的連結,No compound found.
+24,"服務人員親切,價錢在市區酒店來說相當經濟實惠","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+服務人員親切,價錢在市區酒店來說相當經濟實惠
+assistant
+<think>
+
+</think>
+
+COMP:服務人員親切",COMP:服務人員親切,No compound found.
+25,"同樣是補血養血,酸棗仁湯又示範了一次怎樣讓血回肝,如果沒有要讓血回肝的問題,最補血的是炙甘草湯,但有些人的血已經無家可歸了,酸棗仁湯就有用。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+同樣是補血養血,酸棗仁湯又示範了一次怎樣讓血回肝,如果沒有要讓血回肝的問題,最補血的是炙甘草湯,但有些人的血已經無家可歸了,酸棗仁湯就有用。
+assistant
+<think>
+
+</think>
+
+COMP: 補血養血",COMP: 補血養血,No compound found.
+26,給了我一袋這段時間所需要的東西.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+給了我一袋這段時間所需要的東西.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 東西.
+27,驚覺AirAsia的價格真的是漂亮極了!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+驚覺AirAsia的價格真的是漂亮極了!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+28,"2014年8月上旬,林峯公開宣佈已約滿TVB,不再續約,結束15年的合作關係。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+2014年8月上旬,林峯公開宣佈已約滿TVB,不再續約,結束15年的合作關係。
+assistant
+<think>
+
+</think>
+
+COMP:約滿TVB",COMP:約滿TVB,No compound found.
+29,"《我不是無法結婚,是不婚》第1話(8.0分)","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+《我不是無法結婚,是不婚》第1話(8.0分)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+30,測量驗證類娛樂演藝類,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+測量驗證類娛樂演藝類
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 驗證類娛樂演藝類
+31,威尼斯馬可波羅機場飯店,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+威尼斯馬可波羅機場飯店
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 機場飯店
+32,這部份的確是我沒有做統一處理。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+這部份的確是我沒有做統一處理。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+33,蘇美島▍圖書館飯店(早餐篇),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+蘇美島▍圖書館飯店(早餐篇)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 館飯店
+34,普羅維登西亞萊斯島-普羅維登西亞萊斯國際機場,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+普羅維登西亞萊斯島-普羅維登西亞萊斯國際機場
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 普羅維登西亞萊斯島
+35,"1950年1月,國務院高級官員阿爾傑·希斯(AlgerHiss)因作偽證而定罪。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1950年1月,國務院高級官員阿爾傑·希斯(AlgerHiss)因作偽證而定罪。
+assistant
+<think>
+
+</think>
+
+COMP: 作偽證",COMP: 作偽證,COMP: 國務院
+36,在很多文化中，有給剛出生的女孩子穿耳的習慣，這種習俗備受爭議，因為穿耳並非嬰孩的意願。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+在很多文化中，有給剛出生的女孩子穿耳的習慣，這種習俗備受爭議，因為穿耳並非嬰孩的意願。
+assistant
+<think>
+
+</think>
+
+COMP: 有給",COMP: 有給,No compound found.
+37,(答對了嗎!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+(答對了嗎!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+38,強說愁的牙痛文學0,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+強說愁的牙痛文學0
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+39,^動作遊戲《絕地武士:,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+^動作遊戲《絕地武士:
+assistant
+<think>
+
+</think>
+
+COMP:動作遊戲",COMP:動作遊戲,COMP: 武士:
+40,同時顯示地圖衛星地圖更新已經暫停。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+同時顯示地圖衛星地圖更新已經暫停。
+assistant
+<think>
+
+</think>
+
+COMP: 地圖衛星地圖",COMP: 地圖衛星地圖,No compound found.
+41,連續40度溫水:建議流量8L/分、供水量120L,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+連續40度溫水:建議流量8L/分、供水量120L
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 水量
+42,19歲美女受騙強拍A片萌妹每天要被「拉斷」3次腿治療女大生冷夢梅裸屍案!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+19歲美女受騙強拍A片萌妹每天要被「拉斷」3次腿治療女大生冷夢梅裸屍案!
+assistant
+<think>
+
+</think>
+
+COMP: 19歲美女受騙強拍A片萌妹每天要被「拉斷」3次腿治療女大生冷夢梅裸屍案",COMP: 19歲美女受騙強拍A片萌妹每天要被「拉斷」3次腿治療女大生冷夢梅裸屍案,"COMP: A片
+COMP: 裸屍案"
+43,"簡直眼花撩亂,逢甲人真的念的下書嗎,對我來說,誘惑好大阿...","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+簡直眼花撩亂,逢甲人真的念的下書嗎,對我來說,誘惑好大阿...
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 下書
+44,"Aspen,7thed.,2007)ISBN978-0-7355-6354-4.。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Aspen,7thed.,2007)ISBN978-0-7355-6354-4.。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+45,"每部電影均探索女性對MiuMiu的情意結,並透過鏡頭表逹她們不同的情感。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+每部電影均探索女性對MiuMiu的情意結,並透過鏡頭表逹她們不同的情感。
+assistant
+<think>
+
+</think>
+
+COMP: 情意結",COMP: 情意結,COMP: 情意結
+46,另外費雪絶不能做出任何會露出他是一個雙重間碟的身份給恐怖份子的事。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+另外費雪絶不能做出任何會露出他是一個雙重間碟的身份給恐怖份子的事。
+assistant
+<think>
+
+</think>
+
+COMP:另外費雪絶不能做出任何會露出他是一個雙重間碟的身份給恐怖份子的事",COMP:另外費雪絶不能做出任何會露出他是一個雙重間碟的身份給恐怖份子的事,No compound found.
+47,"到了1920年代,逍遙音樂會已經變成演奏當代音樂家如克勞德·德彪西(ClaudeDebussy)、理察·施特勞斯(RichardStrauss)和拉爾夫·沃恩·威廉士(RalphVaughanWilliams)的曲目的盛會。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+到了1920年代,逍遙音樂會已經變成演奏當代音樂家如克勞德·德彪西(ClaudeDebussy)、理察·施特勞斯(RichardStrauss)和拉爾夫·沃恩·威廉士(RalphVaughanWilliams)的曲目的盛會。
+assistant
+<think>
+
+</think>
+
+COMP: 音樂會已經變成演奏",COMP: 音樂會已經變成演奏,"COMP: 音樂會
+COMP: 音樂家"
+48,花崗岩島嶼包括塞舌爾和刁曼島，火山岩島嶼則如聖赫勒拿島。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+花崗岩島嶼包括塞舌爾和刁曼島，火山岩島嶼則如聖赫勒拿島。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 花崗岩島嶼
+COMP: 火山岩島嶼"
+49,四川汶川地震震級修訂為7.8級.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+四川汶川地震震級修訂為7.8級.
+assistant
+<think>
+
+</think>
+
+COMP: 地震震級",COMP: 地震震級,COMP: 汶川地
+50,高雄縣高苑工商青棒隊,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+高雄縣高苑工商青棒隊
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 高雄縣
+COMP: 商青棒隊"
+51,^四川省交通運輸廳.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+^四川省交通運輸廳.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 四川省
+COMP: 運輸廳"
+52,"佛教文物的相關搜尋,全德佛教文物,佛教文物店,十方佛教文物,全德佛教文物中心,嘉南佛教文物,藏傳佛教文物,藏傳佛教文物店,佛教文物中心,大行佛教文物,...","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+佛教文物的相關搜尋,全德佛教文物,佛教文物店,十方佛教文物,全德佛教文物中心,嘉南佛教文物,藏傳佛教文物,藏傳佛教文物店,佛教文物中心,大行佛教文物,...
+assistant
+<think>
+
+</think>
+
+COMP:佛教文物",COMP:佛教文物,"COMP: 文物店
+COMP: 傳佛教
+COMP: 文物店"
+53,HotelResidenceD'Piero(蘇莎亞),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+HotelResidenceD'Piero(蘇莎亞)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 蘇莎亞)
+54,Tiffany即將出演KBS新的綜藝,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Tiffany即將出演KBS新的綜藝
+assistant
+<think>
+
+</think>
+
+COMP:綜藝",COMP:綜藝,No compound found.
+55,在《惡靈古堡》中，植物也可以感染病毒而成為喪屍。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+在《惡靈古堡》中，植物也可以感染病毒而成為喪屍。
+assistant
+<think>
+
+</think>
+
+COMP: 在《惡靈古堡》中",COMP: 在《惡靈古堡》中,No compound found.
+56,樂捐四天王殿會員.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+樂捐四天王殿會員.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+57,"目前讀完了第七個故事,接下來準備吃臘八粥《俠客行》。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+目前讀完了第七個故事,接下來準備吃臘八粥《俠客行》。
+assistant
+<think>
+
+</think>
+
+COMP: 目前讀完了第七個故事",COMP: 目前讀完了第七個故事,COMP: 臘八粥
+58,右旋轉步(NaturalSpinTurn),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+右旋轉步(NaturalSpinTurn)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 旋轉步
+59,2001年5月17日，為避免與十二月的眾多節日衝突，根據第55屆聯合國大會第201號決議，國際生物多樣性日改為每年5月22日。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+2001年5月17日，為避免與十二月的眾多節日衝突，根據第55屆聯合國大會第201號決議，國際生物多樣性日改為每年5月22日。
+assistant
+<think>
+
+</think>
+
+COMP: 2001年5月17日",COMP: 2001年5月17日,"COMP: 聯合國
+COMP: 多樣性"
+60,"博物館的英文「Museum」,就是源於希臘語的繆斯「Μουσεῖον」。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+博物館的英文「Museum」,就是源於希臘語的繆斯「Μουσεῖον」。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 博物館
+COMP: 英文
+COMP: 希臘語"
+61,"第2筆,共721筆(麗江市)共599則評論","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+第2筆,共721筆(麗江市)共599則評論
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 麗江市
+62,同時顯示地圖衛星地圖更新已經暫停。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+同時顯示地圖衛星地圖更新已經暫停。
+assistant
+<think>
+
+</think>
+
+COMP: 地圖衛星地圖",COMP: 地圖衛星地圖,No compound found.
+63,無說我乖巧識禮把我們龍頭割去把我們龍頭割去正Mwwww.gamedb.com.tw94016h,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+無說我乖巧識禮把我們龍頭割去把我們龍頭割去正Mwwww.gamedb.com.tw94016h
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 巧識禮
+64,"希爾伯特計劃即是想將所有的數學放在堅固的公理基礎上,但依據哥德爾不完備定理,每一相容且能蘊涵皮亞諾公理的公理系統必含有一不可決定的公式;因而所有數學的最終公理化是不可能的。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+希爾伯特計劃即是想將所有的數學放在堅固的公理基礎上,但依據哥德爾不完備定理,每一相容且能蘊涵皮亞諾公理的公理系統必含有一不可決定的公式;因而所有數學的最終公理化是不可能的。
+assistant
+<think>
+
+</think>
+
+COMP: 希爾伯特計劃即是想將所有的數學放在堅固的公理基礎上",COMP: 希爾伯特計劃即是想將所有的數學放在堅固的公理基礎上,COMP: 公理化
+65,"-跟著KateSpadeNew...BEAUTY-這一次換米妮唇膏來誘惑大家,Sep...","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+-跟著KateSpadeNew...BEAUTY-這一次換米妮唇膏來誘惑大家,Sep...
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+66,"拋開過去,做你喜歡的自己:阿德勒的「勇氣」心理學","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+拋開過去,做你喜歡的自己:阿德勒的「勇氣」心理學
+assistant
+<think>
+
+</think>
+
+COMP: 阿德勒的「勇氣」心理學",COMP: 阿德勒的「勇氣」心理學,COMP: 心理學
+67,聯營紅2-聯營紅3-聯營紅5-聯營紅7,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+聯營紅2-聯營紅3-聯營紅5-聯營紅7
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 聯營紅
+COMP: 聯營紅
+COMP: 聯營紅
+COMP: 聯營紅"
+68,北宋宋徽宗所繪古琴畫作,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+北宋宋徽宗所繪古琴畫作
+assistant
+<think>
+
+</think>
+
+COMP: 北宋宋徽宗所繪古琴畫作",COMP: 北宋宋徽宗所繪古琴畫作,COMP: 繪古琴
+69,歐洲›西班牙›安達魯西亞自治區›格拉納達省›格拉納達›格拉納達的特色住宿›格拉納達青年旅舍,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+歐洲›西班牙›安達魯西亞自治區›格拉納達省›格拉納達›格拉納達的特色住宿›格拉納達青年旅舍
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: ›西班牙
+COMP: 自治區
+COMP: ›格拉納達省"
+70,向量的研究結合了數學的三個基本領域:數量、結構及空間。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+向量的研究結合了數學的三個基本領域:數量、結構及空間。
+assistant
+<think>
+
+</think>
+
+COMP: 結構及空間",COMP: 結構及空間,No compound found.
+71,黃巾軍[編輯],"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+黃巾軍[編輯]
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 黃巾軍
+COMP: 編輯]"
+72,閱讀所有評論(共262則)262則評論,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+閱讀所有評論(共262則)262則評論
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+73,PostedbyKatinaat痞客邦PIXNETGuestbook(0)人氣(),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+PostedbyKatinaat痞客邦PIXNETGuestbook(0)人氣()
+assistant
+<think>
+
+</think>
+
+COMP: PostedbyKatinaat痞客邦PIXNETGuestbook",COMP: PostedbyKatinaat痞客邦PIXNETGuestbook,No compound found.
+74,[威爾史密斯&兒子電影]地球過後影評(線上看/評價)電影狂魔-爛到誇張的地球過後!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+[威爾史密斯&兒子電影]地球過後影評(線上看/評價)電影狂魔-爛到誇張的地球過後!
+assistant
+<think>
+
+</think>
+
+COMP: 威爾史密斯&兒子電影",COMP: 威爾史密斯&兒子電影,COMP: 過後!
+75,2000FUN論壇›論壇›夢之歷險›無限mycard點數,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+2000FUN論壇›論壇›夢之歷險›無限mycard點數
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+76,能力是水狀的精神感應系能力者。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+能力是水狀的精神感應系能力者。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 感應系
+COMP: 能力者"
+77,立即購買小時代1.0折紙時代(簡體書.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+立即購買小時代1.0折紙時代(簡體書.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 簡體書
+78,2005年12月，該劇在橫店開機，除保留了原製作班底，主要演員全部更換。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+2005年12月，該劇在橫店開機，除保留了原製作班底，主要演員全部更換。
+assistant
+<think>
+
+</think>
+
+COMP: 2005年12月",COMP: 2005年12月,No compound found.
+79,西北傍伊利湖，東北鄰紐約州，西鄰俄亥俄州。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+西北傍伊利湖，東北鄰紐約州，西鄰俄亥俄州。
+assistant
+<think>
+
+</think>
+
+COMP: 西北傍伊利湖",COMP: 西北傍伊利湖,"COMP: 伊利湖
+COMP: 紐約州
+COMP: 俄亥俄州"
+80,"「超新星」後能力為下半身出現蠍子身體並巨大化,力量跟速度都因此獲得大幅提升。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+「超新星」後能力為下半身出現蠍子身體並巨大化,力量跟速度都因此獲得大幅提升。
+assistant
+<think>
+
+</think>
+
+COMP-LVC: 超新星」後能力為下半身出現蠍子身體並巨大化",COMP-LVC: 超新星」後能力為下半身出現蠍子身體並巨大化,"COMP: 蠍子
+COMP: 巨大化"
+81,"由此看來,“Ariel”意指註定將被大火吞噬的死亡之城,普拉絲顯然取其「萬死寂滅」之意,來表達她迎向生命之終的準備態度。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+由此看來,“Ariel”意指註定將被大火吞噬的死亡之城,普拉絲顯然取其「萬死寂滅」之意,來表達她迎向生命之終的準備態度。
+assistant
+<think>
+
+</think>
+
+COMP: 意指註定",COMP: 意指註定,No compound found.
+82,17:37-62.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+17:37-62.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+83,"”在坐的王允膽顫心驚,嚇得話也不敢說。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+”在坐的王允膽顫心驚,嚇得話也不敢說。
+assistant
+<think>
+
+</think>
+
+COMP: 王允膽顫心驚",COMP: 王允膽顫心驚,No compound found.
+84,MountHoreb的最棒炸魚&薯條,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+MountHoreb的最棒炸魚&薯條
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 棒炸魚
+COMP: 薯條"
+85,1998年2月8日(85歲),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1998年2月8日(85歲)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+86,雙刀舞弄璀璨不夜城,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+雙刀舞弄璀璨不夜城
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+87,"立秋:太陽位於黃經135度,8月7-9日交節","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+立秋:太陽位於黃經135度,8月7-9日交節
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 立秋:
+88,1957年反右運動期間，對趙榮聲預備黨員轉正問題，開了六次批判會，最後宣布趙榮聲為「反黨分子」，開除出中國共產黨。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1957年反右運動期間，對趙榮聲預備黨員轉正問題，開了六次批判會，最後宣布趙榮聲為「反黨分子」，開除出中國共產黨。
+assistant
+<think>
+
+</think>
+
+COMP: 1957年反右運動",COMP: 1957年反右運動,"COMP: 批判會
+COMP: 共產黨"
+89,而纏足也在明朝逐漸成為社會上較普遍的習俗。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+而纏足也在明朝逐漸成為社會上較普遍的習俗。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+90,拿破崙是一名出色的軍事家，對當時的軍事知識深有研究，善於將各種軍事策略運用在實戰之中，尤其是主張將火炮集中使用，以及充分發揮騎兵的機動作用。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+拿破崙是一名出色的軍事家，對當時的軍事知識深有研究，善於將各種軍事策略運用在實戰之中，尤其是主張將火炮集中使用，以及充分發揮騎兵的機動作用。
+assistant
+<think>
+
+</think>
+
+COMP: 拿破崙是一名出色的軍事家",COMP: 拿破崙是一名出色的軍事家,COMP: 軍事家
+91,"在恰當的時機開始,恰當的時機停止,在與天地萬物相通相協中,顺暢地實現人的存在。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+在恰當的時機開始,恰當的時機停止,在與天地萬物相通相協中,顺暢地實現人的存在。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+92,"實際上,宜賓也希望頁岩氣能多留下一部分供當地使用,因為地處西南偏遠的山區縣「迫切需要通過這種資源開發來拉動當地經濟發展」,但是,他們不好答覆長寧縣政府的請求。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+實際上,宜賓也希望頁岩氣能多留下一部分供當地使用,因為地處西南偏遠的山區縣「迫切需要通過這種資源開發來拉動當地經濟發展」,但是,他們不好答覆長寧縣政府的請求。
+assistant
+<think>
+
+</think>
+
+COMP: 頁岩氣",COMP: 頁岩氣,No compound found.
+93,新楓之谷道具-哦!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+新楓之谷道具-哦!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+94,"""ColinF.","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+""ColinF.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+95,"效力博阿维斯塔首季保辛華上陣機會不多,在葡超僅出場11次。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+效力博阿维斯塔首季保辛華上陣機會不多,在葡超僅出場11次。
+assistant
+<think>
+
+</think>
+
+COMP: 首季保辛華上陣機會不多",COMP: 首季保辛華上陣機會不多,No compound found.
+96,迷彩外型的匣子。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+迷彩外型的匣子。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+97,衝破信心的障礙(二),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+衝破信心的障礙(二)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+98,因為他們出圖的尺寸精度都標到0.000001....,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+因為他們出圖的尺寸精度都標到0.000001....
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+99,"由於票數過低,評論被隱藏。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+由於票數過低,評論被隱藏。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+100,她那種怪人一定安分不下來的.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+她那種怪人一定安分不下來的.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+101,"陶院長不動聲色的掩飾著心中的尷尬,葉晨的出現,完全在他意料之外。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+陶院長不動聲色的掩飾著心中的尷尬,葉晨的出現,完全在他意料之外。
+assistant
+<think>
+
+</think>
+
+COMP: 陶院長不動聲色",COMP: 陶院長不動聲色,"COMP: 陶院長
+COMP: 動聲色"
+102,瀏覽全部景點附近最熱門餐廳21則評論VivaPeru,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+瀏覽全部景點附近最熱門餐廳21則評論VivaPeru
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 最熱門
+103,"這首詩一直到1825年才由作曲家佛利特立希·紀爾舍(PhillippFriedrichSilcher,生於6月27日,1789年;卒於8月26日,1860年)加上旋律合成一首完整的歌曲。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+這首詩一直到1825年才由作曲家佛利特立希·紀爾舍(PhillippFriedrichSilcher,生於6月27日,1789年;卒於8月26日,1860年)加上旋律合成一首完整的歌曲。
+assistant
+<think>
+
+</think>
+
+COMP: 這首詩一直到1825年才由作曲家佛利特立希·紀爾舍(PhillippFriedrichSilcher,生於6月27日,1789年;卒於8月26日,1860年)加上旋律合成一首完整的歌曲。","COMP: 這首詩一直到1825年才由作曲家佛利特立希·紀爾舍(PhillippFriedrichSilcher,生於6月27日,1789年;卒於8月26日,1860年)加上旋律合成一首完整的歌曲。",COMP: 作曲家
+104,Mazda歲末購車送OSIM按摩美沙發,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Mazda歲末購車送OSIM按摩美沙發
+assistant
+<think>
+
+</think>
+
+COMP: Mazda歲末購車送OSIM按摩美沙發",COMP: Mazda歲末購車送OSIM按摩美沙發,No compound found.
+105,"史萊姆血腥怪貓2上下左右控制,shift衝刺,有點血腥,好寶寶不要玩喔!","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+史萊姆血腥怪貓2上下左右控制,shift衝刺,有點血腥,好寶寶不要玩喔!
+assistant
+<think>
+
+</think>
+
+COMP: 史萊姆血腥怪貓2",COMP: 史萊姆血腥怪貓2,COMP: 有點
+106,"如果客戶要求從帳戶中提款或轉出資金,在必要的投注需求達到之前,他們將會損失此帳戶中的所有獎金以及贏得的彩金。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+如果客戶要求從帳戶中提款或轉出資金,在必要的投注需求達到之前,他們將會損失此帳戶中的所有獎金以及贏得的彩金。
+assistant
+<think>
+
+</think>
+
+COMP:損失此帳戶中的所有獎金以及贏得的彩金",COMP:損失此帳戶中的所有獎金以及贏得的彩金,No compound found.
+107,"費爾蒙特,華盛頓特區飯店,喬治城","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+費爾蒙特,華盛頓特區飯店,喬治城
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 華盛頓特區飯店
+108,131201SBS挑戰千曲(振永、燦多、孔燦),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+131201SBS挑戰千曲(振永、燦多、孔燦)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+109,"如欲尋求協助,請致電866-441-5391.","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+如欲尋求協助,請致電866-441-5391.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+110,克伯屈主張課程編製以兒童的興趣為中心。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+克伯屈主張課程編製以兒童的興趣為中心。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+111,線上禮佛擲杯問事加持,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+線上禮佛擲杯問事加持
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 擲杯
+112,你趕快收拾吧！,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+你趕快收拾吧！
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+113,鏡片品種綠色鏡片G-15,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+鏡片品種綠色鏡片G-15
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+114,蘑菇島~~除了豪吃(卻不能吃)的巨大香菇外還有著詭異的怪物磚(?),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+蘑菇島~~除了豪吃(卻不能吃)的巨大香菇外還有著詭異的怪物磚(?)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 蘑菇島
+COMP: 香菇
+COMP: 怪物磚"
+115,"※購滿10包再送1包(黑胡椒/桂花/原味,3種口味隨機出貨)","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+※購滿10包再送1包(黑胡椒/桂花/原味,3種口味隨機出貨)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+116,潘沃爾卡先生說，曾經有一段時刻，他們覺得自己應該離開那幢大樓。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+潘沃爾卡先生說，曾經有一段時刻，他們覺得自己應該離開那幢大樓。
+assistant
+<think>
+
+</think>
+
+COMP: 潘沃爾卡先生說",COMP: 潘沃爾卡先生說,COMP: 潘沃爾卡先生
+117,+xvip.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
++xvip.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+118,所有的羅茲飯店羅茲飯店優惠依飯店類別,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+所有的羅茲飯店羅茲飯店優惠依飯店類別
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 依飯店
+119,"近排本少爺實在太有口褔,不停有機會品賞特色美食,腸胃也經常有飽飽滯滯。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+近排本少爺實在太有口褔,不停有機會品賞特色美食,腸胃也經常有飽飽滯滯。
+assistant
+<think>
+
+</think>
+
+COMP: 有口褔",COMP: 有口褔,No compound found.
+120,"為十六個月至兩歲大的幼兒及照顧者提供的故事、兒歌、音樂、活動,以及更多。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+為十六個月至兩歲大的幼兒及照顧者提供的故事、兒歌、音樂、活動,以及更多。
+assistant
+<think>
+
+</think>
+
+COMP: 為十六個月至兩歲大的幼兒及照顧者提供的故事",COMP: 為十六個月至兩歲大的幼兒及照顧者提供的故事,COMP: 照顧者
+121,北市螢橋國小男童宜蘭落海命危,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+北市螢橋國小男童宜蘭落海命危
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 北市
+122,教育部、亞洲大學舉辦留遊學宣導說明會!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+教育部、亞洲大學舉辦留遊學宣導說明會!
+assistant
+<think>
+
+</think>
+
+COMP: 教育部、亞洲大學舉辦留遊學宣導說明會",COMP: 教育部、亞洲大學舉辦留遊學宣導說明會,"COMP: 教育部
+COMP: 留遊學
+COMP: 說明會"
+123,"88則評論|排名第 43(共65名)為了讓您可以更輕鬆地遊覽格林威爾,以下是此物業的當地語言版本名稱和地址","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+88則評論|排名第 43(共65名)為了讓您可以更輕鬆地遊覽格林威爾,以下是此物業的當地語言版本名稱和地址
+assistant
+<think>
+
+</think>
+
+COMP: 88則評論|排名第 43(共65名)為了讓您可以更輕鬆地遊覽格林威爾,以下是此物業的當地語言版本名稱和地址","COMP: 88則評論|排名第 43(共65名)為了讓您可以更輕鬆地遊覽格林威爾,以下是此物業的當地語言版本名稱和地址",No compound found.
+124,化學感受器(嗅覺系統/嗅覺·味覺系統/味覺),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+化學感受器(嗅覺系統/嗅覺·味覺系統/味覺)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 化學感
+125,"1933年時,該會編印烏克蘭信義會禮儀,這是拜占庭禮信義宗的首部禮文。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1933年時,該會編印烏克蘭信義會禮儀,這是拜占庭禮信義宗的首部禮文。
+assistant
+<think>
+
+</think>
+
+COMP: 編印烏克蘭信義會禮儀",COMP: 編印烏克蘭信義會禮儀,"COMP: 信義會
+COMP: 拜占庭禮
+COMP: 信義宗
+COMP: 禮文"
+126,"萬昌盛副總裁、市場傳訊部總監,後為行政總裁","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+萬昌盛副總裁、市場傳訊部總監,後為行政總裁
+assistant
+<think>
+
+</think>
+
+COMP: 萬昌盛副總裁",COMP: 萬昌盛副總裁,No compound found.
+127,電話:05-2353058地址:嘉義市西區仁愛路139號你可能喜歡的:返回頂部↑,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+電話:05-2353058地址:嘉義市西區仁愛路139號你可能喜歡的:返回頂部↑
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 嘉義市
+COMP: 仁愛路"
+128,"第1步首先將上面的DeFX音效外掛下載回來並解壓縮,解壓縮完成後,請將「dsp_DeFX.dll」檔案複製到你的千千靜聽的plugins資料夾中,如「C:\ProgramFiles\TTPlayer\Plugins」。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+第1步首先將上面的DeFX音效外掛下載回來並解壓縮,解壓縮完成後,請將「dsp_DeFX.dll」檔案複製到你的千千靜聽的plugins資料夾中,如「C:\ProgramFiles\TTPlayer\Plugins」。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: dsp_
+COMP: 資料夾
+COMP: C:"
+129,DR.LEE@KOREA幹細胞黃金系列。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+DR.LEE@KOREA幹細胞黃金系列。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+130,"藉由文學人們可以繼續的發現有關歷史的新資訊,這個從各個學科領域都有和文學相關的子領域可以看出English:adegreeforthecurious.","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+藉由文學人們可以繼續的發現有關歷史的新資訊,這個從各個學科領域都有和文學相關的子領域可以看出English:adegreeforthecurious.
+assistant
+<think>
+
+</think>
+
+COMP: 藉由文學人們可以繼續的發現有關歷史的新資訊",COMP: 藉由文學人們可以繼續的發現有關歷史的新資訊,No compound found.
+131,星期一至日.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+星期一至日.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+132,"4.0星,滿分5星,22則評論","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+4.0星,滿分5星,22則評論
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+133,"兩人使用的大檯面書桌,檯面平整好用","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+兩人使用的大檯面書桌,檯面平整好用
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+134,"5.重複步驟將所有餅皮疊起,擺上一顆草莓,並撒上糖粉。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+5.重複步驟將所有餅皮疊起,擺上一顆草莓,並撒上糖粉。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 餅皮
+COMP: 糖粉"
+135,作品發表(Desktop),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+作品發表(Desktop)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+136,默瑟縣(賓夕法尼亞州),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+默瑟縣(賓夕法尼亞州)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 默瑟縣
+COMP: 賓夕法尼亞州"
+137,词源,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+词源
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+138,第四百四十八章挑戰黑鐵守護者,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+第四百四十八章挑戰黑鐵守護者
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+139,現在我所看到的價錢是否包含刷卡手續費呢?,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+現在我所看到的價錢是否包含刷卡手續費呢?
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 刷卡
+COMP: 續費"
+140,"第21筆,共162筆(紐奧良)共1,523則評論","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+第21筆,共162筆(紐奧良)共1,523則評論
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 紐奧良)
+141,在中美洲史前圖像和文本中未找到帆船的記錄；相反，有理論認為當時的瑪雅人使用獨木舟作為主要的水上交通工具。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+在中美洲史前圖像和文本中未找到帆船的記錄；相反，有理論認為當時的瑪雅人使用獨木舟作為主要的水上交通工具。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 中美洲史前圖像
+COMP: 水上交通工具"
+142,"完成任何訂房前,建議您先確認包含稅金和費用的總金額。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+完成任何訂房前,建議您先確認包含稅金和費用的總金額。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+143,剩1天賣家:,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+剩1天賣家:
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 賣家:
+144,1383至1385年內战,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1383至1385年內战
+assistant
+<think>
+
+</think>
+
+COMP: 1383至1385年內战",COMP: 1383至1385年內战,No compound found.
+145,ThelargestretailbooksstorechainsinTaiwan!TOP關鍵字,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+ThelargestretailbooksstorechainsinTaiwan!TOP關鍵字
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 關鍵字
+146,方石嶺戰鬥發生於1931年9月15日，地點則是在中國江西興國，是第一次國共內戰前期主要戰鬥之一。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+方石嶺戰鬥發生於1931年9月15日，地點則是在中國江西興國，是第一次國共內戰前期主要戰鬥之一。
+assistant
+<think>
+
+</think>
+
+COMP: 方石嶺戰鬥",COMP: 方石嶺戰鬥,COMP: 方石嶺
+147,受到傷害可能會中斷此效果。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+受到傷害可能會中斷此效果。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+148,一群狐獴擠櫥窗貓貓閒逛被嚇到,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+一群狐獴擠櫥窗貓貓閒逛被嚇到
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 擠櫥窗
+149,主題館[編輯],"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+主題館[編輯]
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 主題館
+COMP: 編輯]"
+150,去過StarliteDrive-In嗎?,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+去過StarliteDrive-In嗎?
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+151,斯波坎排名第52的餐廳(共644間),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+斯波坎排名第52的餐廳(共644間)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+152,以電影為藝術形式的概念起源自的,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+以電影為藝術形式的概念起源自的
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+153,"路線列印以當地語言顯示的名稱/地址454MainStreet,NiagaraFalls,NY14301特惠方案","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+路線列印以當地語言顯示的名稱/地址454MainStreet,NiagaraFalls,NY14301特惠方案
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+154,【綠島之旅】台東富岡漁港~出發前往綠,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+【綠島之旅】台東富岡漁港~出發前往綠
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+155,引文格式1維護:未識別語文類型(link),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+引文格式1維護:未識別語文類型(link)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 引文
+156,".」弘暉拉了拉她的衣角,「我剛剛...","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+.」弘暉拉了拉她的衣角,「我剛剛...
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+157,"新竹主題樂園,金杯咖啡,三峽素食餐廳,平價火鍋,墾丁素食餐廳,高雄咖啡店,關東火鍋王,高雄人道素食,","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+新竹主題樂園,金杯咖啡,三峽素食餐廳,平價火鍋,墾丁素食餐廳,高雄咖啡店,關東火鍋王,高雄人道素食,
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 金杯
+COMP: 咖啡店"
+158,"我已請朋友取消他電腦裡的授權,但我還是無法同步app到iphone。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+我已請朋友取消他電腦裡的授權,但我還是無法同步app到iphone。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+159,"鵝考2013年全力打造的新作,有點熱血,有點曖昧,還有點搞笑,敬請大家欣賞!","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+鵝考2013年全力打造的新作,有點熱血,有點曖昧,還有點搞笑,敬請大家欣賞!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 有點
+COMP: 有點"
+160,”【注釋】貳:,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+”【注釋】貳:
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 注釋】
+161,《孟子·離婁下》,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+《孟子·離婁下》
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+162,忠誠—安全審查[編輯],"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+忠誠—安全審查[編輯]
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 忠誠—
+COMP: 編輯]"
+163,7人推薦“好極了!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+7人推薦“好極了!
+assistant
+<think>
+
+</think>
+
+COMP: 7人推薦“好極了",COMP: 7人推薦“好極了,No compound found.
+164,"初考雖然專業科目只考2科,且主要考選擇題,但有專門的題庫,若不讀相關的應考書籍,不練習題目,學有專精的博士照樣會落榜.","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+初考雖然專業科目只考2科,且主要考選擇題,但有專門的題庫,若不讀相關的應考書籍,不練習題目,學有專精的博士照樣會落榜.
+assistant
+<think>
+
+</think>
+
+COMP: 初考雖然專業科目只考2科",COMP: 初考雖然專業科目只考2科,COMP: 書籍
+165,財政部前部長邱正雄,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+財政部前部長邱正雄
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 財政部
+166,"3.5星,滿分5星,12則評論最新評論2016二月27","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+3.5星,滿分5星,12則評論最新評論2016二月27
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+167,收藏食譜(309),"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+收藏食譜(309)
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+168,哇~~明天就衝文具店!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+哇~~明天就衝文具店!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 文具店!
+169,本網站未提供換貨服務。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+本網站未提供換貨服務。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 換貨
+170,胡志明市飯店優惠,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+胡志明市飯店優惠
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 志明市
+COMP: 飯店"
+171,Camry專區子版塊:CH保養維修紀錄,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Camry專區子版塊:CH保養維修紀錄
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+172,"莧菜草菇豬潤瘦肉湯茄汁豆煮魚柳,翠玉瓜炒牛肉,海...","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+莧菜草菇豬潤瘦肉湯茄汁豆煮魚柳,翠玉瓜炒牛肉,海...
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 莧菜
+COMP: 草菇
+COMP: 茄汁豆煮魚柳"
+173,THEFACESHOP菲詩小舖,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+THEFACESHOP菲詩小舖
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: SHOP菲詩
+174,"港鐵銅鑼灣站E出口,步行約3分鐘","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+港鐵銅鑼灣站E出口,步行約3分鐘
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 銅鑼灣站
+175,世上沒有白癡的午餐,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+世上沒有白癡的午餐
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 白癡的午餐
+176,姐係放棄烈焰學大地呀?,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+姐係放棄烈焰學大地呀?
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 焰學
+177,在1961年的時候，港府中出任高級職務的華人為數約730人，在翌年1962年，柏立基又批准90名在本地招聘的華裔公務員前往海外深造，讓他們作好準備勝任更高級的職務。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+在1961年的時候，港府中出任高級職務的華人為數約730人，在翌年1962年，柏立基又批准90名在本地招聘的華裔公務員前往海外深造，讓他們作好準備勝任更高級的職務。
+assistant
+<think>
+
+</think>
+
+COMP: 高級職務",COMP: 高級職務,"COMP: 華人
+COMP: 華裔
+COMP: 公務員"
+178,根據和平協議，西班牙將自己的殖民地波多黎各、關島以及菲律賓割讓給了美國。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+根據和平協議，西班牙將自己的殖民地波多黎各、關島以及菲律賓割讓給了美國。
+assistant
+<think>
+
+</think>
+
+COMP:根據和平協議，西班牙將自己的殖民地波多黎各、關島以及菲律賓割讓給了美國。",COMP:根據和平協議，西班牙將自己的殖民地波多黎各、關島以及菲律賓割讓給了美國。,COMP: 和平協議
+179,"追捕犯人途中因不慎打傷了前輩,被”流放”到失物招領中心。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+追捕犯人途中因不慎打傷了前輩,被”流放”到失物招領中心。
+assistant
+<think>
+
+</think>
+
+COMP: 前輩",COMP: 前輩,No compound found.
+180,位於梭羅北部14公里的Adisumarmo國際機場有直接飛往吉隆坡，新加坡，並在朝覲季節，沙烏地阿拉伯，以及定期航班至雅加達。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+位於梭羅北部14公里的Adisumarmo國際機場有直接飛往吉隆坡，新加坡，並在朝覲季節，沙烏地阿拉伯，以及定期航班至雅加達。
+assistant
+<think>
+
+</think>
+
+COMP: 位於梭羅北部14公里的Adisumarmo國際機場有直接飛往吉隆坡
+COMP: 新加坡
+COMP: 朝覬","COMP: 位於梭羅北部14公里的Adisumarmo國際機場有直接飛往吉隆坡
+COMP: 新加坡
+COMP: 朝覬",No compound found.
+181,UnitedNationsDevelopmentProgramme.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+UnitedNationsDevelopmentProgramme.
+assistant
+<think>
+
+</think>
+
+COMP: UnitedNationsDevelopmentProgramme",COMP: UnitedNationsDevelopmentProgramme,No compound found.
+182,顯示價格LykiaWorld&LinksGolfAntalya,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+顯示價格LykiaWorld&LinksGolfAntalya
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+183,它還與五氧化二氮催化臭氧分解的反應有關，這對臭氧層會造成破壞，因此引起了人們的興趣。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+它還與五氧化二氮催化臭氧分解的反應有關，這對臭氧層會造成破壞，因此引起了人們的興趣。
+assistant
+<think>
+
+</think>
+
+COMP: 會造成破壞",COMP: 會造成破壞,COMP: 臭氧層
+184,票據所具有的法律效力是為了保證行使連帶權利的必然結果。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+票據所具有的法律效力是為了保證行使連帶權利的必然結果。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+185,"1896年,皮錫瑞《經學歷史》出版,其中的歷史二字,也明確將它定位為歷史事件之意皮錫瑞《經學歷史》:「古來國運有盛衰,經學亦有盛衰;國統有分合,經學亦有分合。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+1896年,皮錫瑞《經學歷史》出版,其中的歷史二字,也明確將它定位為歷史事件之意皮錫瑞《經學歷史》:「古來國運有盛衰,經學亦有盛衰;國統有分合,經學亦有分合。
+assistant
+<think>
+
+</think>
+
+COMP: 1896年,皮錫瑞《經學歷史》出版","COMP: 1896年,皮錫瑞《經學歷史》出版",COMP: 國統
+186,變調夾最初的用途是調整吉他的音調，使其與演唱者的嗓音相協調。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+變調夾最初的用途是調整吉他的音調，使其與演唱者的嗓音相協調。
+assistant
+<think>
+
+</think>
+
+COMP: 參與",COMP: 參與,"COMP: 變調夾
+COMP: 演唱者"
+187,"「面」意義爲「臉」、「外表」,「麪」爲小麥磨成的粉。","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+「面」意義爲「臉」、「外表」,「麪」爲小麥磨成的粉。
+assistant
+<think>
+
+</think>
+
+COMP: 麺粉",COMP: 麺粉,No compound found.
+188,BabyFish微電腦控制定時定量滴定機dosingpump$6000,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+BabyFish微電腦控制定時定量滴定機dosingpump$6000
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 滴定機
+189,刀劍神域ProgressLink,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+刀劍神域ProgressLink
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 刀劍
+190,"現在抗漲當道,超划算的熱炒,讓店裡從中午到凌晨五","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+現在抗漲當道,超划算的熱炒,讓店裡從中午到凌晨五
+assistant
+<think>
+
+</think>
+
+COMP: 現在抗漲當道",COMP: 現在抗漲當道,No compound found.
+191,"3.0星,滿分5星,3則評論最新評論2016四月14","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+3.0星,滿分5星,3則評論最新評論2016四月14
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+192,此物業的以下所選日期在TripAdvisor上沒有可供預訂的客房:-。,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+此物業的以下所選日期在TripAdvisor上沒有可供預訂的客房:-。
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+193,查看最受歡迎的9處景點大使館/領事館,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+查看最受歡迎的9處景點大使館/領事館
+assistant
+<think>
+
+</think>
+
+COMP: 查看最受歡迎的9處景點大使館/領事館",COMP: 查看最受歡迎的9處景點大使館/領事館,COMP: 領事館
+194,學校旁有『雞』場!,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+學校旁有『雞』場!
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+195,"」、「我覺得不好意思,聲浪太大了,我聽不清楚別人的說話!」","user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+」、「我覺得不好意思,聲浪太大了,我聽不清楚別人的說話!」
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+196,回憶編[編輯],"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+回憶編[編輯]
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: 回憶編
+COMP: 編輯]"
+197,进化计算,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+进化计算
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 进化
+198,隱私權宣告/資訊安全宣告Copyright©2007EPAPER@MOEALLrightsreserved.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+隱私權宣告/資訊安全宣告Copyright©2007EPAPER@MOEALLrightsreserved.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+199,趕快打電話去訂位吧.,"user
+/no_think Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+趕快打電話去訂位吧.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
