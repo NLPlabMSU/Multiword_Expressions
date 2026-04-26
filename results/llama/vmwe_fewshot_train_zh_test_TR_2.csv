@@ -1,0 +1,5598 @@
+,sentence,full_output,output,label
+0,Hangi yazı mı .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hangi yazı mı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+1,Başarısızlıkta ilk fatura bana çıkarılmıştır .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Başarısızlıkta ilk fatura bana çıkarılmıştır.assistant
+
+No MWE found.",No MWE found.,VID: fatura çıkarılmıştır
+2,Ama bu arada İstanbul'da iki bin lira daha ucuz ekmek almak için erken saatlerde kalkıp uzun kuyruklar oluşturan insanlarımız da artıyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ama bu arada İstanbul'da iki bin lira daha ucuz ekmek almak için erken saatlerde kalkıp uzun kuyruklar oluşturan insanlarımız da artıyor.assistant
+
+MVC: oluşturmak
+MVC: oluşturmak","MVC: oluşturmak
+MVC: oluşturmak",No MWE found.
+3,"Bakanlıklar , "" hiçbir yetkiyi devredemeyiz ."" diye cevap verdi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bakanlıklar, "" hiçbir yetkiyi devredemeyiz."" diye cevap verdi.assistant
+
+MVC: devredemeyiz",MVC: devredemeyiz,LVC.full: cevap verdi
+4,"Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı.assistant
+
+VPC.semi: kullandı",VPC.semi: kullandı,LVC.full: şikayet ettiğimiz
+5,Kişisellik ve kişilik ön plana çıkarılmak isteniyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kişisellik ve kişilik ön plana çıkarılmak isteniyor.assistant
+
+No MWE found.",No MWE found.,VID: ön plana çıkarılmak
+6,"Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular , kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular, kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler.assistant
+
+MVC: getirdi
+MVC: getirmek
+VPC.semi: dile","MVC: getirdi
+MVC: getirmek
+VPC.semi: dile",VID: dile getiren
+7,Biz tüm oyuncularımızı göndermeye hazırız .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Biz tüm oyuncularımızı göndermeye hazırız.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+8,"Bana kalırsa , Türkiye'ye lazım olan , 200 fabrikadır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bana kalırsa, Türkiye'ye lazım olan, 200 fabrikadır.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+9,Bu görevi yerine getirmek için ilk adım atılmıştır .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu görevi yerine getirmek için ilk adım atılmıştır.assistant
+
+MVC: yerinegetirme",MVC: yerinegetirme,"VID: yerine getirmek
+VID: adım atılmıştır"
+10,"İngilterenin başkenti Londra'da toplanan onbinlerce kişi , "" yaşam biçimlerini tehdit ettiğini söyledikleri hükümet politikalarını "" eleştirmek amacıyla bir gösteri yürüyüşü düzenlediler .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İngilterenin başkenti Londra'da toplanan onbinlerce kişi, "" yaşam biçimlerini tehdit ettiğini söyledikleri hükümet politikalarını "" eleştirmek amacıyla bir gösteri yürüyüşü düzenlediler.assistant
+
+MVC: düzenlemek
+MVC: düzenlemek","MVC: düzenlemek
+MVC: düzenlemek",LVC.full: tehdit ettiğini
+11,Şeref OĞUZ .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Şeref OĞUZ.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+12,"C örgütü üyesi Mustafa Duyar'la birlikte , kuryelikle suçlanan Avukat Metin Narin ve suikastçileri evinde sakladığı gerekçesiyle Melek Akkaya , İstanbul DGM'ye sevkedildi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+C örgütü üyesi Mustafa Duyar'la birlikte, kuryelikle suçlanan Avukat Metin Narin ve suikastçileri evinde sakladığı gerekçesiyle Melek Akkaya, İstanbul DGM'ye sevkedildi.assistant
+
+MVC: sevkedildi",MVC: sevkedildi,No MWE found.
+13,"Sanki , "" bizim demokrasimiz olmasa , onların söz hakkı olurmuş gibi ."" Demokrasiyi kabul etmediklerine göre , onların aklındaki aklında ki rejim , "" şeriat düzeni ."" Kimseye özgürlük tanımayan , İslami diktatörlük asıl amaç .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sanki, "" bizim demokrasimiz olmasa, onların söz hakkı olurmuş gibi."" Demokrasiyi kabul etmediklerine göre, onların aklındaki aklında ki rejim, "" şeriat düzeni."" Kimseye özgürlük tanımayan, İslami diktatörlük asıl amaç.assistant
+
+MVC: kabul etmediklerine
+MVC: tanıyan","MVC: kabul etmediklerine
+MVC: tanıyan","LVC.full: söz hakkı olurmuş
+LVC.full: kabul etmediklerine"
+14,"Mükerrem Taşçıoğlu'nun Çalışma ve Sosyal Güvenlik Bakanlığı sırasında 1986'da "" çok hayırlı hayır lı kanun "" diye nitelenerek çıkarılan bir kanunla oluşturulan ve Emlakbank'ta toplanan "" Konut Edindirme Fonu'nda biriken paraların hangi amaçla kullanıldığı belli değil .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Mükerrem Taşçıoğlu'nun Çalışma ve Sosyal Güvenlik Bakanlığı sırasında 1986'da "" çok hayırlı hayır lı kanun "" diye nitelenerek çıkarılan bir kanunla oluşturulan ve Emlakbank'ta toplanan "" Konut Edindirme Fonu'nda biriken paraların hangi amaçla kullanıldığı belli değil.assistant
+
+MVC: çıkarılan",MVC: çıkarılan,No MWE found.
+15,Abas Güçlü .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Abas Güçlü.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+16,Biz devletimizi istiyoruz .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Biz devletimizi istiyoruz.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+17,"Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak , verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak, verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar.assistant
+
+MVC: yükümlü olmak
+MVC: tahsil etmek
+MVC: almak","MVC: yükümlü olmak
+MVC: tahsil etmek
+MVC: almak","LVC.full: tahsil etmek
+VID: görüşünü alarak"
+18,"İkincisi , sağduyuya sahip .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İkincisi, sağduyuya sahip.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+19,Yapay bir pankreas kullanılmaya hazır olacak .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yapay bir pankreas kullanılmaya hazır olacak.assistant
+
+No MWE found.",No MWE found.,LVC.full: hazır olacak
+20,1992 - 93 yılında Talim Terbiye'de çalıştım .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+1992 - 93 yılında Talim Terbiye'de çalıştım.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+21,"Ufuklar simsiyah , yollar karışık .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ufuklar simsiyah, yollar karışık.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+22,"Cevheri , gazetecilerin "" yeni bir ortaklık "" konusunun gündeme gelip gelmediği sorularına "" Ortaklıkla alakası yok .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Cevheri, gazetecilerin "" yeni bir ortaklık "" konusunun gündeme gelip gelmediği sorularına "" Ortaklıkla alakası yok.assistant
+
+MVC: gelip",MVC: gelip,No MWE found.
+23,Hamallık yapacaksın .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hamallık yapacaksın.assistant
+
+VPC.semi: yapacaksın",VPC.semi: yapacaksın,No MWE found.
+24,"Halit , dava sırasında yoruldu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Halit, dava sırasında yoruldu.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+25,Evlilik kurumuna nasıl bir eleştiri getiriyorsunuz .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Evlilik kurumuna nasıl bir eleştiri getiriyorsunuz.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+26,"Ağaç kökleriyle kaplanmış , yıkılmak üzere olan duvarlar sağlama alındı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ağaç kökleriyle kaplanmış, yıkılmak üzere olan duvarlar sağlama alındı.assistant
+
+MVC: kaplanmış
+MVC: yıkılmak","MVC: kaplanmış
+MVC: yıkılmak",VID: sağlama alındı
+27,MARAŞ AÇILACAK .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+MARAŞ AÇILACAK.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+28,"RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner , ne bu terör biter ."" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner, ne bu terör biter."".assistant
+
+MVC: duyulmadıkça",MVC: duyulmadıkça,No MWE found.
+29,"Yalnızca , .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yalnızca,.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+30,"Beder gibi meşhur olamazsın "" diyerek tehditler savurdu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Beder gibi meşhur olamazsın "" diyerek tehditler savurdu.assistant
+
+MVC: savurdu",MVC: savurdu,"LVC.full: meşhur olamazsın
+VID: tehditler savurdu"
+31,Bana çok destek oluyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bana çok destek oluyor.assistant
+
+No MWE found.",No MWE found.,LVC.full: destek oluyor
+32,"Tuğgeneral Günel , Rumlar'ın tarihi bir hesap hatası içinde olduklarını belirterek , "" Umut ederiz ki bu kez vakit geç olmadan hatalarını anlarlar ve vazgeçerler "" diye konuştu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Tuğgeneral Günel, Rumlar'ın tarihi bir hesap hatası içinde olduklarını belirterek, "" Umut ederiz ki bu kez vakit geç olmadan hatalarını anlarlar ve vazgeçerler "" diye konuştu.assistant
+
+MVC: belirterek
+MVC: anlarlar
+MVC: vazgeçerler","MVC: belirterek
+MVC: anlarlar
+MVC: vazgeçerler",No MWE found.
+33,"Bu kişilerden , hangi anlayışı yaşama aktarmak için destek ve gayret talep ediyorsunuz ."" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu kişilerden, hangi anlayışı yaşama aktarmak için destek ve gayret talep ediyorsunuz."".assistant
+
+No MWE found.",No MWE found.,LVC.full: talep ediyorsunuz
+34,"Daily Telegraph'ın "" İngilizler AB'ye sırtını dönüyor "" başlıklı başlık lı haberi , Avrupa ülkelerinin , AB ve ortak para birimine bakışlarının farklı olduğunu ortaya koyuyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Daily Telegraph'ın "" İngilizler AB'ye sırtını dönüyor "" başlıklı başlık lı haberi, Avrupa ülkelerinin, AB ve ortak para birimine bakışlarının farklı olduğunu ortaya koyuyor.assistant
+
+MVC: koyuyor",MVC: koyuyor,VID: ortaya koyuyor
+35,"Edinilen bilgiye göre , Özkök'ün lüks döşenmiş , sekreterli bir bürosu olduğunu , şoförü ve korumaları bulunduğunu öne süren Duyar , ifadesini şöyle sürdürdü : "" Giderek örgüt beni kaderimle başbaşa bıraktı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Edinilen bilgiye göre, Özkök'ün lüks döşenmiş, sekreterli bir bürosu olduğunu, şoförü ve korumaları bulunduğunu öne süren Duyar, ifadesini şöyle sürdürdü : "" Giderek örgüt beni kaderimle başbaşa bıraktı.assistant
+
+MVC: bıraktı",MVC: bıraktı,VID: öne süren
+36,"Avrupa Ritmik Cimnastik Şampiyonası 22 - 25 Mayıs , Yunanistan ( Patras ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Avrupa Ritmik Cimnastik Şampiyonası 22 - 25 Mayıs, Yunanistan ( Patras ).assistant
+
+No MWE found.",No MWE found.,No MWE found.
+37,"Anlayış , adaletin gereği ; hoşgörü de bir parçasıdır parçası dır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Anlayış, adaletin gereği ; hoşgörü de bir parçasıdır parçası dır.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+38,Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+39,"O meslek kendi içindeki içinde ki yasa dışı davranışları temizleyerek , suçluları mahkeme önüne çıkartarak kendini temizler .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+O meslek kendi içindeki içinde ki yasa dışı davranışları temizleyerek, suçluları mahkeme önüne çıkartarak kendini temizler.assistant
+
+MVC: temizleyerek",MVC: temizleyerek,VID: mahkeme önüne çıkartarak
+40,"İyi ki , bir kamyon Mercedes'e çarptı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İyi ki, bir kamyon Mercedes'e çarptı.assistant
+
+MVC: çarptı",MVC: çarptı,No MWE found.
+41,"Şimdi Rum Yönetimi'nin hedefi , Washington'ın tepki ve baskılarını bertaraf etmek "" ifadesine yer veriyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Şimdi Rum Yönetimi'nin hedefi, Washington'ın tepki ve baskılarını bertaraf etmek "" ifadesine yer veriyor.assistant
+
+MVC: yer veriyor",MVC: yer veriyor,"LVC.full: bertaraf etmek
+VID: yer veriyor"
+42,"Fadime işte , iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Fadime işte, iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi.assistant
+
+MVC: karşı karşıya getirdi",MVC: karşı karşıya getirdi,VID: karşı karşıya getirdi
+43,"Türkiye'de dini faaliyetlerin eskiden beri soruşturma konusu edildiğini ve kendisinin de bu kapsamda sıkça kovuşturmaya uğradığını , takip ve tehdit edildiğini kaydeden Gülen bazı çevrelerin "" Bunlar çok büyüyorlar , haklarından gelmek lazım "" diye düşündüklerini , hatta "" Ah bir sokağa çıksalar , onlara gösteririz "" denildiğini savundu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Türkiye'de dini faaliyetlerin eskiden beri soruşturma konusu edildiğini ve kendisinin de bu kapsamda sıkça kovuşturmaya uğradığını, takip ve tehdit edildiğini kaydeden Gülen bazı çevrelerin "" Bunlar çok büyüyorlar, haklarından gelmek lazım "" diye düşündüklerini, hatta "" Ah bir sokağa çıksalar, onlara gösteririz "" denildiğini savundu.assistant
+
+MVC: düşündük
+MVC: gelmek
+MVC: göster","MVC: düşündük
+MVC: gelmek
+MVC: göster","LVC.full: takip edildiğini
+LVC.full: tehdit edildiğini
+VID: haklarından gelmek"
+44,KONSER .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+KONSER.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+45,"Lice'nin kapılarını aralamaya devam edeceğiz "" dedi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Lice'nin kapılarını aralamaya devam edeceğiz "" dedi.assistant
+
+MVC: devam edeceğiz",MVC: devam edeceğiz,"VID: kapılarını aralamaya
+LVC.full: devam edeceğiz"
+46,F - 4 savaş uçakları .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+F - 4 savaş uçakları.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+47,"Bu kadar fahiş fark olmaz , "" dedi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu kadar fahiş fark olmaz, "" dedi.assistant
+
+MVC: fahiş-olmaz",MVC: fahiş-olmaz,LVC.full: fark olmaz
+48,"KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi , Türkiye'nin Montrö Sözleşmesi uyarınca , füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi, Türkiye'nin Montrö Sözleşmesi uyarınca, füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi.assistant
+
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi","MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi","LVC.full: karar vermesiyle
+VID: ortaya çıkan
+VID: gündeme getirdi"
+49,"Ancak o günlerde el değiştirmelerle ilgili bir şart bulunmadığı için Topal , rahatlıkla aracı kurum sahibi oldu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ancak o günlerde el değiştirmelerle ilgili bir şart bulunmadığı için Topal, rahatlıkla aracı kurum sahibi oldu.assistant
+
+MVC: el değiştirmeler",MVC: el değiştirmeler,LVC.full: sahibi oldu
+50,"İcraattan çok , laf üreten politikacılar , niye baştacı edilip , bakanlık koltuğuna oturtuluyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İcraattan çok, laf üreten politikacılar, niye baştacı edilip, bakanlık koltuğuna oturtuluyor.assistant
+
+MVC: oturtuluyor",MVC: oturtuluyor,VID: laf üreten
+51,Ödül kazanan bütün yazarlara ayrıca Çınar Yayınları tarafından Rıfat Ilgaz'ın bütün eserlerinden oluşan birer set armağan edilecek .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ödül kazanan bütün yazarlara ayrıca Çınar Yayınları tarafından Rıfat Ilgaz'ın bütün eserlerinden oluşan birer set armağan edilecek.assistant
+
+No MWE found.",No MWE found.,LVC.full: armağan edilecek
+52,"Ankara'daki Ankara'da ki 550 milletvekili , bizleri ne kadar temsil ediyor sorusunun cevabını arıyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ankara'daki Ankara'da ki 550 milletvekili, bizleri ne kadar temsil ediyor sorusunun cevabını arıyor.assistant
+
+MVC: temsil ediyor",MVC: temsil ediyor,LVC.full: temsil ediyor
+53,Otomotiv sanayicileri AB'nin Gümrük Birliği mevzuatı çerçevesinde bedelsiz otomobil ithalatı uygulamasının bitmesine izin vermeyeceğinden endişeleniyorlar .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Otomotiv sanayicileri AB'nin Gümrük Birliği mevzuatı çerçevesinde bedelsiz otomobil ithalatı uygulamasının bitmesine izin vermeyeceğinden endişeleniyorlar.assistant
+
+MVC: vermeyeceğinden",MVC: vermeyeceğinden,LVC.full: izin vermeyeceğinden
+54,Paul Kennedy : .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Paul Kennedy :.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+55,Herkes istediği doktoru seçebilecek .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Herkes istediği doktoru seçebilecek.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+56,""" Hakim olan eşimle geçen eylülde atamamızın yapılmasını bekliyorduk , ama olmadı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+"" Hakim olan eşimle geçen eylülde atamamızın yapılmasını bekliyorduk, ama olmadı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+57,Düşman kurşununa göğsünü gerdi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Düşman kurşununa göğsünü gerdi.assistant
+
+VPC.semi: göğsünügerdi",VPC.semi: göğsünügerdi,VID: göğsünü gerdi
+58,"B . Hakan , bu olayın peşini bırakmayacağını da ekledi , "" Avukatlarım , İstanbul'da gerekli çalışmaları yapıyor ve delilleri topluyorlar .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+B. Hakan, bu olayın peşini bırakmayacağını da ekledi, "" Avukatlarım, İstanbul'da gerekli çalışmaları yapıyor ve delilleri topluyorlar.assistant
+
+MVC: bırakmayacağını
+MVC: ekledi","MVC: bırakmayacağını
+MVC: ekledi","LVC.full: çalışmaları yapıyor
+VID: delilleri topluyorlar"
+59,Türkçe'nin doğru kullanılması için hazırlatılan yasa tasarısında Türk Dil kurallarına uymayan 100'ü aşkın kelime tespit edildi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Türkçe'nin doğru kullanılması için hazırlatılan yasa tasarısında Türk Dil kurallarına uymayan 100'ü aşkın kelime tespit edildi.assistant
+
+MVC: tespit edildi",MVC: tespit edildi,LVC.full: tespit edildi
+60,"Özel eğitimli eğitim li bir astsubayın ekip komutanlığını yaptığı tim , sabah erken saatlerde kısa bir keşif yaptıktan sonra kayak pistlerini gözetim altında tutuyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Özel eğitimli eğitim li bir astsubayın ekip komutanlığını yaptığı tim, sabah erken saatlerde kısa bir keşif yaptıktan sonra kayak pistlerini gözetim altında tutuyor.assistant
+
+MVC: gözetim altında
+MVC: tutuyor","MVC: gözetim altında
+MVC: tutuyor",VID: gözetim altında tutuyor
+61,"TÜRK Silahlı Silah lı Kuvvetleri'ne ( KSK ) yapılan ek zammın ardından , emniyet mensuplarına da ek zammın gündeme gelmesi emeklileri harekete geçirdi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+TÜRK Silahlı Silah lı Kuvvetleri'ne ( KSK ) yapılan ek zammın ardından, emniyet mensuplarına da ek zammın gündeme gelmesi emeklileri harekete geçirdi.assistant
+
+MVC: gelmesi
+MVC: geçirdi","MVC: gelmesi
+MVC: geçirdi",VID: harekete geçirdi
+62,"Toplumun kendini koruması , suçlunun ıslahı ve caydırıcılık .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Toplumun kendini koruması, suçlunun ıslahı ve caydırıcılık.assistant
+
+MVC: koruması
+MVC: koruması","MVC: koruması
+MVC: koruması",No MWE found.
+63,Sanık kendiliğinden teslim oldu .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sanık kendiliğinden teslim oldu.assistant
+
+VPC.semi: teslim oldu",VPC.semi: teslim oldu,LVC.full: teslim oldu
+64,Ve artık amaca yönelik adımların atılması gerektiğini düşünüyorlar .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ve artık amaca yönelik adımların atılması gerektiğini düşünüyorlar.assistant
+
+No MWE found.",No MWE found.,VID: adımların atılması
+65,"Altı aylık yoğun ve samimi çalışma neticesinde ülkede istikrarı sağlamıştır ."" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Altı aylık yoğun ve samimi çalışma neticesinde ülkede istikrarı sağlamıştır."".assistant
+
+No MWE found.",No MWE found.,No MWE found.
+66,Erbakan'dan rica ediyoruz : Bakanlar Kurulu'nu lütfen bir kez de Muş'ta toplayınız .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Erbakan'dan rica ediyoruz : Bakanlar Kurulu'nu lütfen bir kez de Muş'ta toplayınız.assistant
+
+MVC: lütfen",MVC: lütfen,LVC.full: rica ediyoruz
+67,Avustralya'ya göç veren ülkeler de olup bitenden rahatsız .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Avustralya'ya göç veren ülkeler de olup bitenden rahatsız.assistant
+
+No MWE found.",No MWE found.,VID: göç veren
+68,Demokratik rejim bundan tedirginlik duyuyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Demokratik rejim bundan tedirginlik duyuyor.assistant
+
+No MWE found.",No MWE found.,VID: tedirginlik duyuyor
+69,"Ama burada gözden kaçırılmaması gereken nokta ; bu tarihsel kişiliğin günümüze yansıyan modern ve olumlu bakışının , eleştirilebilecek yönlerine baskın çıkmasıdır çıkması dır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ama burada gözden kaçırılmaması gereken nokta ; bu tarihsel kişiliğin günümüze yansıyan modern ve olumlu bakışının, eleştirilebilecek yönlerine baskın çıkmasıdır çıkması dır.assistant
+
+MVC: çıkmasıdır",MVC: çıkmasıdır,"VID: gözden kaçırılmaması
+VID: baskın çıkması dır"
+70,"Bu nedenle , ilk ana başlığımız devlet reformudur reformu dur .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu nedenle, ilk ana başlığımız devlet reformudur reformu dur.assistant
+
+MVC: dur",MVC: dur,No MWE found.
+71,Hazine Müşteşarlığı'ndan gelen belge ise bu transferin 425 bin dolarlık dolar lık bölümünü doğrularken Maliye Bakanlığı Gelirler Genel Müdürlüğü ellerinde bu yönde hiç bir belge olmadığını bildirince Demirbank aracılığıyla yapılan transfer konusu da iyice kuşkulu bir hal aldı .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hazine Müşteşarlığı'ndan gelen belge ise bu transferin 425 bin dolarlık dolar lık bölümünü doğrularken Maliye Bakanlığı Gelirler Genel Müdürlüğü ellerinde bu yönde hiç bir belge olmadığını bildirince Demirbank aracılığıyla yapılan transfer konusu da iyice kuşkulu bir hal aldı.assistant
+
+MVC: doğrulandı
+MVC: bildirildi","MVC: doğrulandı
+MVC: bildirildi",VID: bir hal aldı
+72,"Hem Waşhington , hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hem Waşhington, hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+73,"İbrahim Tatlıses'in dediği gibi "" ben de isterem "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İbrahim Tatlıses'in dediği gibi "" ben de isterem "".assistant
+
+No MWE found.",No MWE found.,No MWE found.
+74,Gül : Herşeye ikna olup imza atıyoruz .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Gül : Herşeye ikna olup imza atıyoruz.assistant
+
+No MWE found.",No MWE found.,VID: imza atıyoruz
+75,İzmir Devlet Opera ve Balesi Yeni Yıl konserleri bu akşam ve 7 Ocak saat 20.00'de izlenebilir .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İzmir Devlet Opera ve Balesi Yeni Yıl konserleri bu akşam ve 7 Ocak saat 20.00'de izlenebilir.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+76,"( Sanki "" Ulus "" kavramı yok edilmeden , "" ulus "" sözcüğü yok edilebilirmiş gibi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+( Sanki "" Ulus "" kavramı yok edilmeden, "" ulus "" sözcüğü yok edilebilirmiş gibi.assistant
+
+MVC: yok etmek",MVC: yok etmek,LVC.full: yok edilmeden
+77,"TARAFLAR arasında tartışma konusu olan Batı Şeria'nın El Halil kentindeki kentinde ki bir pazar yerinde , yılbaşının ertesinde bir İsrail askerinin otomatik tüfekle Filistinli kalabalığın üzerine ateş açması , 2'si ağır 7 kişinin yaralanmasına neden olurken , bölgede yeni bir gerginlik yarattı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+TARAFLAR arasında tartışma konusu olan Batı Şeria'nın El Halil kentindeki kentinde ki bir pazar yerinde, yılbaşının ertesinde bir İsrail askerinin otomatik tüfekle Filistinli kalabalığın üzerine ateş açması, 2'si ağır 7 kişinin yaralanmasına neden olurken, bölgede yeni bir gerginlik yarattı.assistant
+
+MVC: açar
+MVC: nedenler
+VID: gerginlik","MVC: açar
+MVC: nedenler
+VID: gerginlik","VID: ateş açması
+LVC.full: neden olurken"
+78,"Doğduğumuz ve büyüdüğümüz yerler , silüetini artık tam çizemediğimiz hoş fakat iyice uzak bir anı gibi kalacak .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Doğduğumuz ve büyüdüğümüz yerler, silüetini artık tam çizemediğimiz hoş fakat iyice uzak bir anı gibi kalacak.assistant
+
+MVC: büyüdüğümüz
+MVC: büyüdüğümüz
+MVC: büyüdüğümüz","MVC: büyüdüğümüz
+MVC: büyüdüğümüz
+MVC: büyüdüğümüz",No MWE found.
+79,Tüketici itiraz etti .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Tüketici itiraz etti.assistant
+
+No MWE found.",No MWE found.,LVC.full: itiraz etti
+80,"Cemiyet Başkanı Bülent Ayan , medyanın yoğun şekilde üzerinde durduğu` temiz toplum ' mücadelesinin gündemde kalması için , bu sene plaket yerine süpürge armağan ettiklerini söyledi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Cemiyet Başkanı Bülent Ayan, medyanın yoğun şekilde üzerinde durduğu` temiz toplum'mücadelesinin gündemde kalması için, bu sene plaket yerine süpürge armağan ettiklerini söyledi.assistant
+
+MVC: durmak
+MVC: durmak
+MVC: durmak","MVC: durmak
+MVC: durmak
+MVC: durmak","VID: gündemde kalması
+LVC.full: armağan ettiklerini"
+81,Kevser Hanım oğlu Yorgo'yu İstanbul'a İTÜ'ye mühendis olması için gönderir .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kevser Hanım oğlu Yorgo'yu İstanbul'a İTÜ'ye mühendis olması için gönderir.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+82,Yavuz Donat .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yavuz Donat.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+83,Duncan /,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Duncan /assistant
+
+No MWE found.",No MWE found.,No MWE found.
+84,"Ve Türkiye'nin kaderini böylece 500- 600 kişi tayin ediyor ki , Türk halkı bunların kim olduklarını bile bilmiyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ve Türkiye'nin kaderini böylece 500- 600 kişi tayin ediyor ki, Türk halkı bunların kim olduklarını bile bilmiyor.assistant
+
+MVC: tayin
+MVC: bil","MVC: tayin
+MVC: bil",LVC.full: tayin ediyor
+85,Bu genç kitle büyük bir potansiyel oluşturuyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu genç kitle büyük bir potansiyel oluşturuyor.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+86,"ABD temsilcisi Ada ve Atina'daki Atina'da ki temaslarının ardından , Ankara'da görüşmelerde bulunacak .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+ABD temsilcisi Ada ve Atina'daki Atina'da ki temaslarının ardından, Ankara'da görüşmelerde bulunacak.assistant
+
+MVC: bulunacak",MVC: bulunacak,No MWE found.
+87,"Çiller'e yakın isimlerden Devlet Bakanı Nevzat Ercan , ortaklar arasındaki arasında ki sıkıntıyı , "" RP bizi istismar ediyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Çiller'e yakın isimlerden Devlet Bakanı Nevzat Ercan, ortaklar arasındaki arasında ki sıkıntıyı, "" RP bizi istismar ediyor.assistant
+
+MVC: istismar ediyor",MVC: istismar ediyor,LVC.full: istismar ediyor
+88,Sonunda da konuşmaya karar verdim .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sonunda da konuşmaya karar verdim.assistant
+
+No MWE found.",No MWE found.,LVC.full: karar verdim
+89,"Yarıyıl tatilinin son günleri Ramazan Bayramı'yla çakışınca , 15 günlük talil 2 4 güne çıkarıldı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yarıyıl tatilinin son günleri Ramazan Bayramı'yla çakışınca, 15 günlük talil 2 4 güne çıkarıldı.assistant
+
+MVC: çıkarıldı",MVC: çıkarıldı,No MWE found.
+90,Yeterince rezil olduk .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yeterince rezil olduk.assistant
+
+No MWE found.",No MWE found.,LVC.full: rezil olduk
+91,Tabii önce muhalefette söylediklerimizi tam yapabilmemiz için RP'nin tek başına hükümet olması gerekir .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Tabii önce muhalefette söylediklerimizi tam yapabilmemiz için RP'nin tek başına hükümet olması gerekir.assistant
+
+MVC: yapabilmemiz
+MVC: yapabilmemiz","MVC: yapabilmemiz
+MVC: yapabilmemiz",No MWE found.
+92,"Şartımız , demokrasiye ilişkin yasal ve Anayasal rejim tamirlerinin hızla gerçekleşmesi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Şartımız, demokrasiye ilişkin yasal ve Anayasal rejim tamirlerinin hızla gerçekleşmesi.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+93,"HATIRLAYACAKSINIZ , vaktiyle bir "" ülke koşulları "" modası vardı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+HATIRLAYACAKSINIZ, vaktiyle bir "" ülke koşulları "" modası vardı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+94,"Bu süre içinde Alman , Amerikan , Japon , Fransız firmalarıyla çalışmalarımızdan şu tecrübeyi edindik ; .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu süre içinde Alman, Amerikan, Japon, Fransız firmalarıyla çalışmalarımızdan şu tecrübeyi edindik ;.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+95,Sayıları giderek artan felsefe meraklılarını bir üst başlıkla açıklamak mümkün değil .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sayıları giderek artan felsefe meraklılarını bir üst başlıkla açıklamak mümkün değil.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+96,"Korkum , Gümrük Birliği gibi paktlara katılma konusunda "" bitaraf "" kalma gayretiyle , "" bertaraf "" olmaktır olmak tır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Korkum, Gümrük Birliği gibi paktlara katılma konusunda "" bitaraf "" kalma gayretiyle, "" bertaraf "" olmaktır olmak tır.assistant
+
+MVC: kalma
+MVC: olmak","MVC: kalma
+MVC: olmak",No MWE found.
+97,Antalya - Burdur Karayolu'nda selden araçlar tarlalara sürüklendi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Antalya - Burdur Karayolu'nda selden araçlar tarlalara sürüklendi.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+98,Trabzon eve döndü .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Trabzon eve döndü.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+99,Sokaklarda rastladığım insanlarla konuşuyorum .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sokaklarda rastladığım insanlarla konuşuyorum.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+100,"AVNİ Akyol'la birlikte , kredili sistemin babası olan Prof .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+AVNİ Akyol'la birlikte, kredili sistemin babası olan Prof.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+101,"Musluk tamircisinde sertifika arayacaksınız , ama milyonların karşısında sorumlu bir görev yerine getirenlere hiçbir şey sormayacaksınız .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Musluk tamircisinde sertifika arayacaksınız, ama milyonların karşısında sorumlu bir görev yerine getirenlere hiçbir şey sormayacaksınız.assistant
+
+MVC: arayacaksınız
+MVC: sormayacaksınız","MVC: arayacaksınız
+MVC: sormayacaksınız",VID: yerine getirenlere
+102,"BOSNA - Hersek'te görev süresi sona eren NATO Barışı Uygulama Gücü'nün ( İFOR ) yerini alacak İstikrar Gücü'ne ( SFOR ) , Türkiye'nin bin 500 askerle katılacağı öğrenildi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+BOSNA - Hersek'te görev süresi sona eren NATO Barışı Uygulama Gücü'nün ( İFOR ) yerini alacak İstikrar Gücü'ne ( SFOR ), Türkiye'nin bin 500 askerle katılacağı öğrenildi.assistant
+
+MVC: öğrenildi",MVC: öğrenildi,"VID: sona eren
+VID: yerini alacak"
+103,Kızının başını açmasına izin vermiyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kızının başını açmasına izin vermiyor.assistant
+
+No MWE found.",No MWE found.,LVC.full: izin vermiyor
+104,Nahit Bey ( Menteşe ) o zaman Zincirbozan'daydı Zincirbozan'da ydı .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Nahit Bey ( Menteşe ) o zaman Zincirbozan'daydı Zincirbozan'da ydı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+105,İlhan Sanatevi'ndeki Sanatevi'nde ki karma resim sergisi 8 Ocak'ta sona erecek .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İlhan Sanatevi'ndeki Sanatevi'nde ki karma resim sergisi 8 Ocak'ta sona erecek.assistant
+
+No MWE found.",No MWE found.,VID: sona erecek
+106,İsrail'de enflasyonu düşürmenizin ve ekonominizi düzeltmenizin arkasındaki arkasında ki gerçek sır nedir ne dir .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İsrail'de enflasyonu düşürmenizin ve ekonominizi düzeltmenizin arkasındaki arkasında ki gerçek sır nedir ne dir.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+107,Bu illerdeki illerde ki oda başkanlarına erişmenin zorluğu da onların ortak bir özelliği olarak dikkat çekiyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu illerdeki illerde ki oda başkanlarına erişmenin zorluğu da onların ortak bir özelliği olarak dikkat çekiyor.assistant
+
+MVC: çekmek",MVC: çekmek,VID: dikkat çekiyor
+108,Talibin muhaliflerinin yaşadığı Takar'daki Takar'da ki sarsıntıdan sonra kurtarma ve enkaz kaldırma çalışmaları sürüyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Talibin muhaliflerinin yaşadığı Takar'daki Takar'da ki sarsıntıdan sonra kurtarma ve enkaz kaldırma çalışmaları sürüyor.assistant
+
+MVC: yaşadığı
+MVC: sürüyor","MVC: yaşadığı
+MVC: sürüyor",No MWE found.
+109,"Müzikten çok imajın önemli önem li olduğu ülkemizde , geçen yıl pop müzikte parlayanlar arasında Sibel Bilgiç , Ümit Sayın , Gülşen , Rengin , Gökhan Tepe , Gülay , GMG , Af ve Aykut - Hakan - Ayşe gibi isimler vardı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Müzikten çok imajın önemli önem li olduğu ülkemizde, geçen yıl pop müzikte parlayanlar arasında Sibel Bilgiç, Ümit Sayın, Gülşen, Rengin, Gökhan Tepe, Gülay, GMG, Af ve Aykut - Hakan - Ayşe gibi isimler vardı.assistant
+
+MVC: parlayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan","MVC: parlayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan
+LVC.full: oynayan",No MWE found.
+110,Şu sıralarda ise albümdeki albümde ki müzisyenlerle birlikte Ocak ayı boyunca her Çarşamba akşamı Eylül'de ( Arnavutköy ) çalıyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Şu sıralarda ise albümdeki albümde ki müzisyenlerle birlikte Ocak ayı boyunca her Çarşamba akşamı Eylül'de ( Arnavutköy ) çalıyor.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+111,"ALMANLAR , İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+ALMANLAR, İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor.assistant
+
+No MWE found.",No MWE found.,"LVC.full: işgal ettikleri
+VID: ayak basıyor"
+112,"Çünkü , açık bulunduğu sıralar , okulların tatil dönemine rastlamıştı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Çünkü, açık bulunduğu sıralar, okulların tatil dönemine rastlamıştı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+113,Satılması yasak .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Satılması yasak.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+114,Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor.assistant
+
+MVC: ihlal etmek",MVC: ihlal etmek,"VID: imza attığı
+LVC.full: ihlal ediliyor"
+115,"Ancak bugün sayıları 10 bini aşan matematikçi , araştırmacı ve öğrenci , harıl harıl "" Pi'nin esrarını çözmeye çalışıyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ancak bugün sayıları 10 bini aşan matematikçi, araştırmacı ve öğrenci, harıl harıl "" Pi'nin esrarını çözmeye çalışıyor.assistant
+
+MVC: çözmeye çalışıyor",MVC: çözmeye çalışıyor,No MWE found.
+116,"Bu bağlamda ancak memurların işleyebileceği bazı suçlar ( zimmet , ihtilas , irtikap , rüşvet ) için bu usül biraz yumuşatılmışsa da bu suçların failleri bakımından memurun derecesine göre yine , ya validen ya da bağlı olduğu bakandan izin almak gerekli görülmüştür .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu bağlamda ancak memurların işleyebileceği bazı suçlar ( zimmet, ihtilas, irtikap, rüşvet ) için bu usül biraz yumuşatılmışsa da bu suçların failleri bakımından memurun derecesine göre yine, ya validen ya da bağlı olduğu bakandan izin almak gerekli görülmüştür.assistant
+
+MVC: görülmüştür",MVC: görülmüştür,"VID: izin almak
+VID: gerekli görülmüştür"
+117,"Ankara'ya Çarşamba günü gelecek olan ABD'li ABD 'li diplomat , Dışişleri Bakanlığı Müşteraşarı Büyükelçi Onur Öymen ve Kıbrıs - Yunanistan ilişkilerinden sorumlu Müsteşar Yardımcısı Büyükelçi İnal Batu ile görüşecek .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ankara'ya Çarşamba günü gelecek olan ABD'li ABD 'li diplomat, Dışişleri Bakanlığı Müşteraşarı Büyükelçi Onur Öymen ve Kıbrıs - Yunanistan ilişkilerinden sorumlu Müsteşar Yardımcısı Büyükelçi İnal Batu ile görüşecek.assistant
+
+MVC: gelecek
+MVC: görüşecek","MVC: gelecek
+MVC: görüşecek",No MWE found.
+118,"Uzun , daha soru tamamlanmadan Erbakan'ın müjdesi için "" Tamamen hayal "" diyor ve ekliyor : - Sözü edilen su boru hattı değil ki , çeşmeyi açtığınızda vatandaş kullansın .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Uzun, daha soru tamamlanmadan Erbakan'ın müjdesi için "" Tamamen hayal "" diyor ve ekliyor : - Sözü edilen su boru hattı değil ki, çeşmeyi açtığınızda vatandaş kullansın.assistant
+
+MVC: açıklıyor",MVC: açıklıyor,LVC.full: Sözü edilen
+119,Yanıt şöyle : - O olay orada kaldı .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yanıt şöyle : - O olay orada kaldı.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+120,- Asıl gürültü bu noktada koptu .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+- Asıl gürültü bu noktada koptu.assistant
+
+No MWE found.",No MWE found.,VID: gürültü koptu
+121,Artık her şeyin açığa çıkmasını istiyoruz .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Artık her şeyin açığa çıkmasını istiyoruz.assistant
+
+No MWE found.",No MWE found.,VID: açığa çıkmasını
+122,Duruşma salonuna sarık ve cübbeleriyle gelen 121 Aczmendi'nin kılık ve kıyafeti konusunda görüş ayrılığına düşen heyet iki kez duruşmaya ara verdi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Duruşma salonuna sarık ve cübbeleriyle gelen 121 Aczmendi'nin kılık ve kıyafeti konusunda görüş ayrılığına düşen heyet iki kez duruşmaya ara verdi.assistant
+
+MVC: düşmek
+MVC: düşmek
+MVC: düşmek","MVC: düşmek
+MVC: düşmek
+MVC: düşmek","VID: görüş ayrılığına düşen
+LVC.full: ara verdi"
+123,"Çünkü , ABD , NATO çerçevesinde müttefiklerine sadece nükleer başlıklı başlık lı füzeler vermişti .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Çünkü, ABD, NATO çerçevesinde müttefiklerine sadece nükleer başlıklı başlık lı füzeler vermişti.assistant
+
+MVC: vermişti",MVC: vermişti,No MWE found.
+124,Ve hayretler içinde kaldı .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ve hayretler içinde kaldı.assistant
+
+No MWE found.",No MWE found.,VID: hayretler içinde kaldı
+125,"Hükümetimiz aynı zamanda , emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hükümetimiz aynı zamanda, emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır.assistant
+
+No MWE found.",No MWE found.,"LVC.full: sahip olmadığı
+LVC.full: sahip bulunmaktadır"
+126,"Yetkililer , operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yetkililer, operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi.assistant
+
+MVC: yoğunlaştırıldı",MVC: yoğunlaştırıldı,No MWE found.
+127,Lester Thurow'un Koç Unisys Yayınları tarafından Türkçeye kazandırılan son kitabı Kapitalizmin Geleceği'ni okurken okur ken bu sorular geliyor akla ve sanki biraz teselli kaynağı oluyor benim gibilere .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Lester Thurow'un Koç Unisys Yayınları tarafından Türkçeye kazandırılan son kitabı Kapitalizmin Geleceği'ni okurken okur ken bu sorular geliyor akla ve sanki biraz teselli kaynağı oluyor benim gibilere.assistant
+
+MVC: kazandırıyor
+MVC: geliyor","MVC: kazandırıyor
+MVC: geliyor","VID: geliyor akla
+VID: kaynağı oluyor"
+128,"Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor.assistant
+
+MVC: yaşam savaşı
+LVC.full: yaşam savaşı","MVC: yaşam savaşı
+LVC.full: yaşam savaşı",LVC.full: söz edilen
+129,SERGİ .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+SERGİ.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+130,"Ancak yasa hem geç kaldı , hem de yeterli değil .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ancak yasa hem geç kaldı, hem de yeterli değil.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+131,KOMİSYONUN çalışma süresi üç ay .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+KOMİSYONUN çalışma süresi üç ay.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+132,"Tekel'le başladı , akaryakıt yoldadır yolda dır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Tekel'le başladı, akaryakıt yoldadır yolda dır.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+133,İşte işçiyi Kızılay Meydanı'na toplayan ilk neden .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İşte işçiyi Kızılay Meydanı'na toplayan ilk neden.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+134,"DIŞİŞLERİ Bakanı Tansu Çiller'in geçtiğimiz ay Moskova'ya gerçekleştirdiği ziyaret sırasında gündeme getirdiği ve "" Yumruğumu masaya vurdum , Ruslar'ı ikna ettim "" dediği Rus yapımı S - 300 füzelerinin Rumlar'a satılması yönündeki yönünde ki anlaşmanın Pazartesi günü imzalanacağı bildirildi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+DIŞİŞLERİ Bakanı Tansu Çiller'in geçtiğimiz ay Moskova'ya gerçekleştirdiği ziyaret sırasında gündeme getirdiği ve "" Yumruğumu masaya vurdum, Ruslar'ı ikna ettim "" dediği Rus yapımı S - 300 füzelerinin Rumlar'a satılması yönündeki yönünde ki anlaşmanın Pazartesi günü imzalanacağı bildirildi.assistant
+
+MVC: vurdum
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: vurdum","MVC: vurdum
+MVC: getirdi
+MVC: getirdi
+MVC: getirdi
+MVC: vurdum",VID: gündeme getirdiği
+135,Anayasa'nın 83 . maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Anayasa'nın 83. maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır.assistant
+
+MVC: taşımaktadır",MVC: taşımaktadır,No MWE found.
+136,"Abdullah'ın basına koyduğu ambargoya tepki gösterdi , "" İşimizi kamuoyuna yansıtan basındır "" ifadesini kullandı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Abdullah'ın basına koyduğu ambargoya tepki gösterdi, "" İşimizi kamuoyuna yansıtan basındır "" ifadesini kullandı.assistant
+
+MVC: koyduğu
+MVC: gösterdi","MVC: koyduğu
+MVC: gösterdi",VID: tepki gösterdi
+137,"Bugüne kadar birleşik yazdığımız "" Gaziantep'in , şimdi TDK'ya göre ayrı yazılması gerekiyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bugüne kadar birleşik yazdığımız "" Gaziantep'in, şimdi TDK'ya göre ayrı yazılması gerekiyor.assistant
+
+MVC: yazılması需要",MVC: yazılması需要,No MWE found.
+138,"CUMHURBAŞKANI Süleyman Demirel , gelişmiş ülkelerde tarımla uğraşan nüfusun oranının yüzde 10'un altında olduğunu belirterek , Türkiye'nin , tarımda .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+CUMHURBAŞKANI Süleyman Demirel, gelişmiş ülkelerde tarımla uğraşan nüfusun oranının yüzde 10'un altında olduğunu belirterek, Türkiye'nin, tarımda.assistant
+
+MVC: belirterek",MVC: belirterek,No MWE found.
+139,"Hakimler ve Savcılar Yüksek Kurulu'nun yapısı değişmeli , siyaset elini adaletten çekmelidir çekmeli dir .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hakimler ve Savcılar Yüksek Kurulu'nun yapısı değişmeli, siyaset elini adaletten çekmelidir çekmeli dir.assistant
+
+MVC: çekmelidir",MVC: çekmelidir,VID: elini çekmeli dir
+140,"Yönetim Bilimleri , Mühendislik Bilimleri ve Fen Bilimleri alanlarında kurulan enstitülerin özellikle Milli Gençlik Vakfı'na bağlı olan üniversiteli gençlerin yüksek lisans düzeyde eğitim verilmesi hedefleniyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Yönetim Bilimleri, Mühendislik Bilimleri ve Fen Bilimleri alanlarında kurulan enstitülerin özellikle Milli Gençlik Vakfı'na bağlı olan üniversiteli gençlerin yüksek lisans düzeyde eğitim verilmesi hedefleniyor.assistant
+
+MVC: kurulan
+MVC: verilmesi","MVC: kurulan
+MVC: verilmesi",LVC.full: eğitim verilmesi
+141,"Doğum kontrolüne karşı çıkıp , daha çok çocuk isteyen biri , sanırsınız ki çocukları çok seviyor , onun için bu konuda bu kadar ısrarcı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Doğum kontrolüne karşı çıkıp, daha çok çocuk isteyen biri, sanırsınız ki çocukları çok seviyor, onun için bu konuda bu kadar ısrarcı.assistant
+
+MVC: çıkıp
+MVC: çıkıp","MVC: çıkıp
+MVC: çıkıp",VID: karşı çıkıp
+142,"Eleştirdikleri çeteler , kumar ve uyuşturucu parasına bulaşmış milliyetçiler , insanları öldürürken , bu politikaları sessizce onayladılar .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Eleştirdikleri çeteler, kumar ve uyuşturucu parasına bulaşmış milliyetçiler, insanları öldürürken, bu politikaları sessizce onayladılar.assistant
+
+MVC: onayladılar",MVC: onayladılar,No MWE found.
+143,"Mezarın yanındaki yanında ki camide Türkler de vardı ."" Hazari nin sık sık "" Cennetin kapılarını şeriata karşı çıkanların kafalarıyla açacağız "" dediğini söyleyen E .t ., "" Cumhurbaşkanı Süleyman Demirel , Başbakan Mesut Yılmaz , Bülent Ecevit ve Deniz Baykal a kızıyorlardı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Mezarın yanındaki yanında ki camide Türkler de vardı."" Hazari nin sık sık "" Cennetin kapılarını şeriata karşı çıkanların kafalarıyla açacağız "" dediğini söyleyen E.t., "" Cumhurbaşkanı Süleyman Demirel, Başbakan Mesut Yılmaz, Bülent Ecevit ve Deniz Baykal a kızıyorlardı.assistant
+
+MVC: açılıyor
+VPC.semi: açılıyor","MVC: açılıyor
+VPC.semi: açılıyor",VID: karşı çıkanların
+144,"Biz baştan beri , yıllardır yıllar dır şiddete uzağız .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Biz baştan beri, yıllardır yıllar dır şiddete uzağız.assistant
+
+MVC: uzağız",MVC: uzağız,No MWE found.
+145,"Özellikle para piyasalarında oluşan olumlu hava , enflasyon hedefinin aşağılara çekilmesine yol açıyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Özellikle para piyasalarında oluşan olumlu hava, enflasyon hedefinin aşağılara çekilmesine yol açıyor.assistant
+
+No MWE found.",No MWE found.,VID: yol açıyor
+146,"Kör imam'ın yargılanarak , hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kör imam'ın yargılanarak, hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor.assistant
+
+MVC: çekiyor",MVC: çekiyor,"LVC.full: mahkum olan
+VID: cezalarını çekiyor"
+147,"Uzan , Oğuz ' un , Fenerbahçe'den gelişini ise "" Oğuz bir firmadır firma dır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Uzan, Oğuz'un, Fenerbahçe'den gelişini ise "" Oğuz bir firmadır firma dır.assistant
+
+MVC: gelişin",MVC: gelişin,No MWE found.
+148,"Partisine aralarında emekli askerlerin de bulunduğu katılım töreninde konuşan Yazıcıoğlu RP'ye yüklenirken şu görüşleri dile getirdi : "" Meydanlarda adaletsizliği ve zulmü kınayarak iktidara gelmiş olanlar şimdi neden memura zulmetmektedir .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Partisine aralarında emekli askerlerin de bulunduğu katılım töreninde konuşan Yazıcıoğlu RP'ye yüklenirken şu görüşleri dile getirdi : "" Meydanlarda adaletsizliği ve zulmü kınayarak iktidara gelmiş olanlar şimdi neden memura zulmetmektedir.assistant
+
+MVC: kınayarak
+VPC.semi: dile","MVC: kınayarak
+VPC.semi: dile",VID: dile getirdi
+149,"Her şeyden önce , savaşı yitiren taraf , baştan bunu öngörebilmiş ve çatışmayı önlemek için elinden geleni yapmış ise , artık burada yanlış hesaptan söz etmenin olanağı yoktur yok tur .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Her şeyden önce, savaşı yitiren taraf, baştan bunu öngörebilmiş ve çatışmayı önlemek için elinden geleni yapmış ise, artık burada yanlış hesaptan söz etmenin olanağı yoktur yok tur.assistant
+
+MVC: öngörebilmiş
+MVC: önlemek
+MVC: etmenin","MVC: öngörebilmiş
+MVC: önlemek
+MVC: etmenin","VID: elinden geleni yapmış
+LVC.full: söz etmenin"
+150,Dilimizde yer eden yabancı sözcüklerin özgün yazılış biçimleri de belirtiliyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Dilimizde yer eden yabancı sözcüklerin özgün yazılış biçimleri de belirtiliyor.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+151,"İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İstanbul Cumhuriyet Başsavcısı Ferzan Çitici, bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız.assistant
+
+MVC: belirterek",MVC: belirterek,No MWE found.
+152,"Özel televizyonlarımızda haber bülteni yaptığını zanneden ( farklı bir yeni , birkaçı dışında ) "" kamuoyu oluşturucularımız "" için yeni bir kitap çıktı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Özel televizyonlarımızda haber bülteni yaptığını zanneden ( farklı bir yeni, birkaçı dışında ) "" kamuoyu oluşturucularımız "" için yeni bir kitap çıktı.assistant
+
+MVC: zanneden
+MVC: yaptığını","MVC: zanneden
+MVC: yaptığını",No MWE found.
+153,İstanbul DGM Başsavcılığı'ndaki Başsavcılığı'nda ki sorgusunun ardından önceki önce ki gece geniş güvenlik önlemkeleri altında Kırklareli'ne getirilen Duyar'ın kapatıldığı cezaevinde 300'ün üzerinde hükümlü ve tutuklu tutuk lu kalıyor .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İstanbul DGM Başsavcılığı'ndaki Başsavcılığı'nda ki sorgusunun ardından önceki önce ki gece geniş güvenlik önlemkeleri altında Kırklareli'ne getirilen Duyar'ın kapatıldığı cezaevinde 300'ün üzerinde hükümlü ve tutuklu tutuk lu kalıyor.assistant
+
+MVC: getirildi",MVC: getirildi,No MWE found.
+154,1997 - 2010 yıllarını kapsayan uzun vadeli vade li eğitim ana planı uygulamaya sokulacaktır .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+1997 - 2010 yıllarını kapsayan uzun vadeli vade li eğitim ana planı uygulamaya sokulacaktır.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+155,""" Antik kentin "" 17 köyünde siyanürlü altın kavgasına referandumla son verilecek .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+"" Antik kentin "" 17 köyünde siyanürlü altın kavgasına referandumla son verilecek.assistant
+
+No MWE found.",No MWE found.,VID: son verilecek
+156,"Sabah 9 : 00 : Uyanış , pencereden OR AN taraflarına göz atış , tekrar yatış .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Sabah 9 : 00 : Uyanış, pencereden OR AN taraflarına göz atış, tekrar yatış.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+157,İnzivaya çekilmiş bir kadın ve onu arayan bir erkek .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+İnzivaya çekilmiş bir kadın ve onu arayan bir erkek.assistant
+
+No MWE found.",No MWE found.,VID: İnzivaya çekilmiş
+158,Ya demokratikleşme .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ya demokratikleşme.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+159,Güven her şeyin önünde gelir .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Güven her şeyin önünde gelir.assistant
+
+No MWE found.",No MWE found.,VID: önünde gelir
+160,"Aksu , "" Mevcut sistem , ekonomi ve rejim değişmedikçe silahlı silah lı saldırılar sürer , kimin ne zaman nereden geldiği belli olmayan kurşunlarla öldüğü günler devam eder "" diye konuştu .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Aksu, "" Mevcut sistem, ekonomi ve rejim değişmedikçe silahlı silah lı saldırılar sürer, kimin ne zaman nereden geldiği belli olmayan kurşunlarla öldüğü günler devam eder "" diye konuştu.assistant
+
+MVC: devam eder",MVC: devam eder,LVC.full: devam eder
+161,Geçen yılın son aylarında trafik kazası geçiren Demet Sağıroğlu iyileşirken Ebru Gündeş kulak zarındaki zarında ki yırtılma yüzünden sağır olma tehlikesiyle karşı karşıya .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Geçen yılın son aylarında trafik kazası geçiren Demet Sağıroğlu iyileşirken Ebru Gündeş kulak zarındaki zarında ki yırtılma yüzünden sağır olma tehlikesiyle karşı karşıya.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+162,"Palermo Savcısı , İtalya'da eski Başbakan Andreotti'yi yargı önüne çıkartan ve sorgulayan üç kişiden biridir biri dir .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Palermo Savcısı, İtalya'da eski Başbakan Andreotti'yi yargı önüne çıkartan ve sorgulayan üç kişiden biridir biri dir.assistant
+
+MVC: çıkartan",MVC: çıkartan,VID: yargı önüne çıkartan
+163,"Kavgamız , siyaset değil , dürüstlük kavgasıdır kavgası dır .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kavgamız, siyaset değil, dürüstlük kavgasıdır kavgası dır.assistant
+
+MVC: kavgasıdır",MVC: kavgasıdır,No MWE found.
+164,"Korgeneral Nahit Şenoğul , ülkede polis ve asker düşmanları olduğunu belirterek , devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Korgeneral Nahit Şenoğul, ülkede polis ve asker düşmanları olduğunu belirterek, devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü.assistant
+
+MVC: belirterek
+MVC: bulunduğunu","MVC: belirterek
+MVC: bulunduğunu","LVC.full: iftiralarda bulunduğunu
+VID: öne sürdü"
+165,"Olay yerindeki yerinde ki trafik sıkışıklığı nedeniyle farkedilemeyen saldırgan , hemen bölgedeki bölgede ki polis ekibine teslim edilerek Ankara Emniyet Müdürlüğü'ne götürüldü .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Olay yerindeki yerinde ki trafik sıkışıklığı nedeniyle farkedilemeyen saldırgan, hemen bölgedeki bölgede ki polis ekibine teslim edilerek Ankara Emniyet Müdürlüğü'ne götürüldü.assistant
+
+MVC: teslim edildi
+MVC: götürüldü","MVC: teslim edildi
+MVC: götürüldü",LVC.full: teslim edilerek
+166,"Dün gittik , baktık , partinin "" iki eski genel başkanı "" oradaydı orada ydı : Yıldırım Avcı ile Hüsamettin Cindoruk .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Dün gittik, baktık, partinin "" iki eski genel başkanı "" oradaydı orada ydı : Yıldırım Avcı ile Hüsamettin Cindoruk.assistant
+
+MVC: baktık
+MVC: gittik","MVC: baktık
+MVC: gittik",No MWE found.
+167,"Bize , lütfedip , "" mürit Montand'ın cinayetlerini de sayabilir misin mi sin .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bize, lütfedip, "" mürit Montand'ın cinayetlerini de sayabilir misin mi sin.assistant
+
+MVC: sayabilir",MVC: sayabilir,No MWE found.
+168,Klasik ideolojiler iflas etti .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Klasik ideolojiler iflas etti.assistant
+
+No MWE found.",No MWE found.,LVC.full: iflas etti
+169,"Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda , 14 maçta 33 puan alan Fransa ikinci , 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda, 14 maçta 33 puan alan Fransa ikinci, 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti.assistant
+
+MVC: elde etti",MVC: elde etti,VID: elde etti
+170,"Hava yoluyla gönderilmesi durumunda Türkiye hava sahasını kapatacak , deniz yoluyla intikali durumunda ise boğazlardan geçiş izni verilmeyecek .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Hava yoluyla gönderilmesi durumunda Türkiye hava sahasını kapatacak, deniz yoluyla intikali durumunda ise boğazlardan geçiş izni verilmeyecek.assistant
+
+MVC: gönderilmesi
+MVC: kapatacak
+MVC: geçiş
+MVC: verilmeyecek","MVC: gönderilmesi
+MVC: kapatacak
+MVC: geçiş
+MVC: verilmeyecek",LVC.full: izni verilmeyecek
+171,"ABD'nin American Airlines ve İngiltere'nin British Airways şirketleri , iki ülke arasındaki arasında ki yolcu ve kargo trafiğini birlikte üstlenecek bir ittifak oluşturmak için resmen başvuruda bulundular bulun dular .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+ABD'nin American Airlines ve İngiltere'nin British Airways şirketleri, iki ülke arasındaki arasında ki yolcu ve kargo trafiğini birlikte üstlenecek bir ittifak oluşturmak için resmen başvuruda bulundular bulun dular.assistant
+
+MVC: oluşturmak
+MVC: bulun dular","MVC: oluşturmak
+MVC: bulun dular",No MWE found.
+172,Gitmezse Gitmez se istifa edecek .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Gitmezse Gitmez se istifa edecek.assistant
+
+No MWE found.",No MWE found.,LVC.full: istifa edecek
+173,Ve toplantı öyle devam eder .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ve toplantı öyle devam eder.assistant
+
+No MWE found.",No MWE found.,LVC.full: devam eder
+174,"Okurumuz durumu genel müdürlüğe iletmiş , karakola bile şikayet etmiş ama sonuç alamamış .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Okurumuz durumu genel müdürlüğe iletmiş, karakola bile şikayet etmiş ama sonuç alamamış.assistant
+
+MVC: iletmiş
+MVC: şikayet etmiş","MVC: iletmiş
+MVC: şikayet etmiş","LVC.full: şikayet etmiş
+VID: sonuç alamamış"
+175,"RP'nin alternatif "" Fetih gecesi'ni TV'de izledik ."" Fetih "" toplumların kendilerine ait olmayan birşeyleri ele geçirmesidir geçirmesi dir .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+RP'nin alternatif "" Fetih gecesi'ni TV'de izledik."" Fetih "" toplumların kendilerine ait olmayan birşeyleri ele geçirmesidir geçirmesi dir.assistant
+
+MVC: izledik
+MVC: geçirmesidir","MVC: izledik
+MVC: geçirmesidir","LVC.full: ait olmayan
+VID: ele geçirmesi dir"
+176,"Zorunlu kesinti sıkıntısı : Hükümetin RP kanadının muhalefetteyken muhalefette yken "" hesap sorulmasını istediği "" ve iktidar olunca "" hemen ödeneceğini "" söylediği zorunlu tasarruf kesintileri işçilerle hükümetin arasını iyice açtı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Zorunlu kesinti sıkıntısı : Hükümetin RP kanadının muhalefetteyken muhalefette yken "" hesap sorulmasını istediği "" ve iktidar olunca "" hemen ödeneceğini "" söylediği zorunlu tasarruf kesintileri işçilerle hükümetin arasını iyice açtı.assistant
+
+MVC: açtı",MVC: açtı,VID: arasını açtı
+177,"5 milyon liralık lira lık banknotlarda diğerlerinden farklı olarak silme zemin , banknotun basım tarihi , Türkiye Haritası , Ay - Yıldız ve İstiklal Madalyasının bulunduğuna dikkati çekerek , ayrıca morötesi ışıkta parlayan kırmızı ve siyah renklerde seri harf ve numarası ile sıra numarısı ve tüm önyüzde yaygın olarak kullanılan morötesi ışıkta parlayan pembe mürekkebi de ilkler arasında sıraladı .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+5 milyon liralık lira lık banknotlarda diğerlerinden farklı olarak silme zemin, banknotun basım tarihi, Türkiye Haritası, Ay - Yıldız ve İstiklal Madalyasının bulunduğuna dikkati çekerek, ayrıca morötesi ışıkta parlayan kırmızı ve siyah renklerde seri harf ve numarası ile sıra numarısı ve tüm önyüzde yaygın olarak kullanılan morötesi ışıkta parlayan pembe mürekkebi de ilkler arasında sıraladı.assistant
+
+MVC: bulunduğuna
+MVC: çekerek
+MVC: sıraladı","MVC: bulunduğuna
+MVC: çekerek
+MVC: sıraladı",VID: dikkati çekerek
+178,"Dünyadaki Dünyada ki ileri ülkelerde uygulanan sisteme ayak uyduracağız "" dedi .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Dünyadaki Dünyada ki ileri ülkelerde uygulanan sisteme ayak uyduracağız "" dedi.assistant
+
+MVC: ayak uydur",MVC: ayak uydur,VID: ayak uyduracağız
+179,"1550'lerden 1600'e kadar Osmanlılar , kitapları süslemeye , resimlemeye çok paralar dökmüşler .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+1550'lerden 1600'e kadar Osmanlılar, kitapları süslemeye, resimlemeye çok paralar dökmüşler.assistant
+
+MVC: dökmüş",MVC: dökmüş,No MWE found.
+180,Bir yandan .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bir yandan.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+181,Miting öncesi Harb - İş Başkanı İzzet Çetin'in konuşması planlandıysa da sonra vazgeçildi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Miting öncesi Harb - İş Başkanı İzzet Çetin'in konuşması planlandıysa da sonra vazgeçildi.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+182,Ancak Jaguarlı sendikacıları hatırlayanlar bu partiye de pek inançla bakmayabilirler .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ancak Jaguarlı sendikacıları hatırlayanlar bu partiye de pek inançla bakmayabilirler.assistant
+
+MVC: bakmayabilir",MVC: bakmayabilir,No MWE found.
+183,"Özellikle kocalarıyla anlaşamayan mutsuz kadınların chat aracığıyla tanıştıkları erkeklerle yeni bir yaşam kurduklarını belirten psikologlar , chat yapanların yüzde 30'unu eşleriyle sorunu olan kadınların oluşturduğunu belirtiyor .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Özellikle kocalarıyla anlaşamayan mutsuz kadınların chat aracığıyla tanıştıkları erkeklerle yeni bir yaşam kurduklarını belirten psikologlar, chat yapanların yüzde 30'unu eşleriyle sorunu olan kadınların oluşturduğunu belirtiyor.assistant
+
+MVC: oluşturuyor
+MVC: belirten
+MVC: belirten
+MVC: kurduklarını","MVC: oluşturuyor
+MVC: belirten
+MVC: belirten
+MVC: kurduklarını","LVC.full: chat yapanların
+LVC.full: sorunu olan"
+184,ABD'de de ünlü O . J.,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+ABD'de de ünlü O. J.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+185,"Ayrıca , geminin içindekileri de durdurup kontrol edecektik .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Ayrıca, geminin içindekileri de durdurup kontrol edecektik.assistant
+
+VPC.semi: durdurup",VPC.semi: durdurup,LVC.full: kontrol edecektik
+186,ABD Hazine Bakanı Ruben ile yardımcısı Larry Summers'ın daveti üzerine gerçekleşen ve koalisyon hükümetinin kuruluşundan bu yana ABD'ye yapılan üst düzeyli düzey li ilk resmi ziyaret olan gezi sırasında Adak'ın özellikle Amerikalı yöneticilerle finans çevrelerinin zihinlerindeki zihinlerinde ki soru işaretlerini gidermeye çalışacağı ve Türkiye'deki Türkiye'de ki gelişmelerle ilgili sorulara yanıt vereceği ifade edildi .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+ABD Hazine Bakanı Ruben ile yardımcısı Larry Summers'ın daveti üzerine gerçekleşen ve koalisyon hükümetinin kuruluşundan bu yana ABD'ye yapılan üst düzeyli düzey li ilk resmi ziyaret olan gezi sırasında Adak'ın özellikle Amerikalı yöneticilerle finans çevrelerinin zihinlerindeki zihinlerinde ki soru işaretlerini gidermeye çalışacağı ve Türkiye'deki Türkiye'de ki gelişmelerle ilgili sorulara yanıt vereceği ifade edildi.assistant
+
+MVC: ifade edildi
+MVC: ifade edildi","MVC: ifade edildi
+MVC: ifade edildi",LVC.full: ifade edildi
+187,- Emredin Sayın başkanım .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+- Emredin Sayın başkanım.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+188,"Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda , bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda, bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak.assistant
+
+MVC: çeken
+MVC: giren
+MVC: alın
+MVC: giren
+MVC: alın","MVC: çeken
+MVC: giren
+MVC: alın
+MVC: giren
+MVC: alın",VID: aldığı karar
+189,"Eğer Alla Hımız , kitabımız bir ise aramıza nifak sokmamalıyız .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Eğer Alla Hımız, kitabımız bir ise aramıza nifak sokmamalıyız.assistant
+
+No MWE found.",No MWE found.,VID: nifak sokmamalıyız
+190,DIŞ HABERLER SERVİSİ .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+DIŞ HABERLER SERVİSİ.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+191,"Tıpkı Koç Lisesi gibi , Koç Üniversitesi de , yarım milyar dolara yakın yatırımla Türkiye'ye , dünyanın en iyi üniversiteleri düzeyinde bir eğitim kurumu yaratmaya dönüktür dönük tür .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Tıpkı Koç Lisesi gibi, Koç Üniversitesi de, yarım milyar dolara yakın yatırımla Türkiye'ye, dünyanın en iyi üniversiteleri düzeyinde bir eğitim kurumu yaratmaya dönüktür dönük tür.assistant
+
+MVC: dönüktür",MVC: dönüktür,No MWE found.
+192,Zarar eden şirketlere karşın bu artışın kaynağı ise hala yanıtlanamayan sorular arasında .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Zarar eden şirketlere karşın bu artışın kaynağı ise hala yanıtlanamayan sorular arasında.assistant
+
+No MWE found.",No MWE found.,No MWE found.
+193,"Kişinin , iktidar yamaklığı uğruna , "" gazeteci'yle "" sahibinin sesi "" arasındaki arasında ki mesleki , ahlaki ahla ki ayrımı katletmesini de masum ve mazur gördük diyelim .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Kişinin, iktidar yamaklığı uğruna, "" gazeteci'yle "" sahibinin sesi "" arasındaki arasında ki mesleki, ahlaki ahla ki ayrımı katletmesini de masum ve mazur gördük diyelim.assistant
+
+MVC: katletmek",MVC: katletmek,VID: mazur gördük
+194,"Gökdemir , bu sözler üzerine iyice sinirlenerek , "" Ben o genel sekreterin de a . sını av . dını .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Gökdemir, bu sözler üzerine iyice sinirlenerek, "" Ben o genel sekreterin de a. sını av. dını.assistant
+
+MVC: sinirlenerek",MVC: sinirlenerek,No MWE found.
+195,"Rumların füzelenmesi , son 50 yılda Türkiye'ye yönelik en ciddi tehditlerden biridir biri dir .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Rumların füzelenmesi, son 50 yılda Türkiye'ye yönelik en ciddi tehditlerden biridir biri dir.assistant
+
+MVC: yönelik
+MVC: yönelik
+MVC: yönelik
+MVC: yönelik","MVC: yönelik
+MVC: yönelik
+MVC: yönelik
+MVC: yönelik",No MWE found.
+196,"MGK Genel Sekreteri ayrıca , Başbakanlık Kriz Yönetim Merkezi'nin devamlı faal halde tutulmasından ve sistem içerisinde yer alan birimlerin bilgilendirilmesinden sorumlu olacak .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+MGK Genel Sekreteri ayrıca, Başbakanlık Kriz Yönetim Merkezi'nin devamlı faal halde tutulmasından ve sistem içerisinde yer alan birimlerin bilgilendirilmesinden sorumlu olacak.assistant
+
+MVC: tutulmak
+MVC: tutulmak","MVC: tutulmak
+MVC: tutulmak",VID: yer alan
+197,"Uzmanlar , büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Uzmanlar, büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar.assistant
+
+MVC: ifade ediyorlar",MVC: ifade ediyorlar,LVC.full: ifade ediyorlar
+198,Bu derece karartma olmamasına rağmen bir çok ülkede sigara içimine kısıtlama getiren kanunlar var .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Bu derece karartma olmamasına rağmen bir çok ülkede sigara içimine kısıtlama getiren kanunlar var.assistant
+
+MVC: getiren",MVC: getiren,No MWE found.
+199,Taraftarlarımıza bunları vereceğiz .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+请识别并标注句子中的所有VMWE（动词性多词表达）。
+
+VMWE类型包括但不限于：动词性习语、轻动词结构、固有反身动词、动词-小品词结构、多动词结构以及固有介词动词。
+
+各类别的VMWE示例如下：
+
+MVC: 試試看, 分成
+LVC.full: 做改造
+LVC.cause: 帶來麻煩
+VPC.semi: 做出來, 找到
+VID: 風雲驟起, 千變萬化
+
+你的标注应包含VMWE类型，后跟一个冒号，再写出该VMWE。如果有多个VMWE，请每个单独占一行。如果没有VMWE，请输出'No MWE found.'
+
+
+
+句子如下：
+Taraftarlarımıza bunları vereceğiz.assistant
+
+No MWE found.",No MWE found.,No MWE found.
