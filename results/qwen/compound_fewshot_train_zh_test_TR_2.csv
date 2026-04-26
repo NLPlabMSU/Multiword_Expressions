@@ -1,0 +1,4547 @@
+,sentence,full_output,output,label
+0,"En doğru , en hakiki tarikat , medeniyet tarikatıdır "" sözünün bazılarının suratında şamar gibi patladığını düşünmez misiniz .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+En doğru , en hakiki tarikat , medeniyet tarikatıdır "" sözünün bazılarının suratında şamar gibi patladığını düşünmez misiniz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+1,Ancak kıdemli başçavuş bütün yan gelirleriyle birlikte 80 milyon lira alabilir .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ancak kıdemli başçavuş bütün yan gelirleriyle birlikte 80 milyon lira alabilir .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: başçavuş bütün yan gelirleriyle
+2,Mevzuat da çok büyük bir engel oluşturmuyor burada .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Mevzuat da çok büyük bir engel oluşturmuyor burada .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+3,"15 Ocak 1997 tarihinden sonra , yerine atama yapılacağı bildirilen Prof .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+15 Ocak 1997 tarihinden sonra , yerine atama yapılacağı bildirilen Prof .
+assistant
+<think>
+
+</think>
+
+COMP: Ocak 1997
+COMP: Prof .","COMP: Ocak 1997
+COMP: Prof .",COMP: yerine atama yapılacağı
+4,"Bakara suresini okuyor : "" Oruçlu olduğunuz günün gecesinde kadınlarınızla buluşmanız size helal edilmiştir "" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bakara suresini okuyor : "" Oruçlu olduğunuz günün gecesinde kadınlarınızla buluşmanız size helal edilmiştir "" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: helal edilmiştir
+5,"Hacıdimitriu , 1974'ten bu yana dünyanın kıbrıs gerçeğine gözlerini kapadığını da iddia etti .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hacıdimitriu , 1974'ten bu yana dünyanın kıbrıs gerçeğine gözlerini kapadığını da iddia etti .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: kıbrıs gerçeğine
+COMP-LVC: iddia etti"
+6,"ALMANLAR , İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+ALMANLAR , İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Dünya Savaşı
+7,Avustralya'ya göç veren ülkeler de olup bitenden rahatsız .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Avustralya'ya göç veren ülkeler de olup bitenden rahatsız .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+8,"Kemal Karpat'ın "" Türk Demokrasi Tarihi "" yeniden yayımlandı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kemal Karpat'ın "" Türk Demokrasi Tarihi "" yeniden yayımlandı .
+assistant
+<think>
+
+</think>
+
+COMP: Türk Demokrasi Tarihi",COMP: Türk Demokrasi Tarihi,No compound found.
+9,F . Bahçe'ye ağır fatura .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+F . Bahçe'ye ağır fatura .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: F . Bahçe'ye ağır
+10,"Bu nedenle sürdürülen soruşturma kapsamına , zamanında pek dikkate alınmayan , ama politikacı - mafya birlikteliğini sergileyen benzer olaylar da alınmalı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu nedenle sürdürülen soruşturma kapsamına , zamanında pek dikkate alınmayan , ama politikacı - mafya birlikteliğini sergileyen benzer olaylar da alınmalı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: politikacı - mafya
+11,"Adli mercilerin yargılama isteği , turizmi geliştirme heveslerinin önüne geçerse Göktepe davasında adalet tecelli edecek .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Adli mercilerin yargılama isteği , turizmi geliştirme heveslerinin önüne geçerse Göktepe davasında adalet tecelli edecek .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+12,"Böyle algılanması , Amerikan çıkarlarına değil , ama gerçekçiliğine uygun .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Böyle algılanması , Amerikan çıkarlarına değil , ama gerçekçiliğine uygun .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+13,"Uzmanlar , büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Uzmanlar , büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: dış borç krizi
+COMP-LVC: ifade ediyorlar"
+14,Emniyet Genel Müdürlüğü Çatlı'nın doğumunda ölümüne kadar işlediği bütün suçların listesini çıkardı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Emniyet Genel Müdürlüğü Çatlı'nın doğumunda ölümüne kadar işlediği bütün suçların listesini çıkardı .
+assistant
+<think>
+
+</think>
+
+COMP: Çatlı'nın
+COMP: ölümünde
+COMP: kadar
+COMP: işlediği
+COMP: suçların","COMP: Çatlı'nın
+COMP: ölümünde
+COMP: kadar
+COMP: işlediği
+COMP: suçların",No compound found.
+15,Yaşamında yalnızca savaşım yok elbette .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yaşamında yalnızca savaşım yok elbette .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+16,"Susurluk'un günlük OLAY gazetesinin "" Baş Köşe "" yazarı Zeki Öner de buna kızıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Susurluk'un günlük OLAY gazetesinin "" Baş Köşe "" yazarı Zeki Öner de buna kızıyor .
+assistant
+<think>
+
+</think>
+
+COMP: OLAY gazetesinin
+COMP: Baş Köşe","COMP: OLAY gazetesinin
+COMP: Baş Köşe",No compound found.
+17,"Kardeşinden haber alamadıklarını ve her gün teslim olması için dua ettiklerini söyleyen Hasan Akkol , zanlılardan Duyar'ın teslim olmasını olumlu bir gelişme olarak nitelendirdi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kardeşinden haber alamadıklarını ve her gün teslim olması için dua ettiklerini söyleyen Hasan Akkol , zanlılardan Duyar'ın teslim olmasını olumlu bir gelişme olarak nitelendirdi .
+assistant
+<think>
+
+</think>
+
+COMP: Hasan Akkol",COMP: Hasan Akkol,"COMP: haber alamadıklarını
+COMP-LVC: teslim olması
+COMP-LVC: teslim olmasını"
+18,Ayrıca özel bir kanalda yeni bir diziye başlayacağının da haberini veriyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ayrıca özel bir kanalda yeni bir diziye başlayacağının da haberini veriyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+19,"Beder gibi meşhur olamazsın "" diyerek tehditler savurdu .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Beder gibi meşhur olamazsın "" diyerek tehditler savurdu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: meşhur olamazsın
+20,"Ankara Emniyet Müdürlüğü , çevre illerden bin kişilik çevik kuvvet ekibinin getirildiği mitingi canlı yayın araçlarıyla izleyecek .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ankara Emniyet Müdürlüğü , çevre illerden bin kişilik çevik kuvvet ekibinin getirildiği mitingi canlı yayın araçlarıyla izleyecek .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+21,"Carousel'de 2 milyon lira olan , Akmerkez'de 5 milyon olur mu .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Carousel'de 2 milyon lira olan , Akmerkez'de 5 milyon olur mu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+22,"Bu doğrultuda , Kıbrıs sorununun çözümüyle ilgili olarak ABD ve İngiltere'nin 1997 başında üstleneceği inisiyatiflerin Rumları zorlaması durumunda , Rum lideri Glafkos Klerides , Rusya'nın "" çözüm süreci'ne katılımını yeğleyecek .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu doğrultuda , Kıbrıs sorununun çözümüyle ilgili olarak ABD ve İngiltere'nin 1997 başında üstleneceği inisiyatiflerin Rumları zorlaması durumunda , Rum lideri Glafkos Klerides , Rusya'nın "" çözüm süreci'ne katılımını yeğleyecek .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+23,"DYP ise yaptıklarını anlatamıyor "" diye özetledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+DYP ise yaptıklarını anlatamıyor "" diye özetledi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+24,1995'in aralık ayında dosya Adli Tıp'a gidiyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+1995'in aralık ayında dosya Adli Tıp'a gidiyor .
+assistant
+<think>
+
+</think>
+
+COMP: Adli Tıp'",COMP: Adli Tıp',No compound found.
+25,"Yürüyen plan , çözümsüzlüğün aşılmasıyla mümkün .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yürüyen plan , çözümsüzlüğün aşılmasıyla mümkün .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+26,Özlük İşleri eski Genel Müdürü .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Özlük İşleri eski Genel Müdürü .
+assistant
+<think>
+
+</think>
+
+COMP: İşleri",COMP: İşleri,COMP: eski Genel
+27,"Pat , pat , pat .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Pat , pat , pat .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+28,"Kuzuyu görünce , mesleki içgüdüyle , bundan iyi kebap olur , diye düşünmüştür "" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kuzuyu görünce , mesleki içgüdüyle , bundan iyi kebap olur , diye düşünmüştür "" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+29,"Sağlık Bakanlığı Teftiş Heyeti , Özmen'in 14 Aralık 1996'da saat 02.","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sağlık Bakanlığı Teftiş Heyeti , Özmen'in 14 Aralık 1996'da saat 02.
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+30,"Atatürk'ün isteğiyle oluşturulan , 51 yıl süren Atatürk'ün Tarih ve Dil Kurumlarına vasiyet ettiği Türkiye İş Bankası pay kağıtlarının geliriyle yaşayan , çalışan , ürün veren bu iki kurum 12 Eylül paşalarının ve onlara bağlı Danışma Meclisi'nin eliyle özgürlüğünü yitirmiş , bir devlet dairesi biçimine dönüştürülmüştür .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Atatürk'ün isteğiyle oluşturulan , 51 yıl süren Atatürk'ün Tarih ve Dil Kurumlarına vasiyet ettiği Türkiye İş Bankası pay kağıtlarının geliriyle yaşayan , çalışan , ürün veren bu iki kurum 12 Eylül paşalarının ve onlara bağlı Danışma Meclisi'nin eliyle özgürlüğünü yitirmiş , bir devlet dairesi biçimine dönüştürülmüştür .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP-LVC: vasiyet ettiği
+COMP: İş Bankası pay"
+31,Her iki parti seçim öncesi vaadettikleriyle taban tabana zıt bir icraat ortaya koydu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Her iki parti seçim öncesi vaadettikleriyle taban tabana zıt bir icraat ortaya koydu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: ortaya koydu
+32,"Fadime işte , iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Fadime işte , iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi .
+assistant
+<think>
+
+</think>
+
+COMP: iki projeyi",COMP: iki projeyi,No compound found.
+33,"Çalışma Bakanı Necati Çelik , yasadan yurt dışında yaşayan 400 bin kişinin yararlanabileceğini söyledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çalışma Bakanı Necati Çelik , yasadan yurt dışında yaşayan 400 bin kişinin yararlanabileceğini söyledi .
+assistant
+<think>
+
+</think>
+
+COMP: Bakan Necati Çelik",COMP: Bakan Necati Çelik,COMP: Necati Çelik
+34,"Korgeneral Nahit Şenoğul , ülkede polis ve asker düşmanları olduğunu belirterek , devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Korgeneral Nahit Şenoğul , ülkede polis ve asker düşmanları olduğunu belirterek , devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: öne sürdü
+35,"Yılmaz , bunun en güzel örneğini Oğuz olayında yaşadıklarını vurgulayarak , "" Eğer Oğuz ismini basın yazmasa , bu transfer bitmişti .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yılmaz , bunun en güzel örneğini Oğuz olayında yaşadıklarını vurgulayarak , "" Eğer Oğuz ismini basın yazmasa , bu transfer bitmişti .
+assistant
+<think>
+
+</think>
+
+COMP: Oğuz olayında",COMP: Oğuz olayında,COMP-LVC: basın yazmasa
+36,"Caddelerimiz , sokaklarımız dilimize hiç uymayan yabancı isimlerle kaplı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Caddelerimiz , sokaklarımız dilimize hiç uymayan yabancı isimlerle kaplı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+37,"Vedat "" Karabük'ten gelip Galatasaray'da oynamak kolay değil .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Vedat "" Karabük'ten gelip Galatasaray'da oynamak kolay değil .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+38,"Ayrıca , geminin içindekileri de durdurup kontrol edecektik .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ayrıca , geminin içindekileri de durdurup kontrol edecektik .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+39,Bakanlığın olur vermesinden sonra İstanbul Valisi Kutlu Aktaş da uygulamayı olumlu buldu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bakanlığın olur vermesinden sonra İstanbul Valisi Kutlu Aktaş da uygulamayı olumlu buldu .
+assistant
+<think>
+
+</think>
+
+COMP: Valisi
+COMP: olur vermesinden","COMP: Valisi
+COMP: olur vermesinden",COMP: Valisi Kutlu
+40,"İyi ki , bir kamyon Mercedes'e çarptı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+İyi ki , bir kamyon Mercedes'e çarptı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+41,"Hatta , bir ara Çin'den füze almak istediklerinde , "" Ankara , Pekin'de bir dizi diplomatik girişimde "" bulunarak , bunu engelliyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hatta , bir ara Çin'den füze almak istediklerinde , "" Ankara , Pekin'de bir dizi diplomatik girişimde "" bulunarak , bunu engelliyor .
+assistant
+<think>
+
+</think>
+
+COMP: Çin'den
+COMP: füze
+COMP: Ankara
+COMP: Pekin'de","COMP: Çin'den
+COMP: füze
+COMP: Ankara
+COMP: Pekin'de","COMP: bir ara
+COMP-LVC: füze almak
+COMP: dizi diplomatik"
+42,Tek başına bu satış Türkiye'yi kurtaracakmış .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tek başına bu satış Türkiye'yi kurtaracakmış .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: satış Türkiye'yi
+43,"Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda , bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda , bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: otomatikman düzeltilmiş
+44,""" Bir Usta , Bir Dünya Abidin Dino "" sergisi 17 Ocak'a dek Sermet Çifter Kütüphanesi'nde .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+"" Bir Usta , Bir Dünya Abidin Dino "" sergisi 17 Ocak'a dek Sermet Çifter Kütüphanesi'nde .
+assistant
+<think>
+
+</think>
+
+COMP: Ocak'a
+COMP: Kütüphanesi'nde","COMP: Ocak'a
+COMP: Kütüphanesi'nde",No compound found.
+45,"Çöküntü ( yasa dışı çek - senet tahsilatı ) yapmaz "" dedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çöküntü ( yasa dışı çek - senet tahsilatı ) yapmaz "" dedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: Çöküntü ( yasa dışı çek - senet tahsilatı
+COMP: çek - senet"
+46,Sokaklarda rastladığım insanlarla konuşuyorum .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sokaklarda rastladığım insanlarla konuşuyorum .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+47,""" Teslim olma nedeni ve nasıl teslim olduğu "" ancak böyle netlik kazanıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+"" Teslim olma nedeni ve nasıl teslim olduğu "" ancak böyle netlik kazanıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP-LVC: Teslim olma
+COMP-LVC: teslim olduğu
+COMP-LVC: netlik kazanıyor"
+48,OPTİONS dergisinde bir de liste çıkarmışlar .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+OPTİONS dergisinde bir de liste çıkarmışlar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: liste çıkarmışlar
+49,Bir sonuç alacağı da yok .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bir sonuç alacağı da yok .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: sonuç alacağı
+50,"Başbakan , bandrolde erken ödeme , Emekli Sandığı ve SSK arsalarının satışı , gecekondu bölgelerinin islahı konusunda büyükşehir belediyelerine yetki verecek iki yasa tasarısının biran önce Meclis'ten geçirilmesi gerektiğine işaret ederek , "" siz bu beş tasarıyı kabul ederken , biz de size üçüncü kaynak paketine ilişkin beş yeni tasarı göndereceğiz "" dedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Başbakan , bandrolde erken ödeme , Emekli Sandığı ve SSK arsalarının satışı , gecekondu bölgelerinin islahı konusunda büyükşehir belediyelerine yetki verecek iki yasa tasarısının biran önce Meclis'ten geçirilmesi gerektiğine işaret ederek , "" siz bu beş tasarıyı kabul ederken , biz de size üçüncü kaynak paketine ilişkin beş yeni tasarı göndereceğiz "" dedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: tasarısının biran
+COMP: beş tasarıyı
+COMP-LVC: kabul ederken"
+51,"Dünyanın her yerinde olduğu gibi , bu tür yasa dışı örgütlerin faaliyetleri ve kararları birbirinin aynı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Dünyanın her yerinde olduğu gibi , bu tür yasa dışı örgütlerin faaliyetleri ve kararları birbirinin aynı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: yasa dışı örgütlerin
+52,"Bakanlıklar , "" hiçbir yetkiyi devredemeyiz ."" diye cevap verdi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bakanlıklar , "" hiçbir yetkiyi devredemeyiz ."" diye cevap verdi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: cevap verdi
+53,Paul Kennedy : .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Paul Kennedy : .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Paul Kennedy
+54,"Ve , "" Pi "" için uğraşan yüzbinlerce beyin , "" Pi'yi milyarlarca basamağa uzatırken , matematikte yeni kavramları keşfetti , yeni sentezlere ulaştı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ve , "" Pi "" için uğraşan yüzbinlerce beyin , "" Pi'yi milyarlarca basamağa uzatırken , matematikte yeni kavramları keşfetti , yeni sentezlere ulaştı .
+assistant
+<think>
+
+</think>
+
+COMP: Pi'yi
+COMP: Pi'yi","COMP: Pi'yi
+COMP: Pi'yi",No compound found.
+55,"Baknalık , kooperatiflerin de özel okul açabilmelerine olanak sağlamak amacıyla yönetmelik değişikliği yapacak .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Baknalık , kooperatiflerin de özel okul açabilmelerine olanak sağlamak amacıyla yönetmelik değişikliği yapacak .
+assistant
+<think>
+
+</think>
+
+COMP: kooperatiflerin
+COMP: özel okul
+COMP: olana","COMP: kooperatiflerin
+COMP: özel okul
+COMP: olana",No compound found.
+56,Ama onun da önünde aynı tehlike vardı ve o da bundan korunamadı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ama onun da önünde aynı tehlike vardı ve o da bundan korunamadı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+57,"DSP Genel Başkanı Bülent Ecevit Kıbrıs Rum kesiminin Rusya'dan füze almasının "" Türk askerinin Kıbrıs'tan çekilmesi ve Kıbrıs Rum Kesiminin AB'ne girmesi için "" yeni bir senaryo olduğunu belirtirken , Türkiye'nin aşırı sert tepki göstermek yerine Türk askerinin Kıbrıs'tan çekilmesinin sözkonusu olmayacağını dünyaya açıklamasını istedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+DSP Genel Başkanı Bülent Ecevit Kıbrıs Rum kesiminin Rusya'dan füze almasının "" Türk askerinin Kıbrıs'tan çekilmesi ve Kıbrıs Rum Kesiminin AB'ne girmesi için "" yeni bir senaryo olduğunu belirtirken , Türkiye'nin aşırı sert tepki göstermek yerine Türk askerinin Kıbrıs'tan çekilmesinin sözkonusu olmayacağını dünyaya açıklamasını istedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: DSP Genel
+COMP: Başkanı Bülent
+COMP: tepki göstermek
+COMP: dünyaya açıklamasını"
+58,"California eyaleti yetkilileri , bir yandan selin yıkıp geçtiği binlerce evi terkeden onbinlerce kişiye yardımcı olmaya çalışırken , bir yandan da yıkılan yol ve köprüleri onararak ulaşıma açmaya çabalıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+California eyaleti yetkilileri , bir yandan selin yıkıp geçtiği binlerce evi terkeden onbinlerce kişiye yardımcı olmaya çalışırken , bir yandan da yıkılan yol ve köprüleri onararak ulaşıma açmaya çabalıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: bir yandan
+COMP-LVC: yardımcı olmaya
+COMP: bir yandan
+COMP: yol ve köprüleri onararak ulaşıma açmaya"
+59,"Sinema - Tv'yi düşünen güzel manken , spor ve tiyatroya da ilgi duyuyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sinema - Tv'yi düşünen güzel manken , spor ve tiyatroya da ilgi duyuyor .
+assistant
+<think>
+
+</think>
+
+COMP: Tv'yi",COMP: Tv'yi,COMP: Sinema - Tv'yi
+60,"Hayreddin Karaman'ın belirttiği gibi , Katolik ve Ortodoks Hıristiyanlıktan farklı olarak , İslam'da nikah , bir "" dini işlem "" değil , "" medeni bir akit'tir : Evlenmeye engel halleri bulunmayan kadın ve erkek , yuva kuracaklarını topluma ilan ederlerse , nikah akdi gerçekleşir .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hayreddin Karaman'ın belirttiği gibi , Katolik ve Ortodoks Hıristiyanlıktan farklı olarak , İslam'da nikah , bir "" dini işlem "" değil , "" medeni bir akit'tir : Evlenmeye engel halleri bulunmayan kadın ve erkek , yuva kuracaklarını topluma ilan ederlerse , nikah akdi gerçekleşir .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: ilan ederlerse
+61,Artık her şeyin açığa çıkmasını istiyoruz .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Artık her şeyin açığa çıkmasını istiyoruz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: her şeyin
+COMP: açığa çıkmasını"
+62,Devrim öncelik kazanmıştı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Devrim öncelik kazanmıştı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+63,Şükrü Elekdağ .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Şükrü Elekdağ .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Şükrü Elekdağ
+64,"Kulüp logosundan , sponsorluktan elde edilecek gelirler mutlaka sağlanmalı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kulüp logosundan , sponsorluktan elde edilecek gelirler mutlaka sağlanmalı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: elde edilecek
+65,"Bakanlık yetkilileri ise , velilerin de böyle bir istekte bulunduklarını , tatilin 1 4 günden 21 güne çıkarılma ihtimalinin yüksek olduğunu söylediler .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bakanlık yetkilileri ise , velilerin de böyle bir istekte bulunduklarını , tatilin 1 4 günden 21 güne çıkarılma ihtimalinin yüksek olduğunu söylediler .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+66,"Taormina - Arte Şenliğinde ayrıca "" Yeni Gerçekçilik "" Ödülü de verildi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Taormina - Arte Şenliğinde ayrıca "" Yeni Gerçekçilik "" Ödülü de verildi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Taormina - Arte
+67,"Hükümetimiz aynı zamanda , emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hükümetimiz aynı zamanda , emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: Hükümetimiz aynı zamanda
+COMP-LVC: sahip olmadığı
+COMP: sahip bulunmaktadır"
+68,Göç etmek isteyen yabancıların çoğunun İngiliz veya Avrupalı olmasına dikkat edildi .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Göç etmek isteyen yabancıların çoğunun İngiliz veya Avrupalı olmasına dikkat edildi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: dikkat edildi
+69,"Bu köşeye sık sık konuk edip , zaman zaman zehir zemberek eleştirdiğimiz Kemal Gürüz , sanıyorum artık çok daha tutarlı davranıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu köşeye sık sık konuk edip , zaman zaman zehir zemberek eleştirdiğimiz Kemal Gürüz , sanıyorum artık çok daha tutarlı davranıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-REDUP: zaman zaman
+70,Doğrusu komik kaçıyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Doğrusu komik kaçıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+71,"Clinton yönetimi , Kıbrıs Rum hükümetinin Rusya ile füze anlaşması yaptığı haberlerini "" adada barışçı çözümü güçleştirecek bir adım "" diye nitelendirirken , Rumlar'a "" kararını yeniden gözden geçir "" mesajı verdi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Clinton yönetimi , Kıbrıs Rum hükümetinin Rusya ile füze anlaşması yaptığı haberlerini "" adada barışçı çözümü güçleştirecek bir adım "" diye nitelendirirken , Rumlar'a "" kararını yeniden gözden geçir "" mesajı verdi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: Kıbrıs Rum hükümetinin Rusya
+COMP: geçir "" mesajı"
+72,"Hem Waşhington , hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hem Waşhington , hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+73,Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+74,` Düşman ' Iraklıların bir kısmı düşen helikopterden kurtulanlara ateş ederken kahkaha atıyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+` Düşman ' Iraklıların bir kısmı düşen helikopterden kurtulanlara ateş ederken kahkaha atıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: kahkaha atıyor
+75,Tabii bu biraz da DTP'nin yapacağı etkinliklere bağlı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tabii bu biraz da DTP'nin yapacağı etkinliklere bağlı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+76,"KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi , Türkiye'nin Montrö Sözleşmesi uyarınca , füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi , Türkiye'nin Montrö Sözleşmesi uyarınca , füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: füze alımına
+COMP: karar vermesiyle
+COMP: ortaya çıkan"
+77,"ABD'nin California ve Arizona eyaletlerinde çıkarılan yeni yasalar , hekimlerin AIDS ve kanser hastalarına esrar kullanımını önermesini yasallaştırırken , esrar bulundurmak federal suç niteliğini koruyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+ABD'nin California ve Arizona eyaletlerinde çıkarılan yeni yasalar , hekimlerin AIDS ve kanser hastalarına esrar kullanımını önermesini yasallaştırırken , esrar bulundurmak federal suç niteliğini koruyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: esrar bulundurmak
+78,Av bölgesi olarak Susurluk seçilecek .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Av bölgesi olarak Susurluk seçilecek .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+79,"Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular , kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular , kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler .
+assistant
+<think>
+
+</think>
+
+COMP: ciddiyet kazandırmak
+COMP: ciddi yaptırımlar","COMP: ciddiyet kazandırmak
+COMP: ciddi yaptırımlar",COMP-LVC: ciddiyet kazandırmak
+80,"Kör imam'ın yargılanarak , hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kör imam'ın yargılanarak , hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor .
+assistant
+<think>
+
+</think>
+
+COMP: imam'ın
+COMP: hapishanede","COMP: imam'ın
+COMP: hapishanede",COMP-LVC: mahkum olan
+81,Ayrıca şartel inecek diyorlar .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ayrıca şartel inecek diyorlar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+82,Yavuz Donat .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yavuz Donat .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+83,29 ülkenin katılımıyla gerçekleştirilen fuarın ilk gününde yağlı güreş yapıldı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+29 ülkenin katılımıyla gerçekleştirilen fuarın ilk gününde yağlı güreş yapıldı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+84,"Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: söz edilen
+85,Türkiye'de yaşamak gittikçe güçleşmiyor mu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Türkiye'de yaşamak gittikçe güçleşmiyor mu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+86,Zaten batan banka ve aracı kurumlar ( Kastelli dahil ) hep repo yüzünden batmıştır .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Zaten batan banka ve aracı kurumlar ( Kastelli dahil ) hep repo yüzünden batmıştır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+87,"Evet , milletvekili siyasal sözlerinden ve eylemlerinden ötürü "" dokunulmaz "" olmalıdır , ama adi suç işlerse , sade vatandaşlar gibi yargılanıp cezalandırılabilmeli .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Evet , milletvekili siyasal sözlerinden ve eylemlerinden ötürü "" dokunulmaz "" olmalıdır , ama adi suç işlerse , sade vatandaşlar gibi yargılanıp cezalandırılabilmeli .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: suç işlerse
+88,"Bu aşamada , Rusya'nın füzeleri teslim ederek "" meydan okuma'yı sürdürmesi , ya da geri adım atması söz konusu .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu aşamada , Rusya'nın füzeleri teslim ederek "" meydan okuma'yı sürdürmesi , ya da geri adım atması söz konusu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP-LVC: teslim ederek
+COMP: sürdürmesi , ya da geri adım atması
+COMP: söz konusu"
+89,Türkçe seferberliği başlatıyoruz Hocam .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Türkçe seferberliği başlatıyoruz Hocam .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+90,Sonra Sabancı'ya bir el daha ateş ettim .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sonra Sabancı'ya bir el daha ateş ettim .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: ateş ettim
+91,"İsrail askerlerinin karavanlarla bölgeye yerleşen 200 kadar Yahudi göçmenin eylemini yakından izledikleri , ancak müdahalede bulunmadıkları kaydedildi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+İsrail askerlerinin karavanlarla bölgeye yerleşen 200 kadar Yahudi göçmenin eylemini yakından izledikleri , ancak müdahalede bulunmadıkları kaydedildi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+92,Neden .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Neden .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+93,"Suçun varsa cezasını çek kurtul ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Suçun varsa cezasını çek kurtul ."" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+94,"Hitler Almanya'sından , Stalin Rusya'sından , Franko İspanya'sından canını kurtaran , çaresizlikle yabancı ülkelerde nerdeyse bir ömür boyu yaşayanlar ise sayısız .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hitler Almanya'sından , Stalin Rusya'sından , Franko İspanya'sından canını kurtaran , çaresizlikle yabancı ülkelerde nerdeyse bir ömür boyu yaşayanlar ise sayısız .
+assistant
+<think>
+
+</think>
+
+COMP: Almanya'sından
+COMP: Rusya'sından
+COMP: İspanya'sından","COMP: Almanya'sından
+COMP: Rusya'sından
+COMP: İspanya'sından",No compound found.
+95,"Her dersten , her yarıyılda birkaç kez sınav .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Her dersten , her yarıyılda birkaç kez sınav .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+96,Kanlı ameliyatlar da tarihe karışacak .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kanlı ameliyatlar da tarihe karışacak .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+97,Kalanın büyük bölümünü de petrol alanlarına ( petrol üretiminde gerekli basıncı sağlamak için ) pompalıyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kalanın büyük bölümünü de petrol alanlarına ( petrol üretiminde gerekli basıncı sağlamak için ) pompalıyor .
+assistant
+<think>
+
+</think>
+
+COMP: 石油 alanlarına",COMP: 石油 alanlarına,No compound found.
+98,"Seksi olduğu kadar masum , güçlü olduğu kadar yumuşak , çarpıcı olduğu kadar pratik .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Seksi olduğu kadar masum , güçlü olduğu kadar yumuşak , çarpıcı olduğu kadar pratik .
+assistant
+<think>
+
+</think>
+
+COMP: masum",COMP: masum,No compound found.
+99,Bu da Amerikan diplomasisini hemen harekete geçmeye zorlayan üçüncü neden .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu da Amerikan diplomasisini hemen harekete geçmeye zorlayan üçüncü neden .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+100,SERGİ .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+SERGİ .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+101,Güneri Civaoğlu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Güneri Civaoğlu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Güneri Civaoğlu
+102,"Belirli bir süreden sonra yaşamak , yalnız kişiyi yaşlandırmıyor , anıları da acılaştırıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Belirli bir süreden sonra yaşamak , yalnız kişiyi yaşlandırmıyor , anıları da acılaştırıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: yalnız kişiyi
+103,Sağlam ve Çiller'in ek zam olmayacağı sözleri ise memurun öfkesini artırdı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sağlam ve Çiller'in ek zam olmayacağı sözleri ise memurun öfkesini artırdı .
+assistant
+<think>
+
+</think>
+
+COMP: ek zam
+COMP: memurun öfkesini","COMP: ek zam
+COMP: memurun öfkesini",COMP: zam olmayacağı
+104,Fırıl fırıl kuşlar tepelerde /,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Fırıl fırıl kuşlar tepelerde /
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+105,"Ufuklar simsiyah , yollar karışık .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ufuklar simsiyah , yollar karışık .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: simsiyah , yollar karışık"
+106,Kostümlerde Doğu kültürü içinde bir soyutlamaya gidildi .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kostümlerde Doğu kültürü içinde bir soyutlamaya gidildi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+107,Sermaye Piyasası Kanunu'nun 33 . maddesine göre Aracı kurum kurmak isteyenlerin müflis olmadığının veya yüz kızartıcı bir suçtan dolayı hükümlülüklerinin bulunmadığının tespiti gerekiyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sermaye Piyasası Kanunu'nun 33 . maddesine göre Aracı kurum kurmak isteyenlerin müflis olmadığının veya yüz kızartıcı bir suçtan dolayı hükümlülüklerinin bulunmadığının tespiti gerekiyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: kurmak isteyenlerin
+COMP-LVC: müflis olmadığının"
+108,Hepsi toplumumuzu kirleten pislikler .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hepsi toplumumuzu kirleten pislikler .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+109,400 kilometrekarelik bir alanda birlikte petrol arayacaklar .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+400 kilometrekarelik bir alanda birlikte petrol arayacaklar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+110,"Lider , halkına doğru mesaj vermeli .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Lider , halkına doğru mesaj vermeli .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+111,"Tartışmanın başlamasından 2 saat sonra , saat 1: 45'de gelinen nokta şurası : "" Koca , karısının dilini emerse oruç bozulur mu ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tartışmanın başlamasından 2 saat sonra , saat 1: 45'de gelinen nokta şurası : "" Koca , karısının dilini emerse oruç bozulur mu ."" .
+assistant
+<think>
+
+</think>
+
+COMP: 2 saat
+COMP: 1: 45'de","COMP: 2 saat
+COMP: 1: 45'de",COMP: 45'de gelinen
+112,"Çünkü , açık bulunduğu sıralar , okulların tatil dönemine rastlamıştı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çünkü , açık bulunduğu sıralar , okulların tatil dönemine rastlamıştı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+113,""" Son günlerde ikimiz de huzursuzuz .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+"" Son günlerde ikimiz de huzursuzuz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+114,Kamu finansmanı konusunda uzmanlığı ile tanınan Prof .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kamu finansmanı konusunda uzmanlığı ile tanınan Prof .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Kamu finansmanı
+115,"Büyük ve güçlü teknolojinin ortaklığı yok , "" diyerek yanıtlıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Büyük ve güçlü teknolojinin ortaklığı yok , "" diyerek yanıtlıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+116,Cumhuriyet tarihinde görülmemiş bir şey .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Cumhuriyet tarihinde görülmemiş bir şey .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: bir şey
+117,Yavuz Donat .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yavuz Donat .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+118,"Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda , 14 maçta 33 puan alan Fransa ikinci , 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda , 14 maçta 33 puan alan Fransa ikinci , 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: elde etti
+119,Abbas Güçlü .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Abbas Güçlü .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+120,"Emniyet Müdürlüğü , Duyar'ın teslim olmadığını , MİT'in Suriye Gizli Servisi El - Muhaberat'la işbirliği sonucu Lazkiye'de yakalandığını açıkladı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Emniyet Müdürlüğü , Duyar'ın teslim olmadığını , MİT'in Suriye Gizli Servisi El - Muhaberat'la işbirliği sonucu Lazkiye'de yakalandığını açıkladı .
+assistant
+<think>
+
+</think>
+
+COMP: Emniyet Müdürlüğü
+COMP: MİT'in
+COMP: Suriye Gizli Servisi
+COMP: El - Muhaberat'la","COMP: Emniyet Müdürlüğü
+COMP: MİT'in
+COMP: Suriye Gizli Servisi
+COMP: El - Muhaberat'la",COMP: teslim olmadığını
+121,Tekdemir'in adı Kocaeli'nde ortaya çıkan çeteyle birlikte anılmıştı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tekdemir'in adı Kocaeli'nde ortaya çıkan çeteyle birlikte anılmıştı .
+assistant
+<think>
+
+</think>
+
+COMP: Tekdemir'in
+COMP: Kocaeli'nde","COMP: Tekdemir'in
+COMP: Kocaeli'nde",COMP: ortaya çıkan
+122,Doğmuyor beklenen güneş bir türlü .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Doğmuyor beklenen güneş bir türlü .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: bir türlü
+123,"Buna göre sabah 6.30'da kalkacak olan Sarı - Kırmızılılar , ilk antrenmanı 7'de yapacaklar .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Buna göre sabah 6.30'da kalkacak olan Sarı - Kırmızılılar , ilk antrenmanı 7'de yapacaklar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+124,"Çünkü poliçe düzenlenmiş olduğu halde , Nida Sigorta Halk Sigorta'ya prim filan yatırmamıştı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çünkü poliçe düzenlenmiş olduğu halde , Nida Sigorta Halk Sigorta'ya prim filan yatırmamıştı .
+assistant
+<think>
+
+</think>
+
+COMP: poliçe
+COMP: Sigorta
+COMP: Sigorta","COMP: poliçe
+COMP: Sigorta
+COMP: Sigorta",COMP: Halk Sigorta'ya prim
+125,Ve hayretler içinde kaldı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ve hayretler içinde kaldı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Ve hayretler içinde kaldı
+126,"Yetkililer , operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yetkililer , operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+127,Sonunda da konuşmaya karar verdim .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sonunda da konuşmaya karar verdim .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: karar verdim
+128,"Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak , verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak , verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: tahsil etmek
+129,Gişe memuru hafiyelik yapar mı .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Gişe memuru hafiyelik yapar mı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+130,1995 tarihinde Adalet Bakanlığı'na yazdığı bir yazı ile Topal'ın adli sicil kaydı istendi .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+1995 tarihinde Adalet Bakanlığı'na yazdığı bir yazı ile Topal'ın adli sicil kaydı istendi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+131,Bu görevi yerine getirmek için ilk adım atılmıştır .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu görevi yerine getirmek için ilk adım atılmıştır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+132,KÜLTÜR SERVİSİ .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+KÜLTÜR SERVİSİ .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+133,Hocam sakın endişe buyurma .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hocam sakın endişe buyurma .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+134,"Başkan dedi ki "" bu söz , doğru söz ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Başkan dedi ki "" bu söz , doğru söz ."" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: dedi ki
+135,"Eğer Alla Hımız , kitabımız bir ise aramıza nifak sokmamalıyız .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Eğer Alla Hımız , kitabımız bir ise aramıza nifak sokmamalıyız .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+136,"İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız .
+assistant
+<think>
+
+</think>
+
+COMP: Cumhuriyet Başsavcısı
+COMP: Adalet Bakanı
+COMP: Şahin'i","COMP: Cumhuriyet Başsavcısı
+COMP: Adalet Bakanı
+COMP: Şahin'i","COMP: İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın"
+137,Dolayısıyla maceracı bir politikadır .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Dolayısıyla maceracı bir politikadır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+138,571 kişi başvurdu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+571 kişi başvurdu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+139,"Daha sonra "" denk bütçe "" sloganını ortaya attı Sayın Başbakan ve sözde denk olan 1997 bütçesi Meclis'ten geçti .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Daha sonra "" denk bütçe "" sloganını ortaya attı Sayın Başbakan ve sözde denk olan 1997 bütçesi Meclis'ten geçti .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: ortaya attı
+140,"Bir okulda öğretmenin biri "" ben 10 senedir ilk defa bir milli eğitim müdürünü öğretmen odasında görüyorum "" dedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bir okulda öğretmenin biri "" ben 10 senedir ilk defa bir milli eğitim müdürünü öğretmen odasında görüyorum "" dedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: senedir ilk defa
+COMP: eğitim müdürünü"
+141,"Adam , kendi ayakları üzerinde durabildiği için kadına aşık oluyor , fakat bunun kendisi için tehlike olduğunu hissettiği an , yine bu nedenle ondan nefret etmeye başlıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Adam , kendi ayakları üzerinde durabildiği için kadına aşık oluyor , fakat bunun kendisi için tehlike olduğunu hissettiği an , yine bu nedenle ondan nefret etmeye başlıyor .
+assistant
+<think>
+
+</think>
+
+COMP: ayakları",COMP: ayakları,"COMP: üzerinde durabildiği
+COMP-LVC: aşık oluyor
+COMP-LVC: nefret etmeye"
+142,Gözler hep O'nun üzerinde oldu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Gözler hep O'nun üzerinde oldu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+143,"Rusya Federasyonu makamlarının , 14 Hırvat mürettebatın isyan çıkardığı ve Türk Sahil Güvenlik görevlilerinin denet .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Rusya Federasyonu makamlarının , 14 Hırvat mürettebatın isyan çıkardığı ve Türk Sahil Güvenlik görevlilerinin denet .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: isyan çıkardığı
+144,Hırslıyım .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hırslıyım .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+145,"Fatih Camii nde tanıştığım Muhammed Hazari , bir gün suudi Arabistan da otellerim var .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Fatih Camii nde tanıştığım Muhammed Hazari , bir gün suudi Arabistan da otellerim var .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Camii nde
+146,"SON bir yıllık dönemde sektörel bazda en yüksek fiyat artışı yüzde 129.9 ile elektrik , gaz ve suda gerçekleşti .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+SON bir yıllık dönemde sektörel bazda en yüksek fiyat artışı yüzde 129.9 ile elektrik , gaz ve suda gerçekleşti .
+assistant
+<think>
+
+</think>
+
+COMP: SON",COMP: SON,COMP: fiyat artışı
+147,Allah'tan korkmuyor musunuz .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Allah'tan korkmuyor musunuz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+148,Anayasa'nın 83 . maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Anayasa'nın 83 . maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: dışında - yargılanamayacağı
+149,"Kılavuzun ağırlığı , dilimize giren yabancı kelimeler , Arapça , Farsça , Fransızca , İngilizce kelimeleri kullanıyoruz , bari doğru kullansak .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kılavuzun ağırlığı , dilimize giren yabancı kelimeler , Arapça , Farsça , Fransızca , İngilizce kelimeleri kullanıyoruz , bari doğru kullansak .
+assistant
+<think>
+
+</think>
+
+COMP: kılavuzun
+COMP: ağırlığı
+COMP: dilimize
+COMP: giren
+COMP: yabancı
+COMP: kelimeler
+COMP: Arapça
+COMP: Farsça
+COMP: Fransızca
+COMP: İngilizce
+COMP: kelimeleri
+COMP: kullanıyoruz
+COMP: bari
+COMP: doğru
+COMP: kullansak","COMP: kılavuzun
+COMP: ağırlığı
+COMP: dilimize
+COMP: giren
+COMP: yabancı
+COMP: kelimeler
+COMP: Arapça
+COMP: Farsça
+COMP: Fransızca
+COMP: İngilizce
+COMP: kelimeleri
+COMP: kullanıyoruz
+COMP: bari
+COMP: doğru
+COMP: kullansak",COMP: dilimize giren
+150,Kendi öğrencilerim içinden intihar edenler oldu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kendi öğrencilerim içinden intihar edenler oldu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+151,ÖYMEN - ANKARA .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+ÖYMEN - ANKARA .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+152,"Yönetim , futbolcuların transfer ücretlerini boşa harcamaması için danışmanlık yapacak .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yönetim , futbolcuların transfer ücretlerini boşa harcamaması için danışmanlık yapacak .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+153,"Sabah 5 - 6 gibi kalkıp , kısa bir yürüyüş yapıyorum .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sabah 5 - 6 gibi kalkıp , kısa bir yürüyüş yapıyorum .
+assistant
+<think>
+
+</think>
+
+COMP: Sabah",COMP: Sabah,No compound found.
+154,"Bir öneriye katılırsınız , ya da katılmazsınız .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bir öneriye katılırsınız , ya da katılmazsınız .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+155,Aranıza fitne sokmayın .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Aranıza fitne sokmayın .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Aranıza fitne
+156,"Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+157,Ve konu adalete intikal ediyordu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ve konu adalete intikal ediyordu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: intikal ediyordu
+158,"Türkiye Cumhuriyeti'nin yasaları önünde medeni nikahla evli olmanın büyük önem taşıdığını görsünler ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Türkiye Cumhuriyeti'nin yasaları önünde medeni nikahla evli olmanın büyük önem taşıdığını görsünler ."" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+159,Murat KUL - ANKARA .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Murat KUL - ANKARA .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Murat KUL
+160,"Kadın kolları Genel Başkanı Okuducu , olayı "" 2 .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kadın kolları Genel Başkanı Okuducu , olayı "" 2 .
+assistant
+<think>
+
+</think>
+
+COMP: Genel Başkanı",COMP: Genel Başkanı,"COMP: Genel Başkanı
+COMP: Okuducu , olayı"
+161,"Ağaç kökleriyle kaplanmış , yıkılmak üzere olan duvarlar sağlama alındı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ağaç kökleriyle kaplanmış , yıkılmak üzere olan duvarlar sağlama alındı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+162,"Bu , öğrencinin hedefe ulaşmasında yardımcı olacaktır ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu , öğrencinin hedefe ulaşmasında yardımcı olacaktır ."" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: yardımcı olacaktır
+163,"Nitekim , 13 aylık tahvil ihalesinde bileşik yüzde 112 .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Nitekim , 13 aylık tahvil ihalesinde bileşik yüzde 112 .
+assistant
+<think>
+
+</think>
+
+COMP: 13 aylık",COMP: 13 aylık,No compound found.
+164,Zaten bu yüzden dünyada da şirket birleşmeleri oluyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Zaten bu yüzden dünyada da şirket birleşmeleri oluyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: bu yüzden
+165,"Milliyet Gazetesi çizeri Selçuk , 3 4 ciltlik Abdülcanbaz albümleriyle dünya çapında üne sahip .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Milliyet Gazetesi çizeri Selçuk , 3 4 ciltlik Abdülcanbaz albümleriyle dünya çapında üne sahip .
+assistant
+<think>
+
+</think>
+
+COMP: Gazetesi
+COMP: ciltlik
+COMP: albümleriyle","COMP: Gazetesi
+COMP: ciltlik
+COMP: albümleriyle",COMP: Milliyet Gazetesi
+166,"Bir kısmının sorgusu sürmektedir "" dedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bir kısmının sorgusu sürmektedir "" dedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+167,"Kennedy , yaptığı yazılı açıklamada , "" Methal'ın ölümü , çocukları , eşi Viski ve tüm ailesi için çok kötü bir trajedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kennedy , yaptığı yazılı açıklamada , "" Methal'ın ölümü , çocukları , eşi Viski ve tüm ailesi için çok kötü bir trajedi .
+assistant
+<think>
+
+</think>
+
+COMP: açıklamada
+COMP: çok
+COMP: trajedi","COMP: açıklamada
+COMP: çok
+COMP: trajedi",No compound found.
+168,Sanık kendiliğinden teslim oldu .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sanık kendiliğinden teslim oldu .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: teslim oldu
+169,Ama buna karşın 10 çeşit imla klavuzumuz var .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ama buna karşın 10 çeşit imla klavuzumuz var .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: 10 çeşit
+170,Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP-LVC: ihlal ediliyor
+171,Yadsınamayacak bir gerçek var ki dünyanın üçüncü genç nüfusunu oluşturan Türk toplumu çökmüş bir devletin altında kalmamak için el yordamıyla bir şeyler arıyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yadsınamayacak bir gerçek var ki dünyanın üçüncü genç nüfusunu oluşturan Türk toplumu çökmüş bir devletin altında kalmamak için el yordamıyla bir şeyler arıyor .
+assistant
+<think>
+
+</think>
+
+COMP: çökmüş",COMP: çökmüş,No compound found.
+172,Ağır Ceza Mahkemesi'nde duruşma günü verilebildi .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ağır Ceza Mahkemesi'nde duruşma günü verilebildi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: Ağır Ceza
+COMP: Mahkemesi'nde duruşma"
+173,"Rus yapımı S - 300 füzeleri konusunda Ankara'dan yapılan açıklamaları Milliyet için değerlendiren Kasulides , "" biz o kadar da ahmak ya da deli değiliz .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Rus yapımı S - 300 füzeleri konusunda Ankara'dan yapılan açıklamaları Milliyet için değerlendiren Kasulides , "" biz o kadar da ahmak ya da deli değiliz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: ahmak ya
+174,"Geceye katılan Cumhurbaşkanı Süleyman Demirel , kamuoyunun haber ve bilgi edinme ihtiyacını karşılayan televizyon kanallarının çoğalmasının toplumun gelişmesinde büyük önem taşıdığını söyledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Geceye katılan Cumhurbaşkanı Süleyman Demirel , kamuoyunun haber ve bilgi edinme ihtiyacını karşılayan televizyon kanallarının çoğalmasının toplumun gelişmesinde büyük önem taşıdığını söyledi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Geceye katılan
+175,İstanbul DGM Başsavcılığı ise Söylemezler hakkında suç işlemek için örgüt oluşturdukları gerekçesiyle açtığı davada Türk Ceza Kanunu'nun 313 . maddesi gereğince bir ile üç yıl arasında hapis cezası istemişti .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+İstanbul DGM Başsavcılığı ise Söylemezler hakkında suç işlemek için örgüt oluşturdukları gerekçesiyle açtığı davada Türk Ceza Kanunu'nun 313 . maddesi gereğince bir ile üç yıl arasında hapis cezası istemişti .
+assistant
+<think>
+
+</think>
+
+COMP: Başsavcılığı
+COMP: suç işlemek
+COMP: Türk Ceza Kanunu'nun","COMP: Başsavcılığı
+COMP: suç işlemek
+COMP: Türk Ceza Kanunu'nun","COMP: İstanbul DGM
+COMP: Başsavcılığı ise Söylemezler
+COMP: suç işlemek
+COMP: Ceza Kanunu'nun"
+176,Fuara tümü otomotiv sektöründe uzmanlaşmış 25 bine yakın ziyaretçinin geleceği tahmin ediliyor .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Fuara tümü otomotiv sektöründe uzmanlaşmış 25 bine yakın ziyaretçinin geleceği tahmin ediliyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: tümü otomotiv
+COMP-LVC: tahmin ediliyor"
+177,"Ordu Komutanı Orgeneral Rasim Bedir , yüksek rütbeli subaylardan bilgi aldı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ordu Komutanı Orgeneral Rasim Bedir , yüksek rütbeli subaylardan bilgi aldı .
+assistant
+<think>
+
+</think>
+
+COMP: Ordu Komutanı
+COMP: Orgeneral","COMP: Ordu Komutanı
+COMP: Orgeneral",COMP: bilgi aldı
+178,"Her şeyden önce , demokrasilerde toplumun bile insanın yaşamını elinden alma hakkı olmadığından başlayabiliriz .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Her şeyden önce , demokrasilerde toplumun bile insanın yaşamını elinden alma hakkı olmadığından başlayabiliriz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: elinden alma
+COMP: hakkı olmadığından"
+179,- Ya ikinci neden .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+- Ya ikinci neden .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+180,Güler hanımdan öğrendiğime göre Kordsa 1973'te kurulmuş .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Güler hanımdan öğrendiğime göre Kordsa 1973'te kurulmuş .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+181,"Bu ailelerin çocukları da okula gidiyor "" dedi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bu ailelerin çocukları da okula gidiyor "" dedi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+182,Biz devletimizi istiyoruz .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Biz devletimizi istiyoruz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+183,"- Dışarıya yazmak , iç sesimi özgürleştiriyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+- Dışarıya yazmak , iç sesimi özgürleştiriyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Dışarıya yazmak
+184,"Ege'de geçerli çözüm , savaş değil , barıştır .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ege'de geçerli çözüm , savaş değil , barıştır .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+185,"Cemiyet Başkanı Bülent Ayan , medyanın yoğun şekilde üzerinde durduğu` temiz toplum ' mücadelesinin gündemde kalması için , bu sene plaket yerine süpürge armağan ettiklerini söyledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Cemiyet Başkanı Bülent Ayan , medyanın yoğun şekilde üzerinde durduğu` temiz toplum ' mücadelesinin gündemde kalması için , bu sene plaket yerine süpürge armağan ettiklerini söyledi .
+assistant
+<think>
+
+</think>
+
+COMP: Cemiyet Başkanı
+COMP: medyanın yoğun
+COMP: toplum '
+COMP: mücadelesinin gündemde
+COMP: bu sene plaket yerine","COMP: Cemiyet Başkanı
+COMP: medyanın yoğun
+COMP: toplum '
+COMP: mücadelesinin gündemde
+COMP: bu sene plaket yerine","COMP: Başkanı Bülent
+COMP: üzerinde durduğu` temiz
+COMP-LVC: armağan ettiklerini"
+186,Çünkü Fadime'nin açıklamalarından sonra hiçbir şey eskisi gibi gitmeyecek .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Çünkü Fadime'nin açıklamalarından sonra hiçbir şey eskisi gibi gitmeyecek .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: hiçbir şey
+187,MARAŞ AÇILACAK .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+MARAŞ AÇILACAK .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+188,"Kastettiğimiz , taşeronluktan farklı bir şey .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Kastettiğimiz , taşeronluktan farklı bir şey .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: bir şey
+189,"RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner , ne bu terör biter ."" .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner , ne bu terör biter ."" .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,"COMP: Rize Milletvekili
+COMP: Şevki Yılmaz"
+190,Nedeni basitti .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Nedeni basitti .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+191,"ABD yönetimi , artık RP'yi "" kazayla hükümete gelmiş , iki merkez sağ parti birleşmediği için aradan fırlamış "" bir siyasi yapı saymıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+ABD yönetimi , artık RP'yi "" kazayla hükümete gelmiş , iki merkez sağ parti birleşmediği için aradan fırlamış "" bir siyasi yapı saymıyor .
+assistant
+<think>
+
+</think>
+
+COMP: siyasi yapı",COMP: siyasi yapı,No compound found.
+192,Tüm dünyada bu böyle .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tüm dünyada bu böyle .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+193,"Bir zamanlar , çoğunun elinden bile tutmaya üşendiği Türkçeye , bugün çok şükür herkes sahip çıkıyor .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bir zamanlar , çoğunun elinden bile tutmaya üşendiği Türkçeye , bugün çok şükür herkes sahip çıkıyor .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: elinden bile tutmaya
+194,"Gökdemir , bu sözler üzerine iyice sinirlenerek , "" Ben o genel sekreterin de a . sını av . dını .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Gökdemir , bu sözler üzerine iyice sinirlenerek , "" Ben o genel sekreterin de a . sını av . dını .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+195,"Gül babam , gül .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Gül babam , gül .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+196,"TBMM Başkanlık Divanı son toplantısında sigara yasağından , genel başkanların özel korumalarının Meclis'e girememesine , sağlık harcamalarının kısıtlanmasından , türbanlı kadınların nasıl Meclis'e gireceğine kadar bir dizi karar aldı .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+TBMM Başkanlık Divanı son toplantısında sigara yasağından , genel başkanların özel korumalarının Meclis'e girememesine , sağlık harcamalarının kısıtlanmasından , türbanlı kadınların nasıl Meclis'e gireceğine kadar bir dizi karar aldı .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: karar aldı
+197,"F . Bahçe'nin yıldızı Högh , Cim - Bom Cim - Bom'un rahat kazandığını söyledi .","user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+F . Bahçe'nin yıldızı Högh , Cim - Bom Cim - Bom'un rahat kazandığını söyledi .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,COMP: Bom Cim
+198,İsim vermemişti .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+İsim vermemişti .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
+199,Taraftarlarımıza bunları vereceğiz .,"user
+/no_think 复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+例子如下：
+
+COMP: 安全帽, 近代文学, 夜班, 星星，问题，重型火砲關鍵部件
+COMP-EXT: 記得，表現得
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Taraftarlarımıza bunları vereceğiz .
+assistant
+<think>
+
+</think>
+
+No compound found.",No compound found.,No compound found.
