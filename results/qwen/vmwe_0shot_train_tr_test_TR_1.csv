@@ -1,0 +1,3438 @@
+,sentence,full_output,output,label
+0,Hangi yazı mı .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hangi yazı mı .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+1,Başarısızlıkta ilk fatura bana çıkarılmıştır .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Başarısızlıkta ilk fatura bana çıkarılmıştır .
+assistant
+<think>
+
+</think>
+
+VID: fatura çıkarılmıştır",VID: fatura çıkarılmıştır,VID: fatura çıkarılmıştır
+2,Ama bu arada İstanbul'da iki bin lira daha ucuz ekmek almak için erken saatlerde kalkıp uzun kuyruklar oluşturan insanlarımız da artıyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ama bu arada İstanbul'da iki bin lira daha ucuz ekmek almak için erken saatlerde kalkıp uzun kuyruklar oluşturan insanlarımız da artıyor .
+assistant
+<think>
+
+</think>
+
+VID: kalkıp uzun kuyruklar oluşturan",VID: kalkıp uzun kuyruklar oluşturan,No MWE found.
+3,"Bakanlıklar , "" hiçbir yetkiyi devredemeyiz ."" diye cevap verdi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bakanlıklar , "" hiçbir yetkiyi devredemeyiz ."" diye cevap verdi .
+assistant
+<think>
+
+</think>
+
+VID: cevap verdi",VID: cevap verdi,LVC.full: cevap verdi
+4,"Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Çünkü UEFA'ya şikayet ettiğimiz taktirde Galatasaray zarar görecekti "" ifadesini kullandı .
+assistant
+<think>
+
+</think>
+
+VID: zarar görecekti",VID: zarar görecekti,LVC.full: şikayet ettiğimiz
+5,Kişisellik ve kişilik ön plana çıkarılmak isteniyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kişisellik ve kişilik ön plana çıkarılmak isteniyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: ön plana çıkarılmak
+6,"Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular , kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Temel amaçlarının yabancı dil öğretimine ciddiyet kazandırmak olduğunu dile getiren kurucular , kursiyerlerin "" aldatılmaması "" konusunda da ciddi yaptırımlar getireceklerini söylediler .
+assistant
+<think>
+
+</think>
+
+VID: ciddi yaptırımlar",VID: ciddi yaptırımlar,VID: dile getiren
+7,Biz tüm oyuncularımızı göndermeye hazırız .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Biz tüm oyuncularımızı göndermeye hazırız .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+8,"Bana kalırsa , Türkiye'ye lazım olan , 200 fabrikadır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bana kalırsa , Türkiye'ye lazım olan , 200 fabrikadır .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+9,Bu görevi yerine getirmek için ilk adım atılmıştır .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu görevi yerine getirmek için ilk adım atılmıştır .
+assistant
+<think>
+
+</think>
+
+LVC.full: yerine getirmek",LVC.full: yerine getirmek,"VID: yerine getirmek
+VID: adım atılmıştır"
+10,"İngilterenin başkenti Londra'da toplanan onbinlerce kişi , "" yaşam biçimlerini tehdit ettiğini söyledikleri hükümet politikalarını "" eleştirmek amacıyla bir gösteri yürüyüşü düzenlediler .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İngilterenin başkenti Londra'da toplanan onbinlerce kişi , "" yaşam biçimlerini tehdit ettiğini söyledikleri hükümet politikalarını "" eleştirmek amacıyla bir gösteri yürüyüşü düzenlediler .
+assistant
+<think>
+
+</think>
+
+VID: eleştirmek amacıyla",VID: eleştirmek amacıyla,LVC.full: tehdit ettiğini
+11,Şeref OĞUZ .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Şeref OĞUZ .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+12,"C örgütü üyesi Mustafa Duyar'la birlikte , kuryelikle suçlanan Avukat Metin Narin ve suikastçileri evinde sakladığı gerekçesiyle Melek Akkaya , İstanbul DGM'ye sevkedildi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+C örgütü üyesi Mustafa Duyar'la birlikte , kuryelikle suçlanan Avukat Metin Narin ve suikastçileri evinde sakladığı gerekçesiyle Melek Akkaya , İstanbul DGM'ye sevkedildi .
+assistant
+<think>
+
+</think>
+
+VID: suçlanan",VID: suçlanan,No MWE found.
+13,"Sanki , "" bizim demokrasimiz olmasa , onların söz hakkı olurmuş gibi ."" Demokrasiyi kabul etmediklerine göre , onların aklındaki aklında ki rejim , "" şeriat düzeni ."" Kimseye özgürlük tanımayan , İslami diktatörlük asıl amaç .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sanki , "" bizim demokrasimiz olmasa , onların söz hakkı olurmuş gibi ."" Demokrasiyi kabul etmediklerine göre , onların aklındaki aklında ki rejim , "" şeriat düzeni ."" Kimseye özgürlük tanımayan , İslami diktatörlük asıl amaç .
+assistant
+<think>
+
+</think>
+
+VID: söz hakkı olurmuş gibi",VID: söz hakkı olurmuş gibi,"LVC.full: söz hakkı olurmuş
+LVC.full: kabul etmediklerine"
+14,"Mükerrem Taşçıoğlu'nun Çalışma ve Sosyal Güvenlik Bakanlığı sırasında 1986'da "" çok hayırlı hayır lı kanun "" diye nitelenerek çıkarılan bir kanunla oluşturulan ve Emlakbank'ta toplanan "" Konut Edindirme Fonu'nda biriken paraların hangi amaçla kullanıldığı belli değil .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Mükerrem Taşçıoğlu'nun Çalışma ve Sosyal Güvenlik Bakanlığı sırasında 1986'da "" çok hayırlı hayır lı kanun "" diye nitelenerek çıkarılan bir kanunla oluşturulan ve Emlakbank'ta toplanan "" Konut Edindirme Fonu'nda biriken paraların hangi amaçla kullanıldığı belli değil .
+assistant
+<think>
+
+</think>
+
+LVC.full: kanun",LVC.full: kanun,No MWE found.
+15,Abas Güçlü .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Abas Güçlü .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+16,Biz devletimizi istiyoruz .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Biz devletimizi istiyoruz .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+17,"Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak , verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sağlık Bakanlığı bu görevlerin yerine getirilmesi ile ilgili olarak , verilen hizmetlerin bedellerini yükümlü sigorta şirketlerinden tahsil etmek için Maliye Bakanlığı'nın görüşünü alarak döner sermaye saymanlığı kurar .
+assistant
+<think>
+
+</think>
+
+LVC.full: yerine getirilmesi",LVC.full: yerine getirilmesi,"LVC.full: tahsil etmek
+VID: görüşünü alarak"
+18,"İkincisi , sağduyuya sahip .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İkincisi , sağduyuya sahip .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+19,Yapay bir pankreas kullanılmaya hazır olacak .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yapay bir pankreas kullanılmaya hazır olacak .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: hazır olacak
+20,1992 - 93 yılında Talim Terbiye'de çalıştım .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+1992 - 93 yılında Talim Terbiye'de çalıştım .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+21,"Ufuklar simsiyah , yollar karışık .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ufuklar simsiyah , yollar karışık .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+22,"Cevheri , gazetecilerin "" yeni bir ortaklık "" konusunun gündeme gelip gelmediği sorularına "" Ortaklıkla alakası yok .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Cevheri , gazetecilerin "" yeni bir ortaklık "" konusunun gündeme gelip gelmediği sorularına "" Ortaklıkla alakası yok .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+23,Hamallık yapacaksın .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hamallık yapacaksın .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+24,"Halit , dava sırasında yoruldu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Halit , dava sırasında yoruldu .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+25,Evlilik kurumuna nasıl bir eleştiri getiriyorsunuz .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Evlilik kurumuna nasıl bir eleştiri getiriyorsunuz .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+26,"Ağaç kökleriyle kaplanmış , yıkılmak üzere olan duvarlar sağlama alındı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ağaç kökleriyle kaplanmış , yıkılmak üzere olan duvarlar sağlama alındı .
+assistant
+<think>
+
+</think>
+
+VID: alındı",VID: alındı,VID: sağlama alındı
+27,MARAŞ AÇILACAK .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+MARAŞ AÇILACAK .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+28,"RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner , ne bu terör biter ."" .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+RP Rize Milletvekili Şevki Yılmaz : "" Ayasofya'nın minarelerinden ezan sesi duyulmadıkça ne bu enflasyon iner , ne bu terör biter ."" .
+assistant
+<think>
+
+</think>
+
+VID: duyulmadıkça",VID: duyulmadıkça,No MWE found.
+29,"Yalnızca , .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yalnızca , .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+30,"Beder gibi meşhur olamazsın "" diyerek tehditler savurdu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Beder gibi meşhur olamazsın "" diyerek tehditler savurdu .
+assistant
+<think>
+
+</think>
+
+VID: tehditler savurdu",VID: tehditler savurdu,"LVC.full: meşhur olamazsın
+VID: tehditler savurdu"
+31,Bana çok destek oluyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bana çok destek oluyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: destek oluyor
+32,"Tuğgeneral Günel , Rumlar'ın tarihi bir hesap hatası içinde olduklarını belirterek , "" Umut ederiz ki bu kez vakit geç olmadan hatalarını anlarlar ve vazgeçerler "" diye konuştu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Tuğgeneral Günel , Rumlar'ın tarihi bir hesap hatası içinde olduklarını belirterek , "" Umut ederiz ki bu kez vakit geç olmadan hatalarını anlarlar ve vazgeçerler "" diye konuştu .
+assistant
+<think>
+
+</think>
+
+VID: hatalarını anlarlar",VID: hatalarını anlarlar,No MWE found.
+33,"Bu kişilerden , hangi anlayışı yaşama aktarmak için destek ve gayret talep ediyorsunuz ."" .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu kişilerden , hangi anlayışı yaşama aktarmak için destek ve gayret talep ediyorsunuz ."" .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: talep ediyorsunuz
+34,"Daily Telegraph'ın "" İngilizler AB'ye sırtını dönüyor "" başlıklı başlık lı haberi , Avrupa ülkelerinin , AB ve ortak para birimine bakışlarının farklı olduğunu ortaya koyuyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Daily Telegraph'ın "" İngilizler AB'ye sırtını dönüyor "" başlıklı başlık lı haberi , Avrupa ülkelerinin , AB ve ortak para birimine bakışlarının farklı olduğunu ortaya koyuyor .
+assistant
+<think>
+
+</think>
+
+VID: sırtını dönüyor",VID: sırtını dönüyor,VID: ortaya koyuyor
+35,"Edinilen bilgiye göre , Özkök'ün lüks döşenmiş , sekreterli bir bürosu olduğunu , şoförü ve korumaları bulunduğunu öne süren Duyar , ifadesini şöyle sürdürdü : "" Giderek örgüt beni kaderimle başbaşa bıraktı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Edinilen bilgiye göre , Özkök'ün lüks döşenmiş , sekreterli bir bürosu olduğunu , şoförü ve korumaları bulunduğunu öne süren Duyar , ifadesini şöyle sürdürdü : "" Giderek örgüt beni kaderimle başbaşa bıraktı .
+assistant
+<think>
+
+</think>
+
+VID: öne süren",VID: öne süren,VID: öne süren
+36,"Avrupa Ritmik Cimnastik Şampiyonası 22 - 25 Mayıs , Yunanistan ( Patras ) .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Avrupa Ritmik Cimnastik Şampiyonası 22 - 25 Mayıs , Yunanistan ( Patras ) .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+37,"Anlayış , adaletin gereği ; hoşgörü de bir parçasıdır parçası dır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Anlayış , adaletin gereği ; hoşgörü de bir parçasıdır parçası dır .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+38,Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Nerede kaldı Sabancı'ların uluslararası devlerle yaptıkları ortaklıklarla övünmeleri .
+assistant
+<think>
+
+</think>
+
+VID: övünmeleri",VID: övünmeleri,No MWE found.
+39,"O meslek kendi içindeki içinde ki yasa dışı davranışları temizleyerek , suçluları mahkeme önüne çıkartarak kendini temizler .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+O meslek kendi içindeki içinde ki yasa dışı davranışları temizleyerek , suçluları mahkeme önüne çıkartarak kendini temizler .
+assistant
+<think>
+
+</think>
+
+VID: mahkeme önüne çıkartarak",VID: mahkeme önüne çıkartarak,VID: mahkeme önüne çıkartarak
+40,"İyi ki , bir kamyon Mercedes'e çarptı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İyi ki , bir kamyon Mercedes'e çarptı .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+41,"Şimdi Rum Yönetimi'nin hedefi , Washington'ın tepki ve baskılarını bertaraf etmek "" ifadesine yer veriyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Şimdi Rum Yönetimi'nin hedefi , Washington'ın tepki ve baskılarını bertaraf etmek "" ifadesine yer veriyor .
+assistant
+<think>
+
+</think>
+
+VID: yer veriyor",VID: yer veriyor,"LVC.full: bertaraf etmek
+VID: yer veriyor"
+42,"Fadime işte , iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Fadime işte , iplerin iyice gerildiği bir dönemde bu iki projeyi karşı karşıya getirdi .
+assistant
+<think>
+
+</think>
+
+VID: karşı karşıya getirdi",VID: karşı karşıya getirdi,VID: karşı karşıya getirdi
+43,"Türkiye'de dini faaliyetlerin eskiden beri soruşturma konusu edildiğini ve kendisinin de bu kapsamda sıkça kovuşturmaya uğradığını , takip ve tehdit edildiğini kaydeden Gülen bazı çevrelerin "" Bunlar çok büyüyorlar , haklarından gelmek lazım "" diye düşündüklerini , hatta "" Ah bir sokağa çıksalar , onlara gösteririz "" denildiğini savundu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Türkiye'de dini faaliyetlerin eskiden beri soruşturma konusu edildiğini ve kendisinin de bu kapsamda sıkça kovuşturmaya uğradığını , takip ve tehdit edildiğini kaydeden Gülen bazı çevrelerin "" Bunlar çok büyüyorlar , haklarından gelmek lazım "" diye düşündüklerini , hatta "" Ah bir sokağa çıksalar , onlara gösteririz "" denildiğini savundu .
+assistant
+<think>
+
+</think>
+
+VID: kovuşturmaya uğradığını",VID: kovuşturmaya uğradığını,"LVC.full: takip edildiğini
+LVC.full: tehdit edildiğini
+VID: haklarından gelmek"
+44,KONSER .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+KONSER .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+45,"Lice'nin kapılarını aralamaya devam edeceğiz "" dedi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Lice'nin kapılarını aralamaya devam edeceğiz "" dedi .
+assistant
+<think>
+
+</think>
+
+VID: devam edeceğiz",VID: devam edeceğiz,"VID: kapılarını aralamaya
+LVC.full: devam edeceğiz"
+46,F - 4 savaş uçakları .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+F - 4 savaş uçakları .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+47,"Bu kadar fahiş fark olmaz , "" dedi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu kadar fahiş fark olmaz , "" dedi .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: fark olmaz
+48,"KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi , Türkiye'nin Montrö Sözleşmesi uyarınca , füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+KIBRIS Rum Yönetimi'nin Rusya'dan füze alımına karar vermesiyle ortaya çıkan gerginliğinin uluslararası basın tarafından 1963 Küba krizine benzetilmesi , Türkiye'nin Montrö Sözleşmesi uyarınca , füzeleri taşıyan gemilerin Boğazlar'dan geçişini engelleyip engelleyemeyeceği tartışmasını gündeme getirdi .
+assistant
+<think>
+
+</think>
+
+VID: karar vermesiyle",VID: karar vermesiyle,"LVC.full: karar vermesiyle
+VID: ortaya çıkan
+VID: gündeme getirdi"
+49,"Ancak o günlerde el değiştirmelerle ilgili bir şart bulunmadığı için Topal , rahatlıkla aracı kurum sahibi oldu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ancak o günlerde el değiştirmelerle ilgili bir şart bulunmadığı için Topal , rahatlıkla aracı kurum sahibi oldu .
+assistant
+<think>
+
+</think>
+
+VID: el değiştirmelerle",VID: el değiştirmelerle,LVC.full: sahibi oldu
+50,"İcraattan çok , laf üreten politikacılar , niye baştacı edilip , bakanlık koltuğuna oturtuluyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İcraattan çok , laf üreten politikacılar , niye baştacı edilip , bakanlık koltuğuna oturtuluyor .
+assistant
+<think>
+
+</think>
+
+VID: baştacı edilip",VID: baştacı edilip,VID: laf üreten
+51,Ödül kazanan bütün yazarlara ayrıca Çınar Yayınları tarafından Rıfat Ilgaz'ın bütün eserlerinden oluşan birer set armağan edilecek .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ödül kazanan bütün yazarlara ayrıca Çınar Yayınları tarafından Rıfat Ilgaz'ın bütün eserlerinden oluşan birer set armağan edilecek .
+assistant
+<think>
+
+</think>
+
+LVC.full: armağan edilecek",LVC.full: armağan edilecek,LVC.full: armağan edilecek
+52,"Ankara'daki Ankara'da ki 550 milletvekili , bizleri ne kadar temsil ediyor sorusunun cevabını arıyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ankara'daki Ankara'da ki 550 milletvekili , bizleri ne kadar temsil ediyor sorusunun cevabını arıyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: temsil ediyor
+53,Otomotiv sanayicileri AB'nin Gümrük Birliği mevzuatı çerçevesinde bedelsiz otomobil ithalatı uygulamasının bitmesine izin vermeyeceğinden endişeleniyorlar .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Otomotiv sanayicileri AB'nin Gümrük Birliği mevzuatı çerçevesinde bedelsiz otomobil ithalatı uygulamasının bitmesine izin vermeyeceğinden endişeleniyorlar .
+assistant
+<think>
+
+</think>
+
+VID: izin vermeyeceğinden endişeleniyorlar",VID: izin vermeyeceğinden endişeleniyorlar,LVC.full: izin vermeyeceğinden
+54,Paul Kennedy : .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Paul Kennedy : .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+55,Herkes istediği doktoru seçebilecek .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Herkes istediği doktoru seçebilecek .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+56,""" Hakim olan eşimle geçen eylülde atamamızın yapılmasını bekliyorduk , ama olmadı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+"" Hakim olan eşimle geçen eylülde atamamızın yapılmasını bekliyorduk , ama olmadı .
+assistant
+<think>
+
+</think>
+
+LVC.full: atamamızın yapılmasını",LVC.full: atamamızın yapılmasını,No MWE found.
+57,Düşman kurşununa göğsünü gerdi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Düşman kurşununa göğsünü gerdi .
+assistant
+<think>
+
+</think>
+
+VID: göğsünü gerdi",VID: göğsünü gerdi,VID: göğsünü gerdi
+58,"B . Hakan , bu olayın peşini bırakmayacağını da ekledi , "" Avukatlarım , İstanbul'da gerekli çalışmaları yapıyor ve delilleri topluyorlar .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+B . Hakan , bu olayın peşini bırakmayacağını da ekledi , "" Avukatlarım , İstanbul'da gerekli çalışmaları yapıyor ve delilleri topluyorlar .
+assistant
+<think>
+
+</think>
+
+VID: peşini bırakmayacağını",VID: peşini bırakmayacağını,"LVC.full: çalışmaları yapıyor
+VID: delilleri topluyorlar"
+59,Türkçe'nin doğru kullanılması için hazırlatılan yasa tasarısında Türk Dil kurallarına uymayan 100'ü aşkın kelime tespit edildi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Türkçe'nin doğru kullanılması için hazırlatılan yasa tasarısında Türk Dil kurallarına uymayan 100'ü aşkın kelime tespit edildi .
+assistant
+<think>
+
+</think>
+
+VID: tespit edildi",VID: tespit edildi,LVC.full: tespit edildi
+60,"Özel eğitimli eğitim li bir astsubayın ekip komutanlığını yaptığı tim , sabah erken saatlerde kısa bir keşif yaptıktan sonra kayak pistlerini gözetim altında tutuyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Özel eğitimli eğitim li bir astsubayın ekip komutanlığını yaptığı tim , sabah erken saatlerde kısa bir keşif yaptıktan sonra kayak pistlerini gözetim altında tutuyor .
+assistant
+<think>
+
+</think>
+
+VID: gözetim altında tutuyor",VID: gözetim altında tutuyor,VID: gözetim altında tutuyor
+61,"TÜRK Silahlı Silah lı Kuvvetleri'ne ( KSK ) yapılan ek zammın ardından , emniyet mensuplarına da ek zammın gündeme gelmesi emeklileri harekete geçirdi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+TÜRK Silahlı Silah lı Kuvvetleri'ne ( KSK ) yapılan ek zammın ardından , emniyet mensuplarına da ek zammın gündeme gelmesi emeklileri harekete geçirdi .
+assistant
+<think>
+
+</think>
+
+VID: harekete geçirdi",VID: harekete geçirdi,VID: harekete geçirdi
+62,"Toplumun kendini koruması , suçlunun ıslahı ve caydırıcılık .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Toplumun kendini koruması , suçlunun ıslahı ve caydırıcılık .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+63,Sanık kendiliğinden teslim oldu .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sanık kendiliğinden teslim oldu .
+assistant
+<think>
+
+</think>
+
+LVC.full: teslim oldu",LVC.full: teslim oldu,LVC.full: teslim oldu
+64,Ve artık amaca yönelik adımların atılması gerektiğini düşünüyorlar .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ve artık amaca yönelik adımların atılması gerektiğini düşünüyorlar .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: adımların atılması
+65,"Altı aylık yoğun ve samimi çalışma neticesinde ülkede istikrarı sağlamıştır ."" .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Altı aylık yoğun ve samimi çalışma neticesinde ülkede istikrarı sağlamıştır ."" .
+assistant
+<think>
+
+</think>
+
+VID: samimi çalışma",VID: samimi çalışma,No MWE found.
+66,Erbakan'dan rica ediyoruz : Bakanlar Kurulu'nu lütfen bir kez de Muş'ta toplayınız .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Erbakan'dan rica ediyoruz : Bakanlar Kurulu'nu lütfen bir kez de Muş'ta toplayınız .
+assistant
+<think>
+
+</think>
+
+VID: rica ediyoruz",VID: rica ediyoruz,LVC.full: rica ediyoruz
+67,Avustralya'ya göç veren ülkeler de olup bitenden rahatsız .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Avustralya'ya göç veren ülkeler de olup bitenden rahatsız .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: göç veren
+68,Demokratik rejim bundan tedirginlik duyuyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Demokratik rejim bundan tedirginlik duyuyor .
+assistant
+<think>
+
+</think>
+
+VID: tedirginlik duyuyor",VID: tedirginlik duyuyor,VID: tedirginlik duyuyor
+69,"Ama burada gözden kaçırılmaması gereken nokta ; bu tarihsel kişiliğin günümüze yansıyan modern ve olumlu bakışının , eleştirilebilecek yönlerine baskın çıkmasıdır çıkması dır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ama burada gözden kaçırılmaması gereken nokta ; bu tarihsel kişiliğin günümüze yansıyan modern ve olumlu bakışının , eleştirilebilecek yönlerine baskın çıkmasıdır çıkması dır .
+assistant
+<think>
+
+</think>
+
+VID: gözden kaçırılmaması",VID: gözden kaçırılmaması,"VID: gözden kaçırılmaması
+VID: baskın çıkması dır"
+70,"Bu nedenle , ilk ana başlığımız devlet reformudur reformu dur .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu nedenle , ilk ana başlığımız devlet reformudur reformu dur .
+assistant
+<think>
+
+</think>
+
+VID: devlet reformudur",VID: devlet reformudur,No MWE found.
+71,Hazine Müşteşarlığı'ndan gelen belge ise bu transferin 425 bin dolarlık dolar lık bölümünü doğrularken Maliye Bakanlığı Gelirler Genel Müdürlüğü ellerinde bu yönde hiç bir belge olmadığını bildirince Demirbank aracılığıyla yapılan transfer konusu da iyice kuşkulu bir hal aldı .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hazine Müşteşarlığı'ndan gelen belge ise bu transferin 425 bin dolarlık dolar lık bölümünü doğrularken Maliye Bakanlığı Gelirler Genel Müdürlüğü ellerinde bu yönde hiç bir belge olmadığını bildirince Demirbank aracılığıyla yapılan transfer konusu da iyice kuşkulu bir hal aldı .
+assistant
+<think>
+
+</think>
+
+LVC.full: doğrularken",LVC.full: doğrularken,VID: bir hal aldı
+72,"Hem Waşhington , hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hem Waşhington , hem de Brüksel için Kıbrıs sorununun çözümü Ankara'dan geçiyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+73,"İbrahim Tatlıses'in dediği gibi "" ben de isterem "" .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İbrahim Tatlıses'in dediği gibi "" ben de isterem "" .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+74,Gül : Herşeye ikna olup imza atıyoruz .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Gül : Herşeye ikna olup imza atıyoruz .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: imza atıyoruz
+75,İzmir Devlet Opera ve Balesi Yeni Yıl konserleri bu akşam ve 7 Ocak saat 20.00'de izlenebilir .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İzmir Devlet Opera ve Balesi Yeni Yıl konserleri bu akşam ve 7 Ocak saat 20.00'de izlenebilir .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+76,"( Sanki "" Ulus "" kavramı yok edilmeden , "" ulus "" sözcüğü yok edilebilirmiş gibi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+( Sanki "" Ulus "" kavramı yok edilmeden , "" ulus "" sözcüğü yok edilebilirmiş gibi .
+assistant
+<think>
+
+</think>
+
+VID: yok edilmeden",VID: yok edilmeden,LVC.full: yok edilmeden
+77,"TARAFLAR arasında tartışma konusu olan Batı Şeria'nın El Halil kentindeki kentinde ki bir pazar yerinde , yılbaşının ertesinde bir İsrail askerinin otomatik tüfekle Filistinli kalabalığın üzerine ateş açması , 2'si ağır 7 kişinin yaralanmasına neden olurken , bölgede yeni bir gerginlik yarattı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+TARAFLAR arasında tartışma konusu olan Batı Şeria'nın El Halil kentindeki kentinde ki bir pazar yerinde , yılbaşının ertesinde bir İsrail askerinin otomatik tüfekle Filistinli kalabalığın üzerine ateş açması , 2'si ağır 7 kişinin yaralanmasına neden olurken , bölgede yeni bir gerginlik yarattı .
+assistant
+<think>
+
+</think>
+
+VID: neden olurken",VID: neden olurken,"VID: ateş açması
+LVC.full: neden olurken"
+78,"Doğduğumuz ve büyüdüğümüz yerler , silüetini artık tam çizemediğimiz hoş fakat iyice uzak bir anı gibi kalacak .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Doğduğumuz ve büyüdüğümüz yerler , silüetini artık tam çizemediğimiz hoş fakat iyice uzak bir anı gibi kalacak .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+79,Tüketici itiraz etti .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Tüketici itiraz etti .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: itiraz etti
+80,"Cemiyet Başkanı Bülent Ayan , medyanın yoğun şekilde üzerinde durduğu` temiz toplum ' mücadelesinin gündemde kalması için , bu sene plaket yerine süpürge armağan ettiklerini söyledi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Cemiyet Başkanı Bülent Ayan , medyanın yoğun şekilde üzerinde durduğu` temiz toplum ' mücadelesinin gündemde kalması için , bu sene plaket yerine süpürge armağan ettiklerini söyledi .
+assistant
+<think>
+
+</think>
+
+VID: üzerinde durduğu",VID: üzerinde durduğu,"VID: gündemde kalması
+LVC.full: armağan ettiklerini"
+81,Kevser Hanım oğlu Yorgo'yu İstanbul'a İTÜ'ye mühendis olması için gönderir .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kevser Hanım oğlu Yorgo'yu İstanbul'a İTÜ'ye mühendis olması için gönderir .
+assistant
+<think>
+
+</think>
+
+LVC.full: gönderir",LVC.full: gönderir,No MWE found.
+82,Yavuz Donat .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yavuz Donat .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+83,Duncan /,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Duncan /
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+84,"Ve Türkiye'nin kaderini böylece 500- 600 kişi tayin ediyor ki , Türk halkı bunların kim olduklarını bile bilmiyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ve Türkiye'nin kaderini böylece 500- 600 kişi tayin ediyor ki , Türk halkı bunların kim olduklarını bile bilmiyor .
+assistant
+<think>
+
+</think>
+
+VID: tayin ediyor",VID: tayin ediyor,LVC.full: tayin ediyor
+85,Bu genç kitle büyük bir potansiyel oluşturuyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu genç kitle büyük bir potansiyel oluşturuyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+86,"ABD temsilcisi Ada ve Atina'daki Atina'da ki temaslarının ardından , Ankara'da görüşmelerde bulunacak .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+ABD temsilcisi Ada ve Atina'daki Atina'da ki temaslarının ardından , Ankara'da görüşmelerde bulunacak .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+87,"Çiller'e yakın isimlerden Devlet Bakanı Nevzat Ercan , ortaklar arasındaki arasında ki sıkıntıyı , "" RP bizi istismar ediyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Çiller'e yakın isimlerden Devlet Bakanı Nevzat Ercan , ortaklar arasındaki arasında ki sıkıntıyı , "" RP bizi istismar ediyor .
+assistant
+<think>
+
+</think>
+
+VID: istismar ediyor",VID: istismar ediyor,LVC.full: istismar ediyor
+88,Sonunda da konuşmaya karar verdim .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sonunda da konuşmaya karar verdim .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: karar verdim
+89,"Yarıyıl tatilinin son günleri Ramazan Bayramı'yla çakışınca , 15 günlük talil 2 4 güne çıkarıldı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yarıyıl tatilinin son günleri Ramazan Bayramı'yla çakışınca , 15 günlük talil 2 4 güne çıkarıldı .
+assistant
+<think>
+
+</think>
+
+VID: çakışınca",VID: çakışınca,No MWE found.
+90,Yeterince rezil olduk .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yeterince rezil olduk .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: rezil olduk
+91,Tabii önce muhalefette söylediklerimizi tam yapabilmemiz için RP'nin tek başına hükümet olması gerekir .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Tabii önce muhalefette söylediklerimizi tam yapabilmemiz için RP'nin tek başına hükümet olması gerekir .
+assistant
+<think>
+
+</think>
+
+VID: tam yapabilmemiz",VID: tam yapabilmemiz,No MWE found.
+92,"Şartımız , demokrasiye ilişkin yasal ve Anayasal rejim tamirlerinin hızla gerçekleşmesi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Şartımız , demokrasiye ilişkin yasal ve Anayasal rejim tamirlerinin hızla gerçekleşmesi .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+93,"HATIRLAYACAKSINIZ , vaktiyle bir "" ülke koşulları "" modası vardı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+HATIRLAYACAKSINIZ , vaktiyle bir "" ülke koşulları "" modası vardı .
+assistant
+<think>
+
+</think>
+
+VID: Hatırlayacaksınız",VID: Hatırlayacaksınız,No MWE found.
+94,"Bu süre içinde Alman , Amerikan , Japon , Fransız firmalarıyla çalışmalarımızdan şu tecrübeyi edindik ; .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu süre içinde Alman , Amerikan , Japon , Fransız firmalarıyla çalışmalarımızdan şu tecrübeyi edindik ; .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+95,Sayıları giderek artan felsefe meraklılarını bir üst başlıkla açıklamak mümkün değil .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sayıları giderek artan felsefe meraklılarını bir üst başlıkla açıklamak mümkün değil .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+96,"Korkum , Gümrük Birliği gibi paktlara katılma konusunda "" bitaraf "" kalma gayretiyle , "" bertaraf "" olmaktır olmak tır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Korkum , Gümrük Birliği gibi paktlara katılma konusunda "" bitaraf "" kalma gayretiyle , "" bertaraf "" olmaktır olmak tır .
+assistant
+<think>
+
+</think>
+
+VID: bitaraf kalma",VID: bitaraf kalma,No MWE found.
+97,Antalya - Burdur Karayolu'nda selden araçlar tarlalara sürüklendi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Antalya - Burdur Karayolu'nda selden araçlar tarlalara sürüklendi .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+98,Trabzon eve döndü .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Trabzon eve döndü .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+99,Sokaklarda rastladığım insanlarla konuşuyorum .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sokaklarda rastladığım insanlarla konuşuyorum .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+100,"AVNİ Akyol'la birlikte , kredili sistemin babası olan Prof .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+AVNİ Akyol'la birlikte , kredili sistemin babası olan Prof .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+101,"Musluk tamircisinde sertifika arayacaksınız , ama milyonların karşısında sorumlu bir görev yerine getirenlere hiçbir şey sormayacaksınız .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Musluk tamircisinde sertifika arayacaksınız , ama milyonların karşısında sorumlu bir görev yerine getirenlere hiçbir şey sormayacaksınız .
+assistant
+<think>
+
+</think>
+
+VID: yerine getirenlere",VID: yerine getirenlere,VID: yerine getirenlere
+102,"BOSNA - Hersek'te görev süresi sona eren NATO Barışı Uygulama Gücü'nün ( İFOR ) yerini alacak İstikrar Gücü'ne ( SFOR ) , Türkiye'nin bin 500 askerle katılacağı öğrenildi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+BOSNA - Hersek'te görev süresi sona eren NATO Barışı Uygulama Gücü'nün ( İFOR ) yerini alacak İstikrar Gücü'ne ( SFOR ) , Türkiye'nin bin 500 askerle katılacağı öğrenildi .
+assistant
+<think>
+
+</think>
+
+LVC.full: yerini alacak",LVC.full: yerini alacak,"VID: sona eren
+VID: yerini alacak"
+103,Kızının başını açmasına izin vermiyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kızının başını açmasına izin vermiyor .
+assistant
+<think>
+
+</think>
+
+LVC.full: izin vermiyor",LVC.full: izin vermiyor,LVC.full: izin vermiyor
+104,Nahit Bey ( Menteşe ) o zaman Zincirbozan'daydı Zincirbozan'da ydı .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Nahit Bey ( Menteşe ) o zaman Zincirbozan'daydı Zincirbozan'da ydı .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+105,İlhan Sanatevi'ndeki Sanatevi'nde ki karma resim sergisi 8 Ocak'ta sona erecek .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İlhan Sanatevi'ndeki Sanatevi'nde ki karma resim sergisi 8 Ocak'ta sona erecek .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: sona erecek
+106,İsrail'de enflasyonu düşürmenizin ve ekonominizi düzeltmenizin arkasındaki arkasında ki gerçek sır nedir ne dir .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İsrail'de enflasyonu düşürmenizin ve ekonominizi düzeltmenizin arkasındaki arkasında ki gerçek sır nedir ne dir .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+107,Bu illerdeki illerde ki oda başkanlarına erişmenin zorluğu da onların ortak bir özelliği olarak dikkat çekiyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu illerdeki illerde ki oda başkanlarına erişmenin zorluğu da onların ortak bir özelliği olarak dikkat çekiyor .
+assistant
+<think>
+
+</think>
+
+VID: dikkat çekiyor",VID: dikkat çekiyor,VID: dikkat çekiyor
+108,Talibin muhaliflerinin yaşadığı Takar'daki Takar'da ki sarsıntıdan sonra kurtarma ve enkaz kaldırma çalışmaları sürüyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Talibin muhaliflerinin yaşadığı Takar'daki Takar'da ki sarsıntıdan sonra kurtarma ve enkaz kaldırma çalışmaları sürüyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+109,"Müzikten çok imajın önemli önem li olduğu ülkemizde , geçen yıl pop müzikte parlayanlar arasında Sibel Bilgiç , Ümit Sayın , Gülşen , Rengin , Gökhan Tepe , Gülay , GMG , Af ve Aykut - Hakan - Ayşe gibi isimler vardı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Müzikten çok imajın önemli önem li olduğu ülkemizde , geçen yıl pop müzikte parlayanlar arasında Sibel Bilgiç , Ümit Sayın , Gülşen , Rengin , Gökhan Tepe , Gülay , GMG , Af ve Aykut - Hakan - Ayşe gibi isimler vardı .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+110,Şu sıralarda ise albümdeki albümde ki müzisyenlerle birlikte Ocak ayı boyunca her Çarşamba akşamı Eylül'de ( Arnavutköy ) çalıyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Şu sıralarda ise albümdeki albümde ki müzisyenlerle birlikte Ocak ayı boyunca her Çarşamba akşamı Eylül'de ( Arnavutköy ) çalıyor .
+assistant
+<think>
+
+</think>
+
+VID: çalıyor",VID: çalıyor,No MWE found.
+111,"ALMANLAR , İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+ALMANLAR , İkinci Dünya Savaşı sırasında işgal ettikleri Yugoslavya topraklarına 50 yıl sonra yeniden ayak basıyor .
+assistant
+<think>
+
+</think>
+
+VID: ayak basıyor",VID: ayak basıyor,"LVC.full: işgal ettikleri
+VID: ayak basıyor"
+112,"Çünkü , açık bulunduğu sıralar , okulların tatil dönemine rastlamıştı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Çünkü , açık bulunduğu sıralar , okulların tatil dönemine rastlamıştı .
+assistant
+<think>
+
+</think>
+
+VID: rastlamıştı",VID: rastlamıştı,No MWE found.
+113,Satılması yasak .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Satılması yasak .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+114,Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Lice'de yanlız insan hakları ihlal edilmiyor ; Türkiye'nin de imza attığı tüm anlaşmalar ihlal ediliyor .
+assistant
+<think>
+
+</think>
+
+VID: imza attığı",VID: imza attığı,"VID: imza attığı
+LVC.full: ihlal ediliyor"
+115,"Ancak bugün sayıları 10 bini aşan matematikçi , araştırmacı ve öğrenci , harıl harıl "" Pi'nin esrarını çözmeye çalışıyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ancak bugün sayıları 10 bini aşan matematikçi , araştırmacı ve öğrenci , harıl harıl "" Pi'nin esrarını çözmeye çalışıyor .
+assistant
+<think>
+
+</think>
+
+VID: çözmeye çalışıyor",VID: çözmeye çalışıyor,No MWE found.
+116,"Bu bağlamda ancak memurların işleyebileceği bazı suçlar ( zimmet , ihtilas , irtikap , rüşvet ) için bu usül biraz yumuşatılmışsa da bu suçların failleri bakımından memurun derecesine göre yine , ya validen ya da bağlı olduğu bakandan izin almak gerekli görülmüştür .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu bağlamda ancak memurların işleyebileceği bazı suçlar ( zimmet , ihtilas , irtikap , rüşvet ) için bu usül biraz yumuşatılmışsa da bu suçların failleri bakımından memurun derecesine göre yine , ya validen ya da bağlı olduğu bakandan izin almak gerekli görülmüştür .
+assistant
+<think>
+
+</think>
+
+LVC.full: izin almak",LVC.full: izin almak,"VID: izin almak
+VID: gerekli görülmüştür"
+117,"Ankara'ya Çarşamba günü gelecek olan ABD'li ABD 'li diplomat , Dışişleri Bakanlığı Müşteraşarı Büyükelçi Onur Öymen ve Kıbrıs - Yunanistan ilişkilerinden sorumlu Müsteşar Yardımcısı Büyükelçi İnal Batu ile görüşecek .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ankara'ya Çarşamba günü gelecek olan ABD'li ABD 'li diplomat , Dışişleri Bakanlığı Müşteraşarı Büyükelçi Onur Öymen ve Kıbrıs - Yunanistan ilişkilerinden sorumlu Müsteşar Yardımcısı Büyükelçi İnal Batu ile görüşecek .
+assistant
+<think>
+
+</think>
+
+LVC.full: gelecek",LVC.full: gelecek,No MWE found.
+118,"Uzun , daha soru tamamlanmadan Erbakan'ın müjdesi için "" Tamamen hayal "" diyor ve ekliyor : - Sözü edilen su boru hattı değil ki , çeşmeyi açtığınızda vatandaş kullansın .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Uzun , daha soru tamamlanmadan Erbakan'ın müjdesi için "" Tamamen hayal "" diyor ve ekliyor : - Sözü edilen su boru hattı değil ki , çeşmeyi açtığınızda vatandaş kullansın .
+assistant
+<think>
+
+</think>
+
+VID: hayal etmek",VID: hayal etmek,LVC.full: Sözü edilen
+119,Yanıt şöyle : - O olay orada kaldı .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yanıt şöyle : - O olay orada kaldı .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+120,- Asıl gürültü bu noktada koptu .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+- Asıl gürültü bu noktada koptu .
+assistant
+<think>
+
+</think>
+
+VID: koptu",VID: koptu,VID: gürültü koptu
+121,Artık her şeyin açığa çıkmasını istiyoruz .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Artık her şeyin açığa çıkmasını istiyoruz .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: açığa çıkmasını
+122,Duruşma salonuna sarık ve cübbeleriyle gelen 121 Aczmendi'nin kılık ve kıyafeti konusunda görüş ayrılığına düşen heyet iki kez duruşmaya ara verdi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Duruşma salonuna sarık ve cübbeleriyle gelen 121 Aczmendi'nin kılık ve kıyafeti konusunda görüş ayrılığına düşen heyet iki kez duruşmaya ara verdi .
+assistant
+<think>
+
+</think>
+
+VID: ara verdi",VID: ara verdi,"VID: görüş ayrılığına düşen
+LVC.full: ara verdi"
+123,"Çünkü , ABD , NATO çerçevesinde müttefiklerine sadece nükleer başlıklı başlık lı füzeler vermişti .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Çünkü , ABD , NATO çerçevesinde müttefiklerine sadece nükleer başlıklı başlık lı füzeler vermişti .
+assistant
+<think>
+
+</think>
+
+VID: nükleer başlıklı füzeler",VID: nükleer başlıklı füzeler,No MWE found.
+124,Ve hayretler içinde kaldı .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ve hayretler içinde kaldı .
+assistant
+<think>
+
+</think>
+
+VID: hayretler içinde kaldı",VID: hayretler içinde kaldı,VID: hayretler içinde kaldı
+125,"Hükümetimiz aynı zamanda , emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hükümetimiz aynı zamanda , emellerinin sahip olmadığı ölçüde millet desteğine sahip bulunmaktadır .
+assistant
+<think>
+
+</think>
+
+LVC.full: sahip bulunmaktadır",LVC.full: sahip bulunmaktadır,"LVC.full: sahip olmadığı
+LVC.full: sahip bulunmaktadır"
+126,"Yetkililer , operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yetkililer , operasyon sırasında kaçmaya çalışan teröristlerin etkisiz hale getirilmesi amacıyla hava operasyonunun Sindi Boğazı mevkiinde yoğunlaştırıldığını söyledi .
+assistant
+<think>
+
+</think>
+
+VID: etkisiz hale getirilmesi",VID: etkisiz hale getirilmesi,No MWE found.
+127,Lester Thurow'un Koç Unisys Yayınları tarafından Türkçeye kazandırılan son kitabı Kapitalizmin Geleceği'ni okurken okur ken bu sorular geliyor akla ve sanki biraz teselli kaynağı oluyor benim gibilere .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Lester Thurow'un Koç Unisys Yayınları tarafından Türkçeye kazandırılan son kitabı Kapitalizmin Geleceği'ni okurken okur ken bu sorular geliyor akla ve sanki biraz teselli kaynağı oluyor benim gibilere .
+assistant
+<think>
+
+</think>
+
+VID: teselli kaynağı oluyor",VID: teselli kaynağı oluyor,"VID: geliyor akla
+VID: kaynağı oluyor"
+128,"Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kuru ekmek sıkıntısından bile söz edilen ülkede halkın yüzde 80'i "" yoksulluk "" sınırının altında yaşam savaşı veriyor .
+assistant
+<think>
+
+</think>
+
+VID: yaşam savaşı veriyor",VID: yaşam savaşı veriyor,LVC.full: söz edilen
+129,SERGİ .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+SERGİ .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+130,"Ancak yasa hem geç kaldı , hem de yeterli değil .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ancak yasa hem geç kaldı , hem de yeterli değil .
+assistant
+<think>
+
+</think>
+
+VID: geç kaldı",VID: geç kaldı,No MWE found.
+131,KOMİSYONUN çalışma süresi üç ay .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+KOMİSYONUN çalışma süresi üç ay .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+132,"Tekel'le başladı , akaryakıt yoldadır yolda dır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Tekel'le başladı , akaryakıt yoldadır yolda dır .
+assistant
+<think>
+
+</think>
+
+VID: yolda dır",VID: yolda dır,No MWE found.
+133,İşte işçiyi Kızılay Meydanı'na toplayan ilk neden .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İşte işçiyi Kızılay Meydanı'na toplayan ilk neden .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+134,"DIŞİŞLERİ Bakanı Tansu Çiller'in geçtiğimiz ay Moskova'ya gerçekleştirdiği ziyaret sırasında gündeme getirdiği ve "" Yumruğumu masaya vurdum , Ruslar'ı ikna ettim "" dediği Rus yapımı S - 300 füzelerinin Rumlar'a satılması yönündeki yönünde ki anlaşmanın Pazartesi günü imzalanacağı bildirildi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+DIŞİŞLERİ Bakanı Tansu Çiller'in geçtiğimiz ay Moskova'ya gerçekleştirdiği ziyaret sırasında gündeme getirdiği ve "" Yumruğumu masaya vurdum , Ruslar'ı ikna ettim "" dediği Rus yapımı S - 300 füzelerinin Rumlar'a satılması yönündeki yönünde ki anlaşmanın Pazartesi günü imzalanacağı bildirildi .
+assistant
+<think>
+
+</think>
+
+LVC.full: ikna ettim",LVC.full: ikna ettim,VID: gündeme getirdiği
+135,Anayasa'nın 83 . maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Anayasa'nın 83 . maddesi milletvekillerinin seçilmeden önce veya seçildikten sonra - küçük istisnalar dışında - yargılanamayacağı hükmünü taşımaktadır .
+assistant
+<think>
+
+</think>
+
+VID: hükmünü taşımaktadır",VID: hükmünü taşımaktadır,No MWE found.
+136,"Abdullah'ın basına koyduğu ambargoya tepki gösterdi , "" İşimizi kamuoyuna yansıtan basındır "" ifadesini kullandı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Abdullah'ın basına koyduğu ambargoya tepki gösterdi , "" İşimizi kamuoyuna yansıtan basındır "" ifadesini kullandı .
+assistant
+<think>
+
+</think>
+
+VID: tepki gösterdi",VID: tepki gösterdi,VID: tepki gösterdi
+137,"Bugüne kadar birleşik yazdığımız "" Gaziantep'in , şimdi TDK'ya göre ayrı yazılması gerekiyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bugüne kadar birleşik yazdığımız "" Gaziantep'in , şimdi TDK'ya göre ayrı yazılması gerekiyor .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+138,"CUMHURBAŞKANI Süleyman Demirel , gelişmiş ülkelerde tarımla uğraşan nüfusun oranının yüzde 10'un altında olduğunu belirterek , Türkiye'nin , tarımda .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+CUMHURBAŞKANI Süleyman Demirel , gelişmiş ülkelerde tarımla uğraşan nüfusun oranının yüzde 10'un altında olduğunu belirterek , Türkiye'nin , tarımda .
+assistant
+<think>
+
+</think>
+
+VID: uğraşan",VID: uğraşan,No MWE found.
+139,"Hakimler ve Savcılar Yüksek Kurulu'nun yapısı değişmeli , siyaset elini adaletten çekmelidir çekmeli dir .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hakimler ve Savcılar Yüksek Kurulu'nun yapısı değişmeli , siyaset elini adaletten çekmelidir çekmeli dir .
+assistant
+<think>
+
+</think>
+
+VID: elini çekmeli",VID: elini çekmeli,VID: elini çekmeli dir
+140,"Yönetim Bilimleri , Mühendislik Bilimleri ve Fen Bilimleri alanlarında kurulan enstitülerin özellikle Milli Gençlik Vakfı'na bağlı olan üniversiteli gençlerin yüksek lisans düzeyde eğitim verilmesi hedefleniyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Yönetim Bilimleri , Mühendislik Bilimleri ve Fen Bilimleri alanlarında kurulan enstitülerin özellikle Milli Gençlik Vakfı'na bağlı olan üniversiteli gençlerin yüksek lisans düzeyde eğitim verilmesi hedefleniyor .
+assistant
+<think>
+
+</think>
+
+VID: hedefleniyor",VID: hedefleniyor,LVC.full: eğitim verilmesi
+141,"Doğum kontrolüne karşı çıkıp , daha çok çocuk isteyen biri , sanırsınız ki çocukları çok seviyor , onun için bu konuda bu kadar ısrarcı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Doğum kontrolüne karşı çıkıp , daha çok çocuk isteyen biri , sanırsınız ki çocukları çok seviyor , onun için bu konuda bu kadar ısrarcı .
+assistant
+<think>
+
+</think>
+
+VID: karşı çıkıp",VID: karşı çıkıp,VID: karşı çıkıp
+142,"Eleştirdikleri çeteler , kumar ve uyuşturucu parasına bulaşmış milliyetçiler , insanları öldürürken , bu politikaları sessizce onayladılar .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Eleştirdikleri çeteler , kumar ve uyuşturucu parasına bulaşmış milliyetçiler , insanları öldürürken , bu politikaları sessizce onayladılar .
+assistant
+<think>
+
+</think>
+
+VID: bulaşmış",VID: bulaşmış,No MWE found.
+143,"Mezarın yanındaki yanında ki camide Türkler de vardı ."" Hazari nin sık sık "" Cennetin kapılarını şeriata karşı çıkanların kafalarıyla açacağız "" dediğini söyleyen E .t ., "" Cumhurbaşkanı Süleyman Demirel , Başbakan Mesut Yılmaz , Bülent Ecevit ve Deniz Baykal a kızıyorlardı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Mezarın yanındaki yanında ki camide Türkler de vardı ."" Hazari nin sık sık "" Cennetin kapılarını şeriata karşı çıkanların kafalarıyla açacağız "" dediğini söyleyen E .t ., "" Cumhurbaşkanı Süleyman Demirel , Başbakan Mesut Yılmaz , Bülent Ecevit ve Deniz Baykal a kızıyorlardı .
+assistant
+<think>
+
+</think>
+
+VID: kapılarını açacağız",VID: kapılarını açacağız,VID: karşı çıkanların
+144,"Biz baştan beri , yıllardır yıllar dır şiddete uzağız .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Biz baştan beri , yıllardır yıllar dır şiddete uzağız .
+assistant
+<think>
+
+</think>
+
+VID: uzağız",VID: uzağız,No MWE found.
+145,"Özellikle para piyasalarında oluşan olumlu hava , enflasyon hedefinin aşağılara çekilmesine yol açıyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Özellikle para piyasalarında oluşan olumlu hava , enflasyon hedefinin aşağılara çekilmesine yol açıyor .
+assistant
+<think>
+
+</think>
+
+VID: yol açıyor",VID: yol açıyor,VID: yol açıyor
+146,"Kör imam'ın yargılanarak , hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kör imam'ın yargılanarak , hapse mahkum olan müritlerinden üçü cezalarını bu hapishanede çekiyor .
+assistant
+<think>
+
+</think>
+
+VID: yargılanarak",VID: yargılanarak,"LVC.full: mahkum olan
+VID: cezalarını çekiyor"
+147,"Uzan , Oğuz ' un , Fenerbahçe'den gelişini ise "" Oğuz bir firmadır firma dır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Uzan , Oğuz ' un , Fenerbahçe'den gelişini ise "" Oğuz bir firmadır firma dır .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+148,"Partisine aralarında emekli askerlerin de bulunduğu katılım töreninde konuşan Yazıcıoğlu RP'ye yüklenirken şu görüşleri dile getirdi : "" Meydanlarda adaletsizliği ve zulmü kınayarak iktidara gelmiş olanlar şimdi neden memura zulmetmektedir .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Partisine aralarında emekli askerlerin de bulunduğu katılım töreninde konuşan Yazıcıoğlu RP'ye yüklenirken şu görüşleri dile getirdi : "" Meydanlarda adaletsizliği ve zulmü kınayarak iktidara gelmiş olanlar şimdi neden memura zulmetmektedir .
+assistant
+<think>
+
+</think>
+
+VID: iktidara gelmiş",VID: iktidara gelmiş,VID: dile getirdi
+149,"Her şeyden önce , savaşı yitiren taraf , baştan bunu öngörebilmiş ve çatışmayı önlemek için elinden geleni yapmış ise , artık burada yanlış hesaptan söz etmenin olanağı yoktur yok tur .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Her şeyden önce , savaşı yitiren taraf , baştan bunu öngörebilmiş ve çatışmayı önlemek için elinden geleni yapmış ise , artık burada yanlış hesaptan söz etmenin olanağı yoktur yok tur .
+assistant
+<think>
+
+</think>
+
+VID: elinden geleni yapmış",VID: elinden geleni yapmış,"VID: elinden geleni yapmış
+LVC.full: söz etmenin"
+150,Dilimizde yer eden yabancı sözcüklerin özgün yazılış biçimleri de belirtiliyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Dilimizde yer eden yabancı sözcüklerin özgün yazılış biçimleri de belirtiliyor .
+assistant
+<think>
+
+</think>
+
+LVC.full: yer eden",LVC.full: yer eden,No MWE found.
+151,"İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İstanbul Cumhuriyet Başsavcısı Ferzan Çitici , bu konuda Adalet Bakanı Şevket Kazan'ın da çok hassas olduğunu belirterek "" İlk olarak Şahin'i bulup ifadesini alacağız .
+assistant
+<think>
+
+</think>
+
+LVC.full: ifadesini alacağız",LVC.full: ifadesini alacağız,No MWE found.
+152,"Özel televizyonlarımızda haber bülteni yaptığını zanneden ( farklı bir yeni , birkaçı dışında ) "" kamuoyu oluşturucularımız "" için yeni bir kitap çıktı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Özel televizyonlarımızda haber bülteni yaptığını zanneden ( farklı bir yeni , birkaçı dışında ) "" kamuoyu oluşturucularımız "" için yeni bir kitap çıktı .
+assistant
+<think>
+
+</think>
+
+VID: zanneden",VID: zanneden,No MWE found.
+153,İstanbul DGM Başsavcılığı'ndaki Başsavcılığı'nda ki sorgusunun ardından önceki önce ki gece geniş güvenlik önlemkeleri altında Kırklareli'ne getirilen Duyar'ın kapatıldığı cezaevinde 300'ün üzerinde hükümlü ve tutuklu tutuk lu kalıyor .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İstanbul DGM Başsavcılığı'ndaki Başsavcılığı'nda ki sorgusunun ardından önceki önce ki gece geniş güvenlik önlemkeleri altında Kırklareli'ne getirilen Duyar'ın kapatıldığı cezaevinde 300'ün üzerinde hükümlü ve tutuklu tutuk lu kalıyor .
+assistant
+<think>
+
+</think>
+
+VID: sorgusunun ardından",VID: sorgusunun ardından,No MWE found.
+154,1997 - 2010 yıllarını kapsayan uzun vadeli vade li eğitim ana planı uygulamaya sokulacaktır .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+1997 - 2010 yıllarını kapsayan uzun vadeli vade li eğitim ana planı uygulamaya sokulacaktır .
+assistant
+<think>
+
+</think>
+
+LVC.full: uygulamaya sokulacaktır",LVC.full: uygulamaya sokulacaktır,No MWE found.
+155,""" Antik kentin "" 17 köyünde siyanürlü altın kavgasına referandumla son verilecek .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+"" Antik kentin "" 17 köyünde siyanürlü altın kavgasına referandumla son verilecek .
+assistant
+<think>
+
+</think>
+
+VID: son verilecek",VID: son verilecek,VID: son verilecek
+156,"Sabah 9 : 00 : Uyanış , pencereden OR AN taraflarına göz atış , tekrar yatış .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Sabah 9 : 00 : Uyanış , pencereden OR AN taraflarına göz atış , tekrar yatış .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+157,İnzivaya çekilmiş bir kadın ve onu arayan bir erkek .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+İnzivaya çekilmiş bir kadın ve onu arayan bir erkek .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: İnzivaya çekilmiş
+158,Ya demokratikleşme .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ya demokratikleşme .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+159,Güven her şeyin önünde gelir .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Güven her şeyin önünde gelir .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: önünde gelir
+160,"Aksu , "" Mevcut sistem , ekonomi ve rejim değişmedikçe silahlı silah lı saldırılar sürer , kimin ne zaman nereden geldiği belli olmayan kurşunlarla öldüğü günler devam eder "" diye konuştu .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Aksu , "" Mevcut sistem , ekonomi ve rejim değişmedikçe silahlı silah lı saldırılar sürer , kimin ne zaman nereden geldiği belli olmayan kurşunlarla öldüğü günler devam eder "" diye konuştu .
+assistant
+<think>
+
+</think>
+
+VID: silahlı saldırılar sürer",VID: silahlı saldırılar sürer,LVC.full: devam eder
+161,Geçen yılın son aylarında trafik kazası geçiren Demet Sağıroğlu iyileşirken Ebru Gündeş kulak zarındaki zarında ki yırtılma yüzünden sağır olma tehlikesiyle karşı karşıya .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Geçen yılın son aylarında trafik kazası geçiren Demet Sağıroğlu iyileşirken Ebru Gündeş kulak zarındaki zarında ki yırtılma yüzünden sağır olma tehlikesiyle karşı karşıya .
+assistant
+<think>
+
+</think>
+
+VID: tehlike ile karşı karşıya",VID: tehlike ile karşı karşıya,No MWE found.
+162,"Palermo Savcısı , İtalya'da eski Başbakan Andreotti'yi yargı önüne çıkartan ve sorgulayan üç kişiden biridir biri dir .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Palermo Savcısı , İtalya'da eski Başbakan Andreotti'yi yargı önüne çıkartan ve sorgulayan üç kişiden biridir biri dir .
+assistant
+<think>
+
+</think>
+
+VID: yargı önüne çıkartan",VID: yargı önüne çıkartan,VID: yargı önüne çıkartan
+163,"Kavgamız , siyaset değil , dürüstlük kavgasıdır kavgası dır .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kavgamız , siyaset değil , dürüstlük kavgasıdır kavgası dır .
+assistant
+<think>
+
+</think>
+
+VID: kavgası dır",VID: kavgası dır,No MWE found.
+164,"Korgeneral Nahit Şenoğul , ülkede polis ve asker düşmanları olduğunu belirterek , devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Korgeneral Nahit Şenoğul , ülkede polis ve asker düşmanları olduğunu belirterek , devletin imkanlarıyla üst düzey yaşam sürdürenlerin hayasızca iftiralarda bulunduğunu ve devleti ABD ile Avrupa'ya jurnallediğini öne sürdü .
+assistant
+<think>
+
+</think>
+
+VID: iftiralarda bulunduğunu
+VID: jurnallediğini","VID: iftiralarda bulunduğunu
+VID: jurnallediğini","LVC.full: iftiralarda bulunduğunu
+VID: öne sürdü"
+165,"Olay yerindeki yerinde ki trafik sıkışıklığı nedeniyle farkedilemeyen saldırgan , hemen bölgedeki bölgede ki polis ekibine teslim edilerek Ankara Emniyet Müdürlüğü'ne götürüldü .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Olay yerindeki yerinde ki trafik sıkışıklığı nedeniyle farkedilemeyen saldırgan , hemen bölgedeki bölgede ki polis ekibine teslim edilerek Ankara Emniyet Müdürlüğü'ne götürüldü .
+assistant
+<think>
+
+</think>
+
+LVC.full: teslim edilerek",LVC.full: teslim edilerek,LVC.full: teslim edilerek
+166,"Dün gittik , baktık , partinin "" iki eski genel başkanı "" oradaydı orada ydı : Yıldırım Avcı ile Hüsamettin Cindoruk .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Dün gittik , baktık , partinin "" iki eski genel başkanı "" oradaydı orada ydı : Yıldırım Avcı ile Hüsamettin Cindoruk .
+assistant
+<think>
+
+</think>
+
+VID: gittik
+VID: baktık","VID: gittik
+VID: baktık",No MWE found.
+167,"Bize , lütfedip , "" mürit Montand'ın cinayetlerini de sayabilir misin mi sin .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bize , lütfedip , "" mürit Montand'ın cinayetlerini de sayabilir misin mi sin .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+168,Klasik ideolojiler iflas etti .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Klasik ideolojiler iflas etti .
+assistant
+<think>
+
+</think>
+
+VID: iflas etti",VID: iflas etti,LVC.full: iflas etti
+169,"Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda , 14 maçta 33 puan alan Fransa ikinci , 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Almanya'nın 16 maçta 35 puan ile birinci olduğu klasmanda , 14 maçta 33 puan alan Fransa ikinci , 12 maçta 28 puan kazanan İngiltere üçüncülüğü elde etti .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,VID: elde etti
+170,"Hava yoluyla gönderilmesi durumunda Türkiye hava sahasını kapatacak , deniz yoluyla intikali durumunda ise boğazlardan geçiş izni verilmeyecek .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Hava yoluyla gönderilmesi durumunda Türkiye hava sahasını kapatacak , deniz yoluyla intikali durumunda ise boğazlardan geçiş izni verilmeyecek .
+assistant
+<think>
+
+</think>
+
+VID: kapatacak",VID: kapatacak,LVC.full: izni verilmeyecek
+171,"ABD'nin American Airlines ve İngiltere'nin British Airways şirketleri , iki ülke arasındaki arasında ki yolcu ve kargo trafiğini birlikte üstlenecek bir ittifak oluşturmak için resmen başvuruda bulundular bulun dular .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+ABD'nin American Airlines ve İngiltere'nin British Airways şirketleri , iki ülke arasındaki arasında ki yolcu ve kargo trafiğini birlikte üstlenecek bir ittifak oluşturmak için resmen başvuruda bulundular bulun dular .
+assistant
+<think>
+
+</think>
+
+VID: başvuruda bulundular",VID: başvuruda bulundular,No MWE found.
+172,Gitmezse Gitmez se istifa edecek .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Gitmezse Gitmez se istifa edecek .
+assistant
+<think>
+
+</think>
+
+VID: istifa edecek",VID: istifa edecek,LVC.full: istifa edecek
+173,Ve toplantı öyle devam eder .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ve toplantı öyle devam eder .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: devam eder
+174,"Okurumuz durumu genel müdürlüğe iletmiş , karakola bile şikayet etmiş ama sonuç alamamış .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Okurumuz durumu genel müdürlüğe iletmiş , karakola bile şikayet etmiş ama sonuç alamamış .
+assistant
+<think>
+
+</think>
+
+VID: iletmiş",VID: iletmiş,"LVC.full: şikayet etmiş
+VID: sonuç alamamış"
+175,"RP'nin alternatif "" Fetih gecesi'ni TV'de izledik ."" Fetih "" toplumların kendilerine ait olmayan birşeyleri ele geçirmesidir geçirmesi dir .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+RP'nin alternatif "" Fetih gecesi'ni TV'de izledik ."" Fetih "" toplumların kendilerine ait olmayan birşeyleri ele geçirmesidir geçirmesi dir .
+assistant
+<think>
+
+</think>
+
+VID: ele geçirmesidir",VID: ele geçirmesidir,"LVC.full: ait olmayan
+VID: ele geçirmesi dir"
+176,"Zorunlu kesinti sıkıntısı : Hükümetin RP kanadının muhalefetteyken muhalefette yken "" hesap sorulmasını istediği "" ve iktidar olunca "" hemen ödeneceğini "" söylediği zorunlu tasarruf kesintileri işçilerle hükümetin arasını iyice açtı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Zorunlu kesinti sıkıntısı : Hükümetin RP kanadının muhalefetteyken muhalefette yken "" hesap sorulmasını istediği "" ve iktidar olunca "" hemen ödeneceğini "" söylediği zorunlu tasarruf kesintileri işçilerle hükümetin arasını iyice açtı .
+assistant
+<think>
+
+</think>
+
+VID: hesap sorulmasını",VID: hesap sorulmasını,VID: arasını açtı
+177,"5 milyon liralık lira lık banknotlarda diğerlerinden farklı olarak silme zemin , banknotun basım tarihi , Türkiye Haritası , Ay - Yıldız ve İstiklal Madalyasının bulunduğuna dikkati çekerek , ayrıca morötesi ışıkta parlayan kırmızı ve siyah renklerde seri harf ve numarası ile sıra numarısı ve tüm önyüzde yaygın olarak kullanılan morötesi ışıkta parlayan pembe mürekkebi de ilkler arasında sıraladı .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+5 milyon liralık lira lık banknotlarda diğerlerinden farklı olarak silme zemin , banknotun basım tarihi , Türkiye Haritası , Ay - Yıldız ve İstiklal Madalyasının bulunduğuna dikkati çekerek , ayrıca morötesi ışıkta parlayan kırmızı ve siyah renklerde seri harf ve numarası ile sıra numarısı ve tüm önyüzde yaygın olarak kullanılan morötesi ışıkta parlayan pembe mürekkebi de ilkler arasında sıraladı .
+assistant
+<think>
+
+</think>
+
+VID: dikkati çekerek",VID: dikkati çekerek,VID: dikkati çekerek
+178,"Dünyadaki Dünyada ki ileri ülkelerde uygulanan sisteme ayak uyduracağız "" dedi .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Dünyadaki Dünyada ki ileri ülkelerde uygulanan sisteme ayak uyduracağız "" dedi .
+assistant
+<think>
+
+</think>
+
+LVC.full: ayak uyduracağız",LVC.full: ayak uyduracağız,VID: ayak uyduracağız
+179,"1550'lerden 1600'e kadar Osmanlılar , kitapları süslemeye , resimlemeye çok paralar dökmüşler .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+1550'lerden 1600'e kadar Osmanlılar , kitapları süslemeye , resimlemeye çok paralar dökmüşler .
+assistant
+<think>
+
+</think>
+
+VID: paralar dökmüşler",VID: paralar dökmüşler,No MWE found.
+180,Bir yandan .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bir yandan .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+181,Miting öncesi Harb - İş Başkanı İzzet Çetin'in konuşması planlandıysa da sonra vazgeçildi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Miting öncesi Harb - İş Başkanı İzzet Çetin'in konuşması planlandıysa da sonra vazgeçildi .
+assistant
+<think>
+
+</think>
+
+VID: vazgeçildi",VID: vazgeçildi,No MWE found.
+182,Ancak Jaguarlı sendikacıları hatırlayanlar bu partiye de pek inançla bakmayabilirler .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ancak Jaguarlı sendikacıları hatırlayanlar bu partiye de pek inançla bakmayabilirler .
+assistant
+<think>
+
+</think>
+
+VID: inançla bakmayabilirler",VID: inançla bakmayabilirler,No MWE found.
+183,"Özellikle kocalarıyla anlaşamayan mutsuz kadınların chat aracığıyla tanıştıkları erkeklerle yeni bir yaşam kurduklarını belirten psikologlar , chat yapanların yüzde 30'unu eşleriyle sorunu olan kadınların oluşturduğunu belirtiyor .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Özellikle kocalarıyla anlaşamayan mutsuz kadınların chat aracığıyla tanıştıkları erkeklerle yeni bir yaşam kurduklarını belirten psikologlar , chat yapanların yüzde 30'unu eşleriyle sorunu olan kadınların oluşturduğunu belirtiyor .
+assistant
+<think>
+
+</think>
+
+VID: tanıştıkları
+VID: yaşam kurduklarını
+VID: sorunu olan","VID: tanıştıkları
+VID: yaşam kurduklarını
+VID: sorunu olan","LVC.full: chat yapanların
+LVC.full: sorunu olan"
+184,ABD'de de ünlü O . J.,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+ABD'de de ünlü O . J.
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+185,"Ayrıca , geminin içindekileri de durdurup kontrol edecektik .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Ayrıca , geminin içindekileri de durdurup kontrol edecektik .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,LVC.full: kontrol edecektik
+186,ABD Hazine Bakanı Ruben ile yardımcısı Larry Summers'ın daveti üzerine gerçekleşen ve koalisyon hükümetinin kuruluşundan bu yana ABD'ye yapılan üst düzeyli düzey li ilk resmi ziyaret olan gezi sırasında Adak'ın özellikle Amerikalı yöneticilerle finans çevrelerinin zihinlerindeki zihinlerinde ki soru işaretlerini gidermeye çalışacağı ve Türkiye'deki Türkiye'de ki gelişmelerle ilgili sorulara yanıt vereceği ifade edildi .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+ABD Hazine Bakanı Ruben ile yardımcısı Larry Summers'ın daveti üzerine gerçekleşen ve koalisyon hükümetinin kuruluşundan bu yana ABD'ye yapılan üst düzeyli düzey li ilk resmi ziyaret olan gezi sırasında Adak'ın özellikle Amerikalı yöneticilerle finans çevrelerinin zihinlerindeki zihinlerinde ki soru işaretlerini gidermeye çalışacağı ve Türkiye'deki Türkiye'de ki gelişmelerle ilgili sorulara yanıt vereceği ifade edildi .
+assistant
+<think>
+
+</think>
+
+VID: soru işaretlerini gidermeye
+VID: yanıt vereceği","VID: soru işaretlerini gidermeye
+VID: yanıt vereceği",LVC.full: ifade edildi
+187,- Emredin Sayın başkanım .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+- Emredin Sayın başkanım .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+188,"Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda , bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Saray'ın oyuncuyu korumak amacıyla aldığı karar doğrultusunda , bu tür sorunlar yüzünden konsantrasyon sorunu çeken ve bunalıma girenlerin moral durumları da otomatikman düzeltilmiş olacak .
+assistant
+<think>
+
+</think>
+
+VID: karar almak",VID: karar almak,VID: aldığı karar
+189,"Eğer Alla Hımız , kitabımız bir ise aramıza nifak sokmamalıyız .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Eğer Alla Hımız , kitabımız bir ise aramıza nifak sokmamalıyız .
+assistant
+<think>
+
+</think>
+
+VID: nifak sokmamalıyız",VID: nifak sokmamalıyız,VID: nifak sokmamalıyız
+190,DIŞ HABERLER SERVİSİ .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+DIŞ HABERLER SERVİSİ .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+191,"Tıpkı Koç Lisesi gibi , Koç Üniversitesi de , yarım milyar dolara yakın yatırımla Türkiye'ye , dünyanın en iyi üniversiteleri düzeyinde bir eğitim kurumu yaratmaya dönüktür dönük tür .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Tıpkı Koç Lisesi gibi , Koç Üniversitesi de , yarım milyar dolara yakın yatırımla Türkiye'ye , dünyanın en iyi üniversiteleri düzeyinde bir eğitim kurumu yaratmaya dönüktür dönük tür .
+assistant
+<think>
+
+</think>
+
+VID: dönüktür",VID: dönüktür,No MWE found.
+192,Zarar eden şirketlere karşın bu artışın kaynağı ise hala yanıtlanamayan sorular arasında .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Zarar eden şirketlere karşın bu artışın kaynağı ise hala yanıtlanamayan sorular arasında .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+193,"Kişinin , iktidar yamaklığı uğruna , "" gazeteci'yle "" sahibinin sesi "" arasındaki arasında ki mesleki , ahlaki ahla ki ayrımı katletmesini de masum ve mazur gördük diyelim .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Kişinin , iktidar yamaklığı uğruna , "" gazeteci'yle "" sahibinin sesi "" arasındaki arasında ki mesleki , ahlaki ahla ki ayrımı katletmesini de masum ve mazur gördük diyelim .
+assistant
+<think>
+
+</think>
+
+VID: masum ve mazur gördük",VID: masum ve mazur gördük,VID: mazur gördük
+194,"Gökdemir , bu sözler üzerine iyice sinirlenerek , "" Ben o genel sekreterin de a . sını av . dını .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Gökdemir , bu sözler üzerine iyice sinirlenerek , "" Ben o genel sekreterin de a . sını av . dını .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
+195,"Rumların füzelenmesi , son 50 yılda Türkiye'ye yönelik en ciddi tehditlerden biridir biri dir .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Rumların füzelenmesi , son 50 yılda Türkiye'ye yönelik en ciddi tehditlerden biridir biri dir .
+assistant
+<think>
+
+</think>
+
+VID: füzelenmesi",VID: füzelenmesi,No MWE found.
+196,"MGK Genel Sekreteri ayrıca , Başbakanlık Kriz Yönetim Merkezi'nin devamlı faal halde tutulmasından ve sistem içerisinde yer alan birimlerin bilgilendirilmesinden sorumlu olacak .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+MGK Genel Sekreteri ayrıca , Başbakanlık Kriz Yönetim Merkezi'nin devamlı faal halde tutulmasından ve sistem içerisinde yer alan birimlerin bilgilendirilmesinden sorumlu olacak .
+assistant
+<think>
+
+</think>
+
+VID: bilgilendirilmesinden",VID: bilgilendirilmesinden,VID: yer alan
+197,"Uzmanlar , büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar .","user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Uzmanlar , büyük bir iç ve dış borç krizi içinde bulunan Refahyol Hükümeti'nin bu parayı rant kesimine ödenecek faizlerde kullanılacağını ifade ediyorlar .
+assistant
+<think>
+
+</think>
+
+VID: ifade ediyorlar",VID: ifade ediyorlar,LVC.full: ifade ediyorlar
+198,Bu derece karartma olmamasına rağmen bir çok ülkede sigara içimine kısıtlama getiren kanunlar var .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Bu derece karartma olmamasına rağmen bir çok ülkede sigara içimine kısıtlama getiren kanunlar var .
+assistant
+<think>
+
+</think>
+
+VID: karartma olmamasına",VID: karartma olmamasına,No MWE found.
+199,Taraftarlarımıza bunları vereceğiz .,"user
+/no_think Bu cümledeki tüm VMWE'leri (eylemsel çok sözcüklü ifadeler) belirleyip etiketleyebilir misiniz?
+
+VMWE türleri arasında eylemsel deyimler, hafif eylem yapıları, özsel dönüşlü eylemler, eylem-parçacık yapıları, çoklu eylem yapıları ve özsel ilgeçli eylemler yer alabilir ancak bunlarla sınırlı değildir.
+
+Etiketiniz VMWE türü, ardından iki nokta ve VMWE'den oluşmalıdır. Birden fazla VMWE varsa her birini ayrı bir satırda etiketleyiniz. VMWE yoksa 'No MWE found.' yazınız.
+
+
+
+İşte cümle:
+Taraftarlarımıza bunları vereceğiz .
+assistant
+<think>
+
+</think>
+
+No MWE found.",No MWE found.,No MWE found.
