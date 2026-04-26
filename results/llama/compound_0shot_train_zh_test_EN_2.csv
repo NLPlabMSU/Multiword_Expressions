@@ -1,0 +1,3964 @@
+,sentence,full_output,output,label
+0,"Malach , What you say makes sense .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Malach, What you say makes sense.assistant
+
+No compound found.",No compound found.,No compound found.
+1,Just so you could carry on tinkering with all that Muggle rubbish in your shed !,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Just so you could carry on tinkering with all that Muggle rubbish in your shed!assistant
+
+COMP: Muggle",COMP: Muggle,"COMP-PRT: carry on
+COMP: Muggle rubbish"
+2,"Yes , with one hand while you were busy stirring a pot with the other .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yes, with one hand while you were busy stirring a pot with the other.assistant
+
+COMP: 一手",COMP: 一手,No compound found.
+3,"There was another large meal , and an exchange about a bottle of white wine between Dando and his cook , Festus .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+There was another large meal, and an exchange about a bottle of white wine between Dando and his cook, Festus.assistant
+
+COMP: 白酒",COMP: 白酒,"COMP: cook , Festus"
+4,"Do n't be so ridiculous , Fred , said Mrs Weasley , her cheeks rather pink .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Don't be so ridiculous, Fred, said Mrs Weasley, her cheeks rather pink.assistant
+
+COMP: Fred",COMP: Fred,COMP: Mrs Weasley
+5,"1 . The pricing that we have given CRRA is specific to FuelCell Energy and would not be meaningful without listing the manufacturer ( i.e. , ONSI would be a lot more money ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+1. The pricing that we have given CRRA is specific to FuelCell Energy and would not be meaningful without listing the manufacturer ( i.e., ONSI would be a lot more money ).assistant
+
+COMP: CRRA",COMP: CRRA,COMP: FuelCell Energy
+6,You could move all the babies into a fry net breeder or move all of the bigger fish ( also the parents ) to a different tank to avoid the babies getting eaten .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+You could move all the babies into a fry net breeder or move all of the bigger fish ( also the parents ) to a different tank to avoid the babies getting eaten.assistant
+
+COMP: fry",COMP: fry,COMP: fry net breeder
+7,"A part of him had died , he told his friends , and he did not want it coming back to haunt him .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+A part of him had died, he told his friends, and he did not want it coming back to haunt him.assistant
+
+COMP: part",COMP: part,No compound found.
+8,Bon voyage .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bon voyage.assistant
+
+No compound found.",No compound found.,No compound found.
+9,Please advise as to who his replacement is and their report date .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Please advise as to who his replacement is and their report date.assistant
+
+No compound found.",No compound found.,COMP: report date
+10,The horrifying added factor is the high birth rate .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The horrifying added factor is the high birth rate.assistant
+
+COMP: birth",COMP: birth,COMP: birth rate
+11,And she pulled a heavy book from the stack on the mantelpiece .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+And she pulled a heavy book from the stack on the mantelpiece.assistant
+
+No compound found.",No compound found.,No compound found.
+12,The United States has shown that it holds negotiations in contempt .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The United States has shown that it holds negotiations in contempt.assistant
+
+No compound found.",No compound found.,No compound found.
+13,The new fixed price deal with Equistar is # 365013 .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The new fixed price deal with Equistar is # 365013.assistant
+
+No compound found.",No compound found.,COMP: price deal
+14,Sancho Panza is of course the witness .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sancho Panza is of course the witness.assistant
+
+COMP: Sancho",COMP: Sancho,No compound found.
+15,Thank you though .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Thank you though.assistant
+
+No compound found.",No compound found.,No compound found.
+16,"But now that the scene was taking place , he felt quite disappointed , even angry .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+But now that the scene was taking place, he felt quite disappointed, even angry.assistant
+
+No compound found.",No compound found.,No compound found.
+17,Is there any kind of public transport available between noida and greater noida ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Is there any kind of public transport available between noida and greater noida?assistant
+
+No compound found.",No compound found.,COMP: greater noida
+18,"If you have any trouble with the boiler , for heaven 's sake let Mackie look at it before you send to town .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+If you have any trouble with the boiler, for heaven's sake let Mackie look at it before you send to town.assistant
+
+COMP: heaven's
+COMP: town","COMP: heaven's
+COMP: town",No compound found.
+19,"After changing the security mode , it is strongly recommended that the SA password be changed by using the Set Login Password command ( on the Tools menu , point to Security ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+After changing the security mode, it is strongly recommended that the SA password be changed by using the Set Login Password command ( on the Tools menu, point to Security ).assistant
+
+COMP: Security",COMP: Security,"COMP: security mode
+COMP: Login Password
+COMP: Tools menu"
+20,"What actually is it they do ? ""","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+What actually is it they do? ""assistant
+
+No compound found.",No compound found.,No compound found.
+21,Sid,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sidassistant
+
+No compound found.",No compound found.,No compound found.
+22,He refused to believe them and ordered the military to win the war within two to three years ( before the next election in 1968 ) .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+He refused to believe them and ordered the military to win the war within two to three years ( before the next election in 1968 ).assistant
+
+COMP: 1968",COMP: 1968,No compound found.
+23,I have also purchased an Appel in the last month .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I have also purchased an Appel in the last month.assistant
+
+No compound found.",No compound found.,No compound found.
+24,He spoke round the obstacle of a woman standing between them .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+He spoke round the obstacle of a woman standing between them.assistant
+
+COMP: woman",COMP: woman,No compound found.
+25,Entity,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Entityassistant
+
+No compound found.",No compound found.,No compound found.
+26,"This is just to let you know that Emma gave birth at week 34 on Friday , 6th July , to our triplets :","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+This is just to let you know that Emma gave birth at week 34 on Friday, 6th July, to our triplets :assistant
+
+COMP: 6th",COMP: 6th,COMP: 6th July
+27,"Shahar is bald , muscular , and his shirt is ornamented with nags , horseshoes , and bridles , a yellow print on dark blue .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Shahar is bald, muscular, and his shirt is ornamented with nags, horseshoes, and bridles, a yellow print on dark blue.assistant
+
+COMP: 褶",COMP: 褶,No compound found.
+28,"If you have any questions , please contact us at noc@paulhastings.com .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+If you have any questions, please contact us at noc@paulhastings.com.assistant
+
+COMP: contact",COMP: contact,No compound found.
+29,"Half of the population of the Arab world is under the age of 20 , the most receptive age to incitement , guaranteeing two more generations of blind hatred .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Half of the population of the Arab world is under the age of 20, the most receptive age to incitement, guaranteeing two more generations of blind hatred.assistant
+
+COMP: Arab",COMP: Arab,No compound found.
+30,"If you do n't like it , why do you go on reading ?","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+If you don't like it, why do you go on reading?assistant
+
+No compound found.",No compound found.,COMP-PRT: go on
+31,I believe this is a job for the final compromise round of Europe 's finance ministers .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I believe this is a job for the final compromise round of Europe's finance ministers.assistant
+
+COMP: finance",COMP: finance,"COMP: compromise round
+COMP: finance ministers"
+32,Mark,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Markassistant
+
+COMP: Mark",COMP: Mark,No compound found.
+33,"Many aspects of the transition have already been successfully debated and worked out , for example continuity in Kong 's civil service .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Many aspects of the transition have already been successfully debated and worked out, for example continuity in Kong's civil service.assistant
+
+COMP: Kong",COMP: Kong,COMP-PRT: worked out
+34,"Rather , says one of the prelates , he would stay in Rome and become Party secretary .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Rather, says one of the prelates, he would stay in Rome and become Party secretary.assistant
+
+COMP: Party",COMP: Party,COMP: Party secretary
+35,Bearded dragon question ... ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Bearded dragon question...?assistant
+
+No compound found.",No compound found.,COMP: dragon question
+36,11/29/2000 10:40 AM,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+11/29/2000 10:40 AMassistant
+
+No compound found.",No compound found.,No compound found.
+37,A nigger was being beaten near by .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+A nigger was being beaten near by.assistant
+
+No compound found.",No compound found.,No compound found.
+38,"However , when you apply a filter by selection , the conditional filter already applied on the field is removed before the filter by selection is applied .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+However, when you apply a filter by selection, the conditional filter already applied on the field is removed before the filter by selection is applied.assistant
+
+COMP: 已经",COMP: 已经,No compound found.
+39,Empty elements can be denoted by a special shorthand tag .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Empty elements can be denoted by a special shorthand tag.assistant
+
+No compound found.",No compound found.,COMP: shorthand tag
+40,But we do not take the view that including a corresponding reference to this in a recital can produce that result .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+But we do not take the view that including a corresponding reference to this in a recital can produce that result.assistant
+
+COMP: recital",COMP: recital,No compound found.
+41,"I know by your pyjama trousers , I use exactly the same measurement for new elastic as I always did .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I know by your pyjama trousers, I use exactly the same measurement for new elastic as I always did.assistant
+
+COMP: pyjama",COMP: pyjama,COMP: pyjama trousers
+42,"The RSPB ’s stance has also brought it into conflict with many leading conservationists , from the author of the petition , Mark Avery , to the TV presenter Chris Packham .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The RSPB ’s stance has also brought it into conflict with many leading conservationists, from the author of the petition, Mark Avery, to the TV presenter Chris Packham.assistant
+
+COMP: RSPB",COMP: RSPB,COMP: TV presenter
+43,a donkey cropping among broken china on a refuse mound ;,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+a donkey cropping among broken china on a refuse mound ;assistant
+
+No compound found.",No compound found.,COMP: refuse mound
+44,Police and prosecutors have the tools .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Police and prosecutors have the tools.assistant
+
+No compound found.",No compound found.,No compound found.
+45,How did executive types ever learn of such things ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+How did executive types ever learn of such things?assistant
+
+COMP: executive",COMP: executive,COMP: executive types
+46,"Worse for Israel , the assassination drew a denunciation even from the moderate and cautious Grand Ayatollah Ali Sistani , who wields enormous moral authority over Iraqi Shiites .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Worse for Israel, the assassination drew a denunciation even from the moderate and cautious Grand Ayatollah Ali Sistani, who wields enormous moral authority over Iraqi Shiites.assistant
+
+COMP: Grand
+COMP: Ayatollah","COMP: Grand
+COMP: Ayatollah",No compound found.
+47,Small polygamous groups have existed in the southwestern US under the watchful yet fairly benign eye of authorities ever since a sect known as the Fundamentalist Latter Day Saints ( FLDS ) separated itself from mainstream Mormonism in 1890 .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Small polygamous groups have existed in the southwestern US under the watchful yet fairly benign eye of authorities ever since a sect known as the Fundamentalist Latter Day Saints ( FLDS ) separated itself from mainstream Mormonism in 1890.assistant
+
+COMP: southwestern
+COMP: US
+COMP: FLDS","COMP: southwestern
+COMP: US
+COMP: FLDS",COMP: Fundamentalist Latter Day Saints
+48,I would remind you that Mr Cornelissen 's report has been added to the agenda for Tuesday .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I would remind you that Mr Cornelissen's report has been added to the agenda for Tuesday.assistant
+
+COMP: Cornelissen",COMP: Cornelissen,COMP: Mr Cornelissen
+49,There are deals in the Aruba book so I 'm not sure why you are n't picking those up .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+There are deals in the Aruba book so I'm not sure why you aren't picking those up.assistant
+
+COMP: Aruba",COMP: Aruba,"COMP: Aruba book
+COMP-PRT: picking up"
+50,3 Outer field items,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+3 Outer field itemsassistant
+
+COMP: Outer",COMP: Outer,COMP: field items
+51,This year a newspaper claimed two UK firms were involved in a deal in which thousands of guns for Iraqi forces were re-routed to al - Qaeda .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+This year a newspaper claimed two UK firms were involved in a deal in which thousands of guns for Iraqi forces were re-routed to al - Qaeda.assistant
+
+COMP: Iraqi",COMP: Iraqi,"COMP: UK firms
+COMP: al - Qaeda"
+52,Hancocks is one of four fabric stores in Fort Smith .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Hancocks is one of four fabric stores in Fort Smith.assistant
+
+No compound found.",No compound found.,"COMP: fabric stores
+COMP: Fort Smith"
+53,Question No-6 by Mr Pirker ( H-0218/97 ),"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Question No-6 by Mr Pirker ( H-0218/97 )assistant
+
+No compound found.",No compound found.,"COMP: Question No-6
+COMP: Mr Pirker"
+54,The deals are listed below .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The deals are listed below.assistant
+
+No compound found.",No compound found.,No compound found.
+55,"Signs of this can be hard to spot , and if this is true in her case she will definitely need to see a vet .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Signs of this can be hard to spot, and if this is true in her case she will definitely need to see a vet.assistant
+
+COMP: Signs",COMP: Signs,No compound found.
+56,Sent by : Janette Elbertson,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sent by : Janette Elbertsonassistant
+
+No compound found.",No compound found.,No compound found.
+57,"They gave him the African cook 's special lunch that he remembered so well : slightly burned meat soup with lots of barley , overdone steak with fried onions , a pudding frothy on top and gelatinous underneath , tasting of eggs and granadilla juice .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+They gave him the African cook's special lunch that he remembered so well : slightly burned meat soup with lots of barley, overdone steak with fried onions, a pudding frothy on top and gelatinous underneath, tasting of eggs and granadilla juice.assistant
+
+COMP: African
+COMP: African
+COMP: African
+COMP: African","COMP: African
+COMP: African
+COMP: African
+COMP: African","COMP: meat soup
+COMP: granadilla juice"
+58,"As neither Dudley nor the hedge was in any way hurt , Aunt Petunia knew he had n't really done magic , but he still had to duck as she aimed a heavy blow at his head with the soapy frying pan .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+As neither Dudley nor the hedge was in any way hurt, Aunt Petunia knew he hadn't really done magic, but he still had to duck as she aimed a heavy blow at his head with the soapy frying pan.assistant
+
+COMP: frying",COMP: frying,COMP: Aunt Petunia
+59,"Jimmy Plant , Blogshares is a fantasy blogosphere trading game with pretend money .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Jimmy Plant, Blogshares is a fantasy blogosphere trading game with pretend money.assistant
+
+COMP: Blogosphere",COMP: Blogosphere,COMP: fantasy blogosphere trading game
+60,"A NATO spokesman said : "" There 's no tracking mechanism to ensure they do n't fall into the wrong hands .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+A NATO spokesman said : "" There's no tracking mechanism to ensure they don't fall into the wrong hands.assistant
+
+COMP: NATO",COMP: NATO,"COMP: NATO spokesman
+COMP: tracking mechanism"
+61,i have a Mature male and female they are together a lot but never laid eggs as far as i know can anyone help me figure out how to make them mate,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+i have a Mature male and female they are together a lot but never laid eggs as far as i know can anyone help me figure out how to make them mateassistant
+
+COMP: laid",COMP: laid,COMP-PRT: figure out
+62,"Remember that what you do to yourself affects me and everybody else , remember that what you do to me and anyone else shapes your destiny .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Remember that what you do to yourself affects me and everybody else, remember that what you do to me and anyone else shapes your destiny.assistant
+
+No compound found.",No compound found.,No compound found.
+63,"My assistant Joanne Rozycki has cell , car numbers to reach me .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+My assistant Joanne Rozycki has cell, car numbers to reach me.assistant
+
+COMP: cell",COMP: cell,"COMP: cell , car numbers"
+64,"The US troops fired into the hostile crowd , killing 4 .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The US troops fired into the hostile crowd, killing 4.assistant
+
+COMP: troops",COMP: troops,COMP: US troops
+65,"He was a first-class agent , young , gentlemanly , a bit reserved , with a forked little beard and a hooked nose .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+He was a first-class agent, young, gentlemanly, a bit reserved, with a forked little beard and a hooked nose.assistant
+
+COMP: forked
+COMP: little","COMP: forked
+COMP: little",No compound found.
+66,London ’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+London ’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment.assistant
+
+COMP: South",COMP: South,"COMP: landmark South Bank Tower
+COMP: interior designer
+COMP: show apartment"
+67,But it only came forward after the U.S. Environmental Protection Agency alerted the world to the issue .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+But it only came forward after the U.S. Environmental Protection Agency alerted the world to the issue.assistant
+
+COMP: Environmental",COMP: Environmental,COMP: U.S. Environmental Protection Agency
+68,"In June and July of 1973 , he accumulated 56 points , enough to meet the minimum requirement for the 1973 - 1974 year .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+In June and July of 1973, he accumulated 56 points, enough to meet the minimum requirement for the 1973 - 1974 year.assistant
+
+COMP: 1973-1974",COMP: 1973-1974,"COMP: minimum requirement
+COMP: 1973 - 1974 year"
+69,"Like all oil place changes , ask / recommend the 100 other services they have .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Like all oil place changes, ask / recommend the 100 other services they have.assistant
+
+No compound found.",No compound found.,COMP: oil place changes
+70,"Do not hit , yell , or harm them .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Do not hit, yell, or harm them.assistant
+
+No compound found.",No compound found.,No compound found.
+71,not sure how much longer ene is going to be around and i 'm checking out my options !,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+not sure how much longer ene is going to be around and i'm checking out my options!assistant
+
+No compound found.",No compound found.,COMP-PRT: checking out
+72,I also realize that some may not have done any works on paper or they are outrageously expensive .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I also realize that some may not have done any works on paper or they are outrageously expensive.assistant
+
+COMP: paper",COMP: paper,No compound found.
+73,If anyone else has voted ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+If anyone else has voted?assistant
+
+No compound found.",No compound found.,No compound found.
+74,"As I mentioned , please let me know when it is ready , and I will send someone to pick it up .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+As I mentioned, please let me know when it is ready, and I will send someone to pick it up.assistant
+
+COMP: pick",COMP: pick,COMP-PRT: pick up
+75,Ultimately that would be a disadvantage for the consumer .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ultimately that would be a disadvantage for the consumer.assistant
+
+COMP: 消費者",COMP: 消費者,No compound found.
+76,"Category labels usually appear across the x axis of the chart , although this can vary depending on the type of chart you are using .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Category labels usually appear across the x axis of the chart, although this can vary depending on the type of chart you are using.assistant
+
+COMP: x轴",COMP: x轴,"COMP: Category labels
+COMP: x axis"
+77,XSD is a proposed World Wide Web Consortium ( W3C ) standard designed as a basic infrastructure for describing the type and structure of XML documents .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+XSD is a proposed World Wide Web Consortium ( W3C ) standard designed as a basic infrastructure for describing the type and structure of XML documents.assistant
+
+COMP: World
+COMP: Wide
+COMP: Web
+COMP: Consortium
+COMP: World
+COMP: Web
+COMP: Consortium
+COMP: World
+COMP: Wide
+COMP: Web
+COMP: Consortium","COMP: World
+COMP: Wide
+COMP: Web
+COMP: Consortium
+COMP: World
+COMP: Web
+COMP: Consortium
+COMP: World
+COMP: Wide
+COMP: Web
+COMP: Consortium","COMP: World Wide
+COMP: Web Consortium ( W3C ) standard
+COMP: XML documents"
+78,"He can safely say this , for his family came to France in the seventeenth century .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+He can safely say this, for his family came to France in the seventeenth century.assistant
+
+COMP: 七十年代",COMP: 七十年代,No compound found.
+79,"Ever since he ate up Red Riding Hood 's grandma and blew down the houses of two - thirds of the Three Little Pigs , the Big Bad Wolf has held a persistently bad reputation .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Ever since he ate up Red Riding Hood's grandma and blew down the houses of two - thirds of the Three Little Pigs, the Big Bad Wolf has held a persistently bad reputation.assistant
+
+COMP: Riding
+COMP: Riding
+COMP: Little
+COMP: Little","COMP: Riding
+COMP: Riding
+COMP: Little
+COMP: Little","COMP-PRT: ate up
+COMP: Red Riding Hood
+COMP-PRT: blew down
+COMP: Three Little Pigs
+COMP: Big Bad Wolf"
+80,"The disembarking passengers were all strangers again , connected not with each other but to the mouthing , smiling faces and waving hands on the airport balcony .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The disembarking passengers were all strangers again, connected not with each other but to the mouthing, smiling faces and waving hands on the airport balcony.assistant
+
+COMP: 人口
+COMP: 人口
+COMP: 人口
+COMP: 人口
+COMP: 人口","COMP: 人口
+COMP: 人口
+COMP: 人口
+COMP: 人口
+COMP: 人口",COMP: airport balcony
+81,do you get your visitor s visa immediately at the airport ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+do you get your visitor s visa immediately at the airport?assistant
+
+No compound found.",No compound found.,No compound found.
+82,Let ’s get this over with now …,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Let ’s get this over with now …assistant
+
+No compound found.",No compound found.,No compound found.
+83,2005 is going to rock !,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+2005 is going to rock!assistant
+
+No compound found.",No compound found.,No compound found.
+84,"All Harry 's spellbooks , his wand , robes , cauldron and top-of-the-range Nimbus Two Thousand broomstick had been locked in a cupboard under the stairs by Uncle Vernon the instant Harry had come home .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+All Harry's spellbooks, his wand, robes, cauldron and top-of-the-range Nimbus Two Thousand broomstick had been locked in a cupboard under the stairs by Uncle Vernon the instant Harry had come home.assistant
+
+COMP: spellbooks
+COMP: robes
+COMP: cauldron
+COMP: broomstick","COMP: spellbooks
+COMP: robes
+COMP: cauldron
+COMP: broomstick","COMP: Nimbus Two Thousand broomstick
+COMP: Uncle Vernon"
+85,"But if I am going out , where exactly am I going ?","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+But if I am going out, where exactly am I going?assistant
+
+No compound found.",No compound found.,No compound found.
+86,Sheila Walton,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Sheila Waltonassistant
+
+No compound found.",No compound found.,No compound found.
+87,The team focus is prevention and education .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The team focus is prevention and education.assistant
+
+No compound found.",No compound found.,COMP: team focus
+88,"In any event , my presentation should give you a starting point .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+In any event, my presentation should give you a starting point.assistant
+
+No compound found.",No compound found.,COMP: starting point
+89,09/20/2000 09:32 AM,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+09/20/2000 09:32 AMassistant
+
+No compound found.",No compound found.,No compound found.
+90,"Our media make crisis chatter out of news and fill our minds with anxious phantoms of the real thing a summit in Helsinki , a treaty in Egypt , a constitutional crisis in India , a vote in the UN , the financial collapse of New York .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Our media make crisis chatter out of news and fill our minds with anxious phantoms of the real thing a summit in Helsinki, a treaty in Egypt, a constitutional crisis in India, a vote in the UN, the financial collapse of New York.assistant
+
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP:","COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP: 媒体
+COMP:",COMP: crisis chatter
+91,This has not stopped investors flocking to put their money in the funds .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+This has not stopped investors flocking to put their money in the funds.assistant
+
+COMP: money",COMP: money,No compound found.
+92,"While we ca n't make any promises , we will do our best to bring in at least some of these special guests .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+While we can't make any promises, we will do our best to bring in at least some of these special guests.assistant
+
+COMP: special",COMP: special,No compound found.
+93,"Quinn had often imagined this situation : the sudden , unexpected pleasure of encountering one of his readers .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Quinn had often imagined this situation : the sudden, unexpected pleasure of encountering one of his readers.assistant
+
+COMP: 读者",COMP: 读者,No compound found.
+94,"Tues. Oct. 3 - Fly London to Houston ( lv. around noon , arrv. around 4:30 pm )","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Tues. Oct. 3 - Fly London to Houston ( lv. around noon, arrv. around 4:30 pm )assistant
+
+COMP: London",COMP: London,No compound found.
+95,"By wandering aimlessly , all places became equal , and it no longer mattered where he was .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+By wandering aimlessly, all places became equal, and it no longer mattered where he was.assistant
+
+No compound found.",No compound found.,No compound found.
+96,I think they 'll be very pleased to see you back there .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I think they 'll be very pleased to see you back there.assistant
+
+No compound found.",No compound found.,No compound found.
+97,"And they were only two-hours-and-a-bit from London , their daughters and their friends .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+And they were only two-hours-and-a-bit from London, their daughters and their friends.assistant
+
+No compound found.",No compound found.,No compound found.
+98,"Alright , so my dad had been wanting me to check my e mail for a few days but I never got around to it .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Alright, so my dad had been wanting me to check my e mail for a few days but I never got around to it.assistant
+
+No compound found.",No compound found.,No compound found.
+99,"Still , the Cloughs pursued Bray through Vivien .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Still, the Cloughs pursued Bray through Vivien.assistant
+
+COMP: Still",COMP: Still,No compound found.
+100,"A mounted escort of some 30 men , all armed .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+A mounted escort of some 30 men, all armed.assistant
+
+COMP: mounted",COMP: mounted,No compound found.
+101,"The person who best explains this , and helps me out the best with my question will be REWARDED WITH TEN POINTS !!!!!!!","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The person who best explains this, and helps me out the best with my question will be REWARDED WITH TEN POINTS!!!!!!!assistant
+
+No compound found.",No compound found.,COMP-PRT: helps out
+102,Highly recommended people / business .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Highly recommended people / business.assistant
+
+No compound found.",No compound found.,COMP: people / business
+103,"For example , when you move a Product field to the filter area , you can display data for one product at a time .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+For example, when you move a Product field to the filter area, you can display data for one product at a time.assistant
+
+COMP: Product",COMP: Product,COMP: filter area
+104,The European Commission maintains that everything depends on supply .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The European Commission maintains that everything depends on supply.assistant
+
+No compound found.",No compound found.,No compound found.
+105,"3 ) G. V. & A. Bourret 41 Broome St , # 1 Brooklyn , NY 11222 USA","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+3 ) G. V. & A. Bourret 41 Broome St, # 1 Brooklyn, NY 11222 USAassistant
+
+COMP: Brooklyn",COMP: Brooklyn,COMP: Broome St
+106,Are you free for lunch today .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Are you free for lunch today.assistant
+
+No compound found.",No compound found.,No compound found.
+107,I.E. the Davis Administration wants to place all direct access advocates in the position of having to justify why each and every party should be the exception to the suspension rather than have a general rule concerning how direct access should work for all parties .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I.E. the Davis Administration wants to place all direct access advocates in the position of having to justify why each and every party should be the exception to the suspension rather than have a general rule concerning how direct access should work for all parties.assistant
+
+COMP: direct
+COMP: access","COMP: direct
+COMP: access","COMP: Davis Administration
+COMP: access advocates
+COMP: each and every party"
+108,Al Arfsten < arfsten@bflassociates.com > on 01/24/2001 11:16:25 AM,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Al Arfsten < arfsten@bflassociates.com > on 01/24/2001 11:16:25 AMassistant
+
+COMP: BFlassociates",COMP: BFlassociates,No compound found.
+109,But now people have to learn that there 's a Department of Public Health to go to .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+But now people have to learn that there's a Department of Public Health to go to.assistant
+
+COMP: 公共衛生",COMP: 公共衛生,No compound found.
+110,"If you can make it , please come !","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+If you can make it, please come!assistant
+
+No compound found.",No compound found.,No compound found.
+111,"Per my voice mail , here is the letter .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Per my voice mail, here is the letter.assistant
+
+No compound found.",No compound found.,COMP: voice mail
+112,"Already , things were happening too fast .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Already, things were happening too fast.assistant
+
+No compound found.",No compound found.,No compound found.
+113,"Were you a golfer , I ca n't quite remember ... ?","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Were you a golfer, I can't quite remember...?assistant
+
+No compound found.",No compound found.,No compound found.
+114,He looked pleasantly into the martini jug and put it down again patiently .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+He looked pleasantly into the martini jug and put it down again patiently.assistant
+
+COMP: 它",COMP: 它,COMP: martini jug
+115,"To a certain extent , ensuring equal opportunities for men and women is like trying to attain the unattainable .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+To a certain extent, ensuring equal opportunities for men and women is like trying to attain the unattainable.assistant
+
+No compound found.",No compound found.,No compound found.
+116,This document reflects our group 's main concerns about the future of the ACP-EU link .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+This document reflects our group's main concerns about the future of the ACP-EU link.assistant
+
+COMP: ACP-EU",COMP: ACP-EU,COMP: ACP-EU link
+117,"Well , you see , the notion drove me .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Well, you see, the notion drove me.assistant
+
+No compound found.",No compound found.,No compound found.
+118,"The ACIA -- with participation by the United States , Canada , Denmark , Finland , Iceland , Norway , the Russian Federation and Sweden -- was begun in 2000 .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The ACIA -- with participation by the United States, Canada, Denmark, Finland, Iceland, Norway, the Russian Federation and Sweden -- was begun in 2000.assistant
+
+COMP: United
+COMP: States
+COMP: Federation","COMP: United
+COMP: States
+COMP: Federation","COMP: United States
+COMP: Russian Federation"
+119,"It 's on loan , by the way , from a guy named Joe O'Neill in Midland , Texas .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+It's on loan, by the way, from a guy named Joe O'Neill in Midland, Texas.assistant
+
+COMP: Texas",COMP: Texas,No compound found.
+120,"They are surrounded by a second wider circle of direct supporters , planners , commanders , preachers , all of whom make a living , usually a very comfortable living , by serving as terror infrastructure .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+They are surrounded by a second wider circle of direct supporters, planners, commanders, preachers, all of whom make a living, usually a very comfortable living, by serving as terror infrastructure.assistant
+
+COMP: 直接支持者
+COMP: 支持者
+COMP: 領導人
+COMP: 領導人
+COMP: 領導人
+COMP: 領導人","COMP: 直接支持者
+COMP: 支持者
+COMP: 領導人
+COMP: 領導人
+COMP: 領導人
+COMP: 領導人",COMP: terror infrastructure
+121,"Parmesan has spent much of her career studying the checkerspot butterfly , which migrates between Mexico and southern California .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Parmesan has spent much of her career studying the checkerspot butterfly, which migrates between Mexico and southern California.assistant
+
+COMP: butterfly",COMP: butterfly,COMP: checkerspot butterfly
+122,"Today is my last day in the office here at Azurix , and in the coming months , I will start in a new position as SVP in the LNG development group at El Paso Energy .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Today is my last day in the office here at Azurix, and in the coming months, I will start in a new position as SVP in the LNG development group at El Paso Energy.assistant
+
+COMP: Azurix
+COMP: LNG","COMP: Azurix
+COMP: LNG","COMP: LNG development group
+COMP: El Paso Energy"
+123,It s awesome - better than book 5,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+It s awesome - better than book 5assistant
+
+No compound found.",No compound found.,No compound found.
+124,This is unlike the situation last year in Asia when we evacuated U.S. citizens from areas that were hit by the tsunami - a phenomenon that is much less predictable than the Hezbollah - provoked destruction that rained down on Lebanon .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+This is unlike the situation last year in Asia when we evacuated U.S. citizens from areas that were hit by the tsunami - a phenomenon that is much less predictable than the Hezbollah - provoked destruction that rained down on Lebanon.assistant
+
+COMP: U.S.",COMP: U.S.,"COMP: U.S. citizens
+COMP: Hezbollah - provoked"
+125,"For one brief instant Quinn thought , So this is what detective work is like . But other than that he thought nothing .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+For one brief instant Quinn thought, So this is what detective work is like. But other than that he thought nothing.assistant
+
+COMP: detective",COMP: detective,COMP: detective work
+126,And every computer manufactured in both Ireland & the UK are Region 2 aka PAL .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+And every computer manufactured in both Ireland & the UK are Region 2 aka PAL.assistant
+
+No compound found.",No compound found.,No compound found.
+127,The report also found alterations of ecosystem processes such as carbon cycling and storage .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The report also found alterations of ecosystem processes such as carbon cycling and storage.assistant
+
+COMP: ecosystem",COMP: ecosystem,"COMP: ecosystem processes
+COMP: carbon cycling"
+128,PivotTable list on a data access page,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+PivotTable list on a data access pageassistant
+
+COMP: PivotTable",COMP: PivotTable,"COMP: PivotTable list
+COMP: data access page"
+129,"In the steady buzz of flies the homeward-bound agent was lying flushed and insensible ; the other , bent over his books , was making correct entries of perfectly correct transactions ; and fifty feet below the doorstep I could see the still tree-tops of the grove of death .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+In the steady buzz of flies the homeward-bound agent was lying flushed and insensible ; the other, bent over his books, was making correct entries of perfectly correct transactions ; and fifty feet below the doorstep I could see the still tree-tops of the grove of death.assistant
+
+COMP: homeward-bound
+COMP: tree-tops","COMP: homeward-bound
+COMP: tree-tops",No compound found.
+130,I ca n't tell you how ominous I found Bush 's performance in that interview .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I can't tell you how ominous I found Bush's performance in that interview.assistant
+
+COMP: Bush",COMP: Bush,No compound found.
+131,""" I ca n't promise you that .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+"" I can't promise you that.assistant
+
+No compound found.",No compound found.,No compound found.
+132,==============================================================================,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+==============================================================================assistant
+
+No compound found.",No compound found.,No compound found.
+133,"well , of course , you know .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+well, of course, you know.assistant
+
+No compound found.",No compound found.,No compound found.
+134,""" The impact of global warming on fish stocks and fisheries is hard to judge , "" the IPN report said .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+"" The impact of global warming on fish stocks and fisheries is hard to judge, "" the IPN report said.assistant
+
+COMP: fish",COMP: fish,"COMP: fish stocks
+COMP: IPN report"
+135,Is there 1 available ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Is there 1 available?assistant
+
+No compound found.",No compound found.,No compound found.
+136,What would happen if you flew the flag of South Vietnam in Modern day Vietnam ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+What would happen if you flew the flag of South Vietnam in Modern day Vietnam?assistant
+
+No compound found.",No compound found.,"COMP: South Vietnam
+COMP: day Vietnam"
+137,We will meet that commitment .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+We will meet that commitment.assistant
+
+No compound found.",No compound found.,No compound found.
+138,Rothko,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Rothkoassistant
+
+COMP: Rothko",COMP: Rothko,No compound found.
+139,"As you know , underage wizards are not permitted to perform spells outside school , and further spellwork on your part may lead to expulsion from said school ( Decree for the Reasonable Restriction of Underage Sorcery , 1875 , Paragraph C ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+As you know, underage wizards are not permitted to perform spells outside school, and further spellwork on your part may lead to expulsion from said school ( Decree for the Reasonable Restriction of Underage Sorcery, 1875, Paragraph C ).assistant
+
+COMP: Reasonable Restriction",COMP: Reasonable Restriction,COMP: Paragraph C
+140,The test itself is what is called a substitution test .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The test itself is what is called a substitution test.assistant
+
+No compound found.",No compound found.,COMP: substitution test
+141,Becky Stephens@ENRON,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Becky Stephens@ENRONassistant
+
+COMP: ENRON",COMP: ENRON,COMP: Becky Stephens@ENRON
+142,What do you do ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+What do you do?assistant
+
+No compound found.",No compound found.,No compound found.
+143,"A glass case nearby held a withered hand on a cushion , a blood-stained pack of cards , and a staring glass eye .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+A glass case nearby held a withered hand on a cushion, a blood-stained pack of cards, and a staring glass eye.assistant
+
+COMP: glass
+COMP: glass","COMP: glass
+COMP: glass","COMP: glass case
+COMP: glass eye"
+144,Great to have you on board !,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Great to have you on board!assistant
+
+No compound found.",No compound found.,No compound found.
+145,1 A custom group field that appears as the parent of the Category custom group field .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+1 A custom group field that appears as the parent of the Category custom group field.assistant
+
+COMP: Category",COMP: Category,"COMP: custom group field
+COMP: Category custom group field"
+146,I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I have asked Doug Daniels to prepare the settlement papers reflecting such an agreement.assistant
+
+COMP: Daniels",COMP: Daniels,COMP: settlement papers
+147,"From childhood to old age they remained the same , and a man with the head to see it could theoretically look into the eyes of a boy in a photograph and recognize the same person as an old man .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+From childhood to old age they remained the same, and a man with the head to see it could theoretically look into the eyes of a boy in a photograph and recognize the same person as an old man.assistant
+
+COMP: childhood
+COMP: old
+COMP: childhood
+COMP: old
+COMP: man","COMP: childhood
+COMP: old
+COMP: childhood
+COMP: old
+COMP: man",No compound found.
+148,US troops there clashed with guerrillas in a fight that left one Iraqi dead .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+US troops there clashed with guerrillas in a fight that left one Iraqi dead.assistant
+
+COMP: troops",COMP: troops,COMP: US troops
+149,Example of a query using wildcard characters,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Example of a query using wildcard charactersassistant
+
+No compound found.",No compound found.,COMP: wildcard characters
+150,"Oh , I 'd love to get Lucius Malfoy for something","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Oh, I 'd love to get Lucius Malfoy for somethingassistant
+
+COMP: Oh",COMP: Oh,No compound found.
+151,We 'd only met ten minutes before .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+We 'd only met ten minutes before.assistant
+
+No compound found.",No compound found.,No compound found.
+152,About exporting to XML files,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+About exporting to XML filesassistant
+
+No compound found.",No compound found.,No compound found.
+153,"My car is a little tiny thing , a second-hand crock .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+My car is a little tiny thing, a second-hand crock.assistant
+
+COMP: tiny
+COMP: thing","COMP: tiny
+COMP: thing",No compound found.
+154,"Inside the airport under the yellow light the passengers sat down again on exhausted-looking chairs , bundled deep in their heavy clothing .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Inside the airport under the yellow light the passengers sat down again on exhausted-looking chairs, bundled deep in their heavy clothing.assistant
+
+COMP: yellow
+COMP: clothing","COMP: yellow
+COMP: clothing",No compound found.
+155,"On the other hand , a certain transition democracy , as in Jordan , may be a better temporary solution , paving the way for the real thing , perhaps in the same way that an immediate sudden democracy did not work in Russia and would not have worked in China .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+On the other hand, a certain transition democracy, as in Jordan, may be a better temporary solution, paving the way for the real thing, perhaps in the same way that an immediate sudden democracy did not work in Russia and would not have worked in China.assistant
+
+COMP: 俄罗斯
+COMP: 中國","COMP: 俄罗斯
+COMP: 中國",COMP: transition democracy
+156,"In him I see a piece of history , an antiquity .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+In him I see a piece of history, an antiquity.assistant
+
+No compound found.",No compound found.,No compound found.
+157,"Then I sat on the couch , placed one hand in the cage , holding a millet spray .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Then I sat on the couch, placed one hand in the cage, holding a millet spray.assistant
+
+COMP: millet",COMP: millet,COMP: millet spray
+158,thanks people,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+thanks peopleassistant
+
+No compound found.",No compound found.,No compound found.
+159,"I know that the mouse will probably die , but I was wondering if there is any cure for mouse poison ?","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I know that the mouse will probably die, but I was wondering if there is any cure for mouse poison?assistant
+
+No compound found.",No compound found.,COMP: mouse poison
+160,An F1 ticket grants access to the concert on the same day .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+An F1 ticket grants access to the concert on the same day.assistant
+
+No compound found.",No compound found.,COMP: F1 ticket
+161,"Armed militias , many staffed by former Iraqi military men with substantial training and experience , have proliferated .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Armed militias, many staffed by former Iraqi military men with substantial training and experience, have proliferated.assistant
+
+COMP: Iraqi",COMP: Iraqi,No compound found.
+162,"Where it risks fighting dual Sunni Arab and Shiite insurgencies simultaneously , at a time when US troops are rotating on a massive scale and hoping to downsize their forces in country ?","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Where it risks fighting dual Sunni Arab and Shiite insurgencies simultaneously, at a time when US troops are rotating on a massive scale and hoping to downsize their forces in country?assistant
+
+COMP: Sunni",COMP: Sunni,COMP: US troops
+163,Removing and reapplying a filter,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Removing and reapplying a filterassistant
+
+No compound found.",No compound found.,No compound found.
+164,Please find enclosed EES 's request for Volumes for PGE CityGate delvery effective 11/1/01 :,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Please find enclosed EES's request for Volumes for PGE CityGate delvery effective 11/1/01 :assistant
+
+COMP: PGE",COMP: PGE,COMP: PGE CityGate delvery
+165,air asia flight attendant ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+air asia flight attendant?assistant
+
+No compound found.",No compound found.,COMP: air asia flight attendant
+166,I 'll be in around 1000,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I 'll be in around 1000assistant
+
+No compound found.",No compound found.,No compound found.
+167,"Enjoy it while you can , and then if your family enjoys it you can go again for a longer period of time .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Enjoy it while you can, and then if your family enjoys it you can go again for a longer period of time.assistant
+
+No compound found.",No compound found.,No compound found.
+168,"I did n't realize how much "" stuff "" you could pack into a one bedroom apartment .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I didn't realize how much "" stuff "" you could pack into a one bedroom apartment.assistant
+
+COMP: one
+COMP: bedroom","COMP: one
+COMP: bedroom",COMP: bedroom apartment
+169,I 've booked Videoconference Room # 1 .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I've booked Videoconference Room # 1.assistant
+
+No compound found.",No compound found.,COMP: Videoconference Room
+170,"Well , I 've got news for you , boy . I 'm locking you up you 're never going back to that school . never . and if you try and magic yourself out – they 'll expel you !","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Well, I've got news for you, boy. I'm locking you up you're never going back to that school. never. and if you try and magic yourself out – they 'll expel you!assistant
+
+COMP: school",COMP: school,COMP-PRT: locking up
+171,Enjoy your holidays !,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Enjoy your holidays!assistant
+
+No compound found.",No compound found.,No compound found.
+172,"The two ANSI SQL query modes , ANSI-89 and ANSI-92 , are not compatible .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The two ANSI SQL query modes, ANSI-89 and ANSI-92, are not compatible.assistant
+
+COMP: ANSI-89",COMP: ANSI-89,COMP: ANSI SQL query modes
+173,Text fields,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Text fieldsassistant
+
+No compound found.",No compound found.,COMP: Text fields
+174,Gerry Strathmann eCommerce Group American Arbitration Association ( 978 ) 376-9004 303-294-4499,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Gerry Strathmann eCommerce Group American Arbitration Association ( 978 ) 376-9004 303-294-4499assistant
+
+COMP: American",COMP: American,"COMP: eCommerce Group
+COMP: American Arbitration Association"
+175,"First two times up , Kingsman hits solo shots , he said . Boom , boom . Big mothers – all the way to the moon .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+First two times up, Kingsman hits solo shots, he said. Boom, boom. Big mothers – all the way to the moon.assistant
+
+COMP: Kingsman",COMP: Kingsman,COMP: solo shots
+176,We 've grown up .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+We've grown up.assistant
+
+No compound found.",No compound found.,COMP-PRT: grown up
+177,"These views , no substitute for common sense , are based upon careful staff work at the Hudson Institute .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+These views, no substitute for common sense, are based upon careful staff work at the Hudson Institute.assistant
+
+COMP: Hudson",COMP: Hudson,"COMP: staff work
+COMP: Hudson Institute"
+178,I believe that there might be a sign - flipping problem for PUTS that 's causing this whole issue .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I believe that there might be a sign - flipping problem for PUTS that's causing this whole issue.assistant
+
+COMP: sign",COMP: sign,COMP: sign - flipping
+179,Yes obviously the USB is region free which means you can use it anywhere .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Yes obviously the USB is region free which means you can use it anywhere.assistant
+
+COMP: USB",COMP: USB,No compound found.
+180,You look for sleighs and frost when you hear this jingle-belling .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+You look for sleighs and frost when you hear this jingle-belling.assistant
+
+COMP: jingle-belling",COMP: jingle-belling,No compound found.
+181,Karim - this 's likely the explanation to your other question ...,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Karim - this's likely the explanation to your other question...assistant
+
+No compound found.",No compound found.,No compound found.
+182,Then there is Amendment No-12 .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Then there is Amendment No-12.assistant
+
+No compound found.",No compound found.,No compound found.
+183,I just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I just wanted to check with you regarding the consulting arrangement we discussed a couple of weeks ago.assistant
+
+COMP: weeks",COMP: weeks,COMP: consulting arrangement
+184,Honestly they have worked for me twice with my parakeets .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Honestly they have worked for me twice with my parakeets.assistant
+
+No compound found.",No compound found.,No compound found.
+185,Changing security settings by using the GRANT and REVOKE SQL statements,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Changing security settings by using the GRANT and REVOKE SQL statementsassistant
+
+COMP: SQL",COMP: SQL,"COMP: security settings
+COMP: GRANT and REVOKE SQL statements"
+186,GILDEROY LOCKHART will be signing copies of his autobiography MAGICAL ME today 12:30 to 4:30 pm .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+GILDEROY LOCKHART will be signing copies of his autobiography MAGICAL ME today 12:30 to 4:30 pm.assistant
+
+COMP: LOCKHART",COMP: LOCKHART,COMP: autobiography MAGICAL ME
+187,Cindy,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Cindyassistant
+
+No compound found.",No compound found.,No compound found.
+188,"Jane , on deal 763736 for May 01 sales to Southwest Gas , we have a pricing discrepancy .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Jane, on deal 763736 for May 01 sales to Southwest Gas, we have a pricing discrepancy.assistant
+
+COMP: Southwest",COMP: Southwest,"COMP: May 01 sales
+COMP: Southwest Gas
+COMP: pricing discrepancy"
+189,"It is a cloth napkin kind of place , but I thought well worth it .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+It is a cloth napkin kind of place, but I thought well worth it.assistant
+
+COMP: cloth",COMP: cloth,COMP: cloth napkin kind
+190,Can you please help with this one ?,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Can you please help with this one?assistant
+
+No compound found.",No compound found.,No compound found.
+191,( Laughter . ),"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+( Laughter. )assistant
+
+No compound found.",No compound found.,No compound found.
+192,"Any review , retransmission , dissemination or other use of , or taking of any action in reliance upon , this information by persons or entities other than the intended recipient is prohibited .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+Any review, retransmission, dissemination or other use of, or taking of any action in reliance upon, this information by persons or entities other than the intended recipient is prohibited.assistant
+
+COMP: Any",COMP: Any,No compound found.
+193,"I wholly agree , and would expand that statement to include : "" To hell with death metal "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+I wholly agree, and would expand that statement to include : "" To hell with death metal "".assistant
+
+COMP: death",COMP: death,COMP: death metal
+194,"It was a brilliant , sunny day .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+It was a brilliant, sunny day.assistant
+
+No compound found.",No compound found.,No compound found.
+195,"The information contained herein is based on sources that we believe to be reliable , but we do not represent that it is accurate or complete .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The information contained herein is based on sources that we believe to be reliable, but we do not represent that it is accurate or complete.assistant
+
+COMP: The",COMP: The,No compound found.
+196,"The impacts of climate change on the region and the globe are projected to increase substantially in the years to come . ""","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The impacts of climate change on the region and the globe are projected to increase substantially in the years to come. ""assistant
+
+COMP: climate
+COMP: change","COMP: climate
+COMP: change",COMP: climate change
+197,"And , let 's remember , flying supersonic fighter jets is dangerous !","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+And, let's remember, flying supersonic fighter jets is dangerous!assistant
+
+COMP: fighter",COMP: fighter,COMP: fighter jets
+198,"The heat was heightened by drink and animation and the glass filled by the long , narrow black hand of his neighbour was marked by the fingerprints of the white woman who had relinquished it .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+The heat was heightened by drink and animation and the glass filled by the long, narrow black hand of his neighbour was marked by the fingerprints of the white woman who had relinquished it.assistant
+
+COMP: 黑手",COMP: 黑手,No compound found.
+199,You got ta get an iPhone for 3G ... only way ... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with you,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+复合词是由多个实义语素组成，并表达一个整体意义的词或表达。包括但不限于名词性复合词和短语动词。复合词的意义可以分为三种：完全组合、半组合和非组合。
+
+请按照以下格式输出：复合词类型（如COMP,COMP-PRT,等），后接个冒号，再写出该复合词。
+
+没有的话写'No compound found.' 如果有多个复合词，请每个单独占一行。如果有嵌套，只输出最高层、还能表示一个整体意义的复合词。
+
+
+
+句子如下：
+You got ta get an iPhone for 3G... only way... actually there is a thing that you pay for monthly that gets wifi from satellite and you can connect to it anywhere but you have to Cary it with youassistant
+
+COMP: iPhone
+COMP: 3G","COMP: iPhone
+COMP: 3G",No compound found.

@@ -1,0 +1,2216 @@
+,sentence,full_output,output,label
+0,"Su núcleo lo constituía el valle del de el río Janto y los territorios adyacentes , hasta unos 50 km río arriba desde su desembocadura en el Mediterráneo .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Su núcleo lo constituía el valle del de el río Janto y los territorios adyacentes, hasta unos 50 km río arriba desde su desembocadura en el Mediterráneo.assistant
+
+COMP: el valle del de el río Janto y los",COMP: el valle del de el río Janto y los,No compound found.
+1,"Un EP digital que contiene cuatro remixes de la canción fue lanzada en Australia , Nueva Zelanda , Europa y el Reino Unido el 2 de septiembre de 2011 .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Un EP digital que contiene cuatro remixes de la canción fue lanzada en Australia, Nueva Zelanda, Europa y el Reino Unido el 2 de septiembre de 2011.assistant
+
+COMP: canción fue",COMP: canción fue,COMP: 2 de septiembre de 2011
+2,"También escribió algunas fábulas , publicadas por la Diputación de Jaén en 1993 bajo el título de La buena simiente .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+También escribió algunas fábulas, publicadas por la Diputación de Jaén en 1993 bajo el título de La buena simiente.assistant
+
+COMP: Diputación de Jaén",COMP: Diputación de Jaén,No compound found.
+3,"Esta gobernación es a menudo llamada El centro de los cristianos libaneses debido al a el hecho de que una aplastante mayoría de su población ( 87,32 % ) está comprendida de católicos maronitas , ortodoxos griegos y otros cristianos .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Esta gobernación es a menudo llamada El centro de los cristianos libaneses debido al a el hecho de que una aplastante mayoría de su población ( 87,32 % ) está comprendida de católicos maronitas, ortodoxos griegos y otros cristianos.assistant
+
+COMP: a menudo",COMP: a menudo,No compound found.
+4,"Durante esta época trabajó en el montaje de Bustamante , uno de los nuestros ( Koncept Company - Endemol España ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Durante esta época trabajó en el montaje de Bustamante, uno de los nuestros ( Koncept Company - Endemol España ).assistant
+
+COMP: época trabajó",COMP: época trabajó,No compound found.
+5,"El Mallorca viajará a un campo donde no gana desde la temporada 88-89 , y en unos momentos que coinciden con sus malos resultados obtenidos como visitante , ya que el equipo balear no gana lejos de Son Moix desde el pasado mes de noviembre , cuando derrotó por 1-2 al a el Espanyol .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El Mallorca viajará a un campo donde no gana desde la temporada 88-89, y en unos momentos que coinciden con sus malos resultados obtenidos como visitante, ya que el equipo balear no gana lejos de Son Moix desde el pasado mes de noviembre, cuando derrotó por 1-2 al a el Espanyol.assistant
+
+COMP: 88-89",COMP: 88-89,COMP: mes de noviembre
+6,"Una sinuosa etapa , con seis vueltas a un duro circuito , en el que la gran dificultad representaba la subida a San Martino in Vignola en Vignola ( 4,1 kilómetros al a el 4 por ciento desnivel ) , que resultó muy movida , con continuos intentos de escapada y donde se dejó ver en varias ocasiones el español Manuel Beltrán , del de el Mapei .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Una sinuosa etapa, con seis vueltas a un duro circuito, en el que la gran dificultad representaba la subida a San Martino in Vignola en Vignola ( 4,1 kilómetros al a el 4 por ciento desnivel ), que resultó muy movida, con continuos intentos de escapada y donde se dejó ver en varias ocasiones el español Manuel Beltrán, del de el Mapei.assistant
+
+COMP: etapa, con seis","COMP: etapa, con seis",COMP: 4 por ciento
+7,A pesar de ello Sabatini exigió una rebaja en los costes que acabó en desacuerdo .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+A pesar de ello Sabatini exigió una rebaja en los costes que acabó en desacuerdo.assistant
+
+COMP: exigió una",COMP: exigió una,No compound found.
+8,"Sin embargo , algunos sobrevivientes declararon que ellos habían oído una orden dada para matar a todos los presos : ¡ Macht alle kaputt !","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Sin embargo, algunos sobrevivientes declararon que ellos habían oído una orden dada para matar a todos los presos : ¡ Macht alle kaputt!assistant
+
+COMP: oído una",COMP: oído una,COMP: Macht alle kaputt
+9,"Una grabación entre el expresidente de Estados Unidos Richard Nixon y John Ehrlichman , uno de sus más cercanos asesores en la Casa Blanca , reveló en el año 1999 , que el cuestionado hombre de negocios Robert Vesco fue protegido por el gobierno de José Figueres Ferrer .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Una grabación entre el expresidente de Estados Unidos Richard Nixon y John Ehrlichman, uno de sus más cercanos asesores en la Casa Blanca, reveló en el año 1999, que el cuestionado hombre de negocios Robert Vesco fue protegido por el gobierno de José Figueres Ferrer.assistant
+
+COMP: Casa Blanca",COMP: Casa Blanca,COMP: año 1999
+10,"El Consejo de Administración de la Real Sociedad ha decidido suprimir el "" día de ayuda al a el club "" contra el Athletic club de Bilbao que había programado para el 16 de abril , informó hoy el presidente donostiarra , Luis Uranga .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El Consejo de Administración de la Real Sociedad ha decidido suprimir el "" día de ayuda al a el club "" contra el Athletic club de Bilbao que había programado para el 16 de abril, informó hoy el presidente donostiarra, Luis Uranga.assistant
+
+COMP: de Administración de la",COMP: de Administración de la,COMP: 16 de abril
+11,"Londres , como el resto del de el mundo , vive pendiente de la reunión de la OPEP para aumentar la producción mundial de crudo , una decisión vital para frenar el encarecimiento del de el combustible .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Londres, como el resto del de el mundo, vive pendiente de la reunión de la OPEP para aumentar la producción mundial de crudo, una decisión vital para frenar el encarecimiento del de el combustible.assistant
+
+COMP: el resto del de el mundo",COMP: el resto del de el mundo,No compound found.
+12,"Illugi explicó a Sigurd todo sobre Signý y Sigurd decidió casarse casar se con ella , ambos tuvieron muchos hijos y vivieron mucho tiempo .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Illugi explicó a Sigurd todo sobre Signý y Sigurd decidió casarse casar se con ella, ambos tuvieron muchos hijos y vivieron mucho tiempo.assistant
+
+COMP: Sigurd decidió casarse",COMP: Sigurd decidió casarse,No compound found.
+13,"García Rojas escapó el 21 de febrero , luego de canjear un cheque de más de cinco millones 400 mil pesos , propiedad de la Constructora Almonte Tavárez , donde laboraba como mensajero .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+García Rojas escapó el 21 de febrero, luego de canjear un cheque de más de cinco millones 400 mil pesos, propiedad de la Constructora Almonte Tavárez, donde laboraba como mensajero.assistant
+
+COMP: García Rojas escapó el 21 de febrero",COMP: García Rojas escapó el 21 de febrero,COMP: 21 de febrero
+14,El 5 de julio un solemne Te Deum se cantó en Orán para conmemorar la victoria .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El 5 de julio un solemne Te Deum se cantó en Orán para conmemorar la victoria.assistant
+
+COMP: Te Deum",COMP: Te Deum,COMP: 5 de julio
+15,""" Presento mi dimisión , porque como político he perdido todo el prestigio que tenía y pido perdón a todos aquellos a los que ofendí con mi irresponsable e irrespetuoso comportamiento "" , dijo el ministro Siwiec en un comunicado entregado a los medios .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+"" Presento mi dimisión, porque como político he perdido todo el prestigio que tenía y pido perdón a todos aquellos a los que ofendí con mi irresponsable e irrespetuoso comportamiento "", dijo el ministro Siwiec en un comunicado entregado a los medios.assistant
+
+COMP: político he perdido
+COMP: prestigio que tenía
+COMP: comportamiento","COMP: político he perdido
+COMP: prestigio que tenía
+COMP: comportamiento",No compound found.
+16,"Telefónica acaparó una cuarta parte de la contratación , 109.495 millones de pesetas , y subió un 5,16 por ciento , hasta los 26,49 euros , algo que parecía no estar justificado hasta que comenzaron a escucharse escuchar se rumores sobre una posible fusión de la operadora española con British Telecom ( BT ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Telefónica acaparó una cuarta parte de la contratación, 109.495 millones de pesetas, y subió un 5,16 por ciento, hasta los 26,49 euros, algo que parecía no estar justificado hasta que comenzaron a escucharse escuchar se rumores sobre una posible fusión de la operadora española con British Telecom ( BT ).assistant
+
+COMP: Telefónica acaparó
+COMP: una cuarta parte de la contratación, 109.495 millones de pesetas,","COMP: Telefónica acaparó
+COMP: una cuarta parte de la contratación, 109.495 millones de pesetas,","COMP: 5,16 por ciento"
+17,Del total de la población el 0.61 % eran hispanos o latinos de cualquier raza .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Del total de la población el 0.61 % eran hispanos o latinos de cualquier raza.assistant
+
+COMP: la población",COMP: la población,No compound found.
+18,"Endemol "" es una empresa independiente que no está dentro de la estructura organizativa de Telefónica Media "" anunció Alonso , para añadir que "" está absolutamente coordinada por sus acciones y actividades y las líneas de distribución donde Media tiene hegemonía , fundamentalmente en televisiones abiertas "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Endemol "" es una empresa independiente que no está dentro de la estructura organizativa de Telefónica Media "" anunció Alonso, para añadir que "" está absolutamente coordinada por sus acciones y actividades y las líneas de distribución donde Media tiene hegemonía, fundamentalmente en televisiones abiertas "".assistant
+
+COMP: independiente que no
+COMP: estructura organizativa de Telefónica
+COMP: coordinada por sus
+COMP: fundamentalmente en televisiones abiertas","COMP: independiente que no
+COMP: estructura organizativa de Telefónica
+COMP: coordinada por sus
+COMP: fundamentalmente en televisiones abiertas",No compound found.
+19,"Unas 10.000 personas paralizan hoy el centro de Belgrado a lo largo de casi un kilómetro , y la gente sigue afluyendo , en una urbe ociosa , con un 40 por ciento normal de paro incrementado ahora por la huelga , la desobediencia civil y las dificultades de transporte .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Unas 10.000 personas paralizan hoy el centro de Belgrado a lo largo de casi un kilómetro, y la gente sigue afluyendo, en una urbe ociosa, con un 40 por ciento normal de paro incrementado ahora por la huelga, la desobediencia civil y las dificultades de transporte.assistant
+
+COMP: personas paralizan
+COMP: por ciento normal","COMP: personas paralizan
+COMP: por ciento normal",COMP: 40 por ciento
+20,"El médico forense de la ciudad de Huaraz , Pietro Flores , informó de que el corazón del de el deportista se detuvo "" como consecuencia de una insuficiencia respiratoria de altura , que precipitó a su vez un edema pulmonar "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El médico forense de la ciudad de Huaraz, Pietro Flores, informó de que el corazón del de el deportista se detuvo "" como consecuencia de una insuficiencia respiratoria de altura, que precipitó a su vez un edema pulmonar "".assistant
+
+COMP: de la ciudad
+COMP: de altura, que","COMP: de la ciudad
+COMP: de altura, que",No compound found.
+21,"El "" Kursk "" , orgullo de la Flota del de el Norte , se hundió por causas no aclaradas el pasado 12 de agosto , aunque la versión más verosímil para las autoridades rusas es que el hundimiento se debió a la colisión con un submarino "" asesino "" extranjero .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El "" Kursk "", orgullo de la Flota del de el Norte, se hundió por causas no aclaradas el pasado 12 de agosto, aunque la versión más verosímil para las autoridades rusas es que el hundimiento se debió a la colisión con un submarino "" asesino "" extranjero.assistant
+
+COMP: de la Flota del de el Norte",COMP: de la Flota del de el Norte,COMP: 12 de agosto
+22,"La labor no se presenta nada fácil para Schumacher , a quien la escudería le ha desmontado su departamento de prensa , que estaba compuesto por alemanes , le ha puesto una profesora de italiano , ya que después de cinco años en la escudería todavía no lo hablaba y la llegada de Barrichello , que domina la lengua de Dante , le ha hecho cambiar sus costumbres y en la presentación del de el equipo a finales de enero , pronunció sus primeras palabras en italiano en público .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La labor no se presenta nada fácil para Schumacher, a quien la escudería le ha desmontado su departamento de prensa, que estaba compuesto por alemanes, le ha puesto una profesora de italiano, ya que después de cinco años en la escudería todavía no lo hablaba y la llegada de Barrichello, que domina la lengua de Dante, le ha hecho cambiar sus costumbres y en la presentación del de el equipo a finales de enero, pronunció sus primeras palabras en italiano en público.assistant
+
+COMP: de prensa, que estaba compuesto","COMP: de prensa, que estaba compuesto",No compound found.
+23,La fusión de las divisiones de ciencias de la vida significará unos ahorros de unos 171.600 millones de pesetas durante los próximos tres años .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La fusión de las divisiones de ciencias de la vida significará unos ahorros de unos 171.600 millones de pesetas durante los próximos tres años.assistant
+
+COMP: de ciencias de la",COMP: de ciencias de la,No compound found.
+24,"Por su parte , Miyazawa comentó hoy que los temores de la deflación continúan y que el hecho de que las grandes corporaciones se muestren optimistas con vistas a la inversión futura , no es motivo suficiente para poner fin a los tipos de interés próximos a cero .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Por su parte, Miyazawa comentó hoy que los temores de la deflación continúan y que el hecho de que las grandes corporaciones se muestren optimistas con vistas a la inversión futura, no es motivo suficiente para poner fin a los tipos de interés próximos a cero.assistant
+
+COMP: comentó hoy",COMP: comentó hoy,COMP: poner fin
+25,El magistrado ha resuelto modificar la resolución en la que ordenó la prisión provisional de Gil eludible bajo fianza de 125 millones de pesetas .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El magistrado ha resuelto modificar la resolución en la que ordenó la prisión provisional de Gil eludible bajo fianza de 125 millones de pesetas.assistant
+
+COMP: resolución en la",COMP: resolución en la,No compound found.
+26,"Gil entregó el pasado 20 de enero en el juzgado las escrituras de unas fincas de Los Angeles San Rafael , para hacer frente a las respectivas fianzas de 125 y de 50 millones de pesetas que el juez les impuso a él y a su hijo .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Gil entregó el pasado 20 de enero en el juzgado las escrituras de unas fincas de Los Angeles San Rafael, para hacer frente a las respectivas fianzas de 125 y de 50 millones de pesetas que el juez les impuso a él y a su hijo.assistant
+
+COMP: de enero",COMP: de enero,"COMP: 20 de enero
+COMP: hacer frente"
+27,"El dólar y el euro ganaron hoy posiciones en Tokio en un mercado donde los inversores japoneses son los más activos , con más optimismo en el futuro de la economía de EEUU .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El dólar y el euro ganaron hoy posiciones en Tokio en un mercado donde los inversores japoneses son los más activos, con más optimismo en el futuro de la economía de EEUU.assistant
+
+COMP: posiciones en Tokio
+COMP: en un mercado","COMP: posiciones en Tokio
+COMP: en un mercado",No compound found.
+28,"Y lo grafica muy bien , diciendo que Manco Inca Yupanqui , sabía muy bien que los españoles en día domingo , no comían carne roja y habiendo ido a pescar con unos indios la "" comida de los españoles del de el día de guardar "" , recibió a un chasqui que le avisaba noticias del de el Cusco .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Y lo grafica muy bien, diciendo que Manco Inca Yupanqui, sabía muy bien que los españoles en día domingo, no comían carne roja y habiendo ido a pescar con unos indios la "" comida de los españoles del de el día de guardar "", recibió a un chasqui que le avisaba noticias del de el Cusco.assistant
+
+COMP: de los españoles del de el",COMP: de los españoles del de el,COMP: día domingo
+29,"Según el alcalde de Jerez de la Frontera y candidato andalucista , tras el acuerdo federal entre el PSOE e IU , el PA "" se quedó casi en exclusiva como opción de centro izquierda "" , "" tranquilo "" y "" en medio de la derecha de siempre y la izquierda "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Según el alcalde de Jerez de la Frontera y candidato andalucista, tras el acuerdo federal entre el PSOE e IU, el PA "" se quedó casi en exclusiva como opción de centro izquierda "", "" tranquilo "" y "" en medio de la derecha de siempre y la izquierda "".assistant
+
+COMP: de Jerez de la Frontera",COMP: de Jerez de la Frontera,No compound found.
+30,"En 1991 , la Operación Tormenta del de el Desierto tuvo un importante énfasis en el nuevo enfoque del de el mando en el apoyo al a el combatiente .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En 1991, la Operación Tormenta del de el Desierto tuvo un importante énfasis en el nuevo enfoque del de el mando en el apoyo al a el combatiente.assistant
+
+COMP: el de el",COMP: el de el,No compound found.
+31,La prensa independiente esta desprotegida ante los avances inconstitucionales del de el kirchnerismo .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La prensa independiente esta desprotegida ante los avances inconstitucionales del de el kirchnerismo.assistant
+
+COMP: prensa independiente
+COMP: avances inconstitucionales","COMP: prensa independiente
+COMP: avances inconstitucionales",No compound found.
+32,"Ellen , ignorante del de el contenido de la carta , se la entrega al a el cartero .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Ellen, ignorante del de el contenido de la carta, se la entrega al a el cartero.assistant
+
+No compound found.",No compound found.,No compound found.
+33,¿ Pero es divertido en la vida real ? - - .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+¿ Pero es divertido en la vida real? - -.assistant
+
+No compound found.",No compound found.,No compound found.
+34,"Carlos Alberto Pavón Plummer , de 26 años , es hijo de Blanca Nieves Pavón , una humilde hondureña , y del de el costarricense Allord Plummer , un ex jugador costarricense que en los años 70 fue goleador en el Marathón , de San Pedro Sula , uno de los equipos más populares de Honduras , con mayor afición en la zona norte del de el país .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Carlos Alberto Pavón Plummer, de 26 años, es hijo de Blanca Nieves Pavón, una humilde hondureña, y del de el costarricense Allord Plummer, un ex jugador costarricense que en los años 70 fue goleador en el Marathón, de San Pedro Sula, uno de los equipos más populares de Honduras, con mayor afición en la zona norte del de el país.assistant
+
+COMP: de San Pedro Sula",COMP: de San Pedro Sula,COMP: años 70
+35,Otra orquesta de prestigio es la Orquesta Sinfónica Nacional Argentina .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Otra orquesta de prestigio es la Orquesta Sinfónica Nacional Argentina.assistant
+
+No compound found.",No compound found.,No compound found.
+36,""" Ganar una medalla de bronce un dobles en unos Juegos Olímpicos habiendo jugado tan pocas veces juntos , es casi imposible .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+"" Ganar una medalla de bronce un dobles en unos Juegos Olímpicos habiendo jugado tan pocas veces juntos, es casi imposible.assistant
+
+COMP: Juegos Olímpicos",COMP: Juegos Olímpicos,COMP: Juegos Olímpicos
+37,"Las empresas Agbar y Suez Lyonnaisse des Eaux - que conformaron el consorcio Aguas Metropolitanas - se adjudicaron el 42 por ciento de EMOS el 11 de junio pasado a cambio de 964,1 millones de dólares .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Las empresas Agbar y Suez Lyonnaisse des Eaux - que conformaron el consorcio Aguas Metropolitanas - se adjudicaron el 42 por ciento de EMOS el 11 de junio pasado a cambio de 964,1 millones de dólares.assistant
+
+COMP: Agbar y Suez",COMP: Agbar y Suez,"COMP: 42 por ciento
+COMP: 11 de junio"
+38,"Como reconocimiento , hubo muchos tributos en su memoria , incluida una avenida con su nombre , un monumento en la ciudad de Salto y el Hospital Italiano de Buenos Aires .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Como reconocimiento, hubo muchos tributos en su memoria, incluida una avenida con su nombre, un monumento en la ciudad de Salto y el Hospital Italiano de Buenos Aires.assistant
+
+COMP: reconocimiento hubo muchos",COMP: reconocimiento hubo muchos,No compound found.
+39,Los dibujos que aparecían los había hecho yo .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Los dibujos que aparecían los había hecho yo.assistant
+
+No compound found.",No compound found.,No compound found.
+40,"El C6 , previsto para el año 2004 , estará muy por encima del de el C5 , con precios que superarán los siete millones de pesetas ( unos 37.200 dólares ) , en competencia directa con berlinas de representación tipo BMW serie 5 y Audi A6 .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El C6, previsto para el año 2004, estará muy por encima del de el C5, con precios que superarán los siete millones de pesetas ( unos 37.200 dólares ), en competencia directa con berlinas de representación tipo BMW serie 5 y Audi A6.assistant
+
+COMP: pesetas ( unos 37.200",COMP: pesetas ( unos 37.200,COMP: año 2004
+41,"Ramón Otero Pedrayo ( Orense , 5 de marzo de 1888 -- Orense , 10 de abril de 1976 ) fue un escritor e intelectual natural de Galicia ( España ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Ramón Otero Pedrayo ( Orense, 5 de marzo de 1888 -- Orense, 10 de abril de 1976 ) fue un escritor e intelectual natural de Galicia ( España ).assistant
+
+COMP: de marzo",COMP: de marzo,"COMP: 5 de marzo de 1888
+COMP: 10 de abril de 1976"
+42,"Todos los comienzos son difíciles , pero poco a poco lo coseguirás .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Todos los comienzos son difíciles, pero poco a poco lo coseguirás.assistant
+
+No compound found.",No compound found.,No compound found.
+43,"Partido política sigue ser confundido por este problema , y la mayoría de los gobiernos tiende a evitarlo evitar lo .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Partido política sigue ser confundido por este problema, y la mayoría de los gobiernos tiende a evitarlo evitar lo.assistant
+
+COMP: seguir confundido",COMP: seguir confundido,No compound found.
+44,"La top model argentina Valeria Mazza , que contrajo matrimonio recientemente , es una de las invitadas especiales del de el programa Ja hi som! ( TV-3 , 17.35 ) , que presenta y dirige Alfons Arús .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La top model argentina Valeria Mazza, que contrajo matrimonio recientemente, es una de las invitadas especiales del de el programa Ja hi som! ( TV-3, 17.35 ), que presenta y dirige Alfons Arús.assistant
+
+COMP: Valeria Mazza, que contrajo","COMP: Valeria Mazza, que contrajo",COMP: top model
+45,"En el sistema de indemnizaciones se podrá fijar , si fuera necesario , para la totalidad o para algunos de los elementos de la indemnización , un límite máximo y mínimo en el pago de la misma .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En el sistema de indemnizaciones se podrá fijar, si fuera necesario, para la totalidad o para algunos de los elementos de la indemnización, un límite máximo y mínimo en el pago de la misma.assistant
+
+COMP: fijar, si","COMP: fijar, si",No compound found.
+46,"La película griega Cavafy , de Iannis Smaragdis , que sigue la biografía del de el poeta de Alejandría Constantinos Kavafis , será la oferta de esta noche ( 22.30 horas ) en la sección oficial del de el festival de cine NET-99 , dedicado a los nuevos talentos europeos .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La película griega Cavafy, de Iannis Smaragdis, que sigue la biografía del de el poeta de Alejandría Constantinos Kavafis, será la oferta de esta noche ( 22.30 horas ) en la sección oficial del de el festival de cine NET-99, dedicado a los nuevos talentos europeos.assistant
+
+COMP: de Iannis Smaragdis",COMP: de Iannis Smaragdis,COMP: 22.30 horas
+47,"El 25 de junio de 1630 , el rey sueco desembarcó en Alemania , en las cercanías de la ciudad de Rügen .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El 25 de junio de 1630, el rey sueco desembarcó en Alemania, en las cercanías de la ciudad de Rügen.assistant
+
+COMP: de junio",COMP: de junio,COMP: 25 de junio de 1630
+48,"En la línea de mantener el nivel informativo figura el anuncio el pasado viernes de retirar del de el servicio los otros once submarinos de la clase del de el "" HMS Tireless "" , lo que creó una inquietud que se comprende en el Reino Unido , según las fuentes .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En la línea de mantener el nivel informativo figura el anuncio el pasado viernes de retirar del de el servicio los otros once submarinos de la clase del de el "" HMS Tireless "", lo que creó una inquietud que se comprende en el Reino Unido, según las fuentes.assistant
+
+COMP: del de el "" HMS Tireless ""","COMP: del de el "" HMS Tireless """,No compound found.
+49,"El primer documento emitido por la delegación del de el Centro Carter desde su llegada al a el país , en calidad de observadores internacionales de las elecciones , indica que esa "" desconfianza "" proviene de la "" naturaleza provisional "" de los miembros del de el CNE y del de el "" método de su selección "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El primer documento emitido por la delegación del de el Centro Carter desde su llegada al a el país, en calidad de observadores internacionales de las elecciones, indica que esa "" desconfianza "" proviene de la "" naturaleza provisional "" de los miembros del de el CNE y del de el "" método de su selección "".assistant
+
+COMP: calidad de el",COMP: calidad de el,No compound found.
+50,"Víctor Muñoz , entrenador del de el Villarreal , mostró en el entrenamiento vespertino de hoy el once inicial que probablemente debute en la liga el próximo domingo , en el estadio de El Madrigal ante el Rayo Vallecano , a partir de las 20:00 horas .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Víctor Muñoz, entrenador del de el Villarreal, mostró en el entrenamiento vespertino de hoy el once inicial que probablemente debute en la liga el próximo domingo, en el estadio de El Madrigal ante el Rayo Vallecano, a partir de las 20:00 horas.assistant
+
+COMP: entrenador del de el Villarreal, mostró en el entrenamiento vespertino de hoy","COMP: entrenador del de el Villarreal, mostró en el entrenamiento vespertino de hoy",COMP: 20:00 horas
+51,La treceava edición del de el certamen de esta localidad del de el Baix Llobregat se celebrará del de el 7 al a el 11 de septiembre .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La treceava edición del de el certamen de esta localidad del de el Baix Llobregat se celebrará del de el 7 al a el 11 de septiembre.assistant
+
+COMP: del de el",COMP: del de el,COMP: 11 de septiembre
+52,"Según el censo de 2010 , había 4672 personas residiendo en el municipio de Hocking .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Según el censo de 2010, había 4672 personas residiendo en el municipio de Hocking.assistant
+
+COMP: de 2010",COMP: de 2010,No compound found.
+53,"Además , el jefe del de el Ejecutivo indicó que "" dentro de poco "" convocará las elecciones y , con ello , demostrará a quienes aseguraron que no terminaría la legislatura "" con 156 diputados y las cosas que se decían "" que supondrá la más larga de la historia de la democracia española "" y la mejor "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Además, el jefe del de el Ejecutivo indicó que "" dentro de poco "" convocará las elecciones y, con ello, demostrará a quienes aseguraron que no terminaría la legislatura "" con 156 diputados y las cosas que se decían "" que supondrá la más larga de la historia de la democracia española "" y la mejor "".assistant
+
+COMP: el Ejecutivo indicó
+COMP: convocará las elecciones","COMP: el Ejecutivo indicó
+COMP: convocará las elecciones",No compound found.
+54,Unos diez mil espectadores presenciaron el partido y guardaron un minuto de silencio por el último asesinato de ETA .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Unos diez mil espectadores presenciaron el partido y guardaron un minuto de silencio por el último asesinato de ETA.assistant
+
+COMP: diez mil",COMP: diez mil,COMP: diez mil
+55,"A diferencia de las domésticas ya permiten personalizar ciertos ajustes , como el manejo del de el iris manual , foco y zoom manuales , balance de blancos , entre otras funciones .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+A diferencia de las domésticas ya permiten personalizar ciertos ajustes, como el manejo del de el iris manual, foco y zoom manuales, balance de blancos, entre otras funciones.assistant
+
+COMP: diferencia de las domésticas",COMP: diferencia de las domésticas,No compound found.
+56,"La ley de divorcio del de el año 1981 y la detención y tortura de Quim Boix en 1966 son los hechos que analiza Temps era temps ( TV-3 , 21.45 ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La ley de divorcio del de el año 1981 y la detención y tortura de Quim Boix en 1966 son los hechos que analiza Temps era temps ( TV-3, 21.45 ).assistant
+
+COMP: ley de divorcio",COMP: ley de divorcio,COMP: año 1981
+57,"Desde febrero del de el pasado año el BOJ mantiene el tipo oficial del de el dinero en el 0,5 por ciento y el interbancario día a día en 0,15 puntos .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Desde febrero del de el pasado año el BOJ mantiene el tipo oficial del de el dinero en el 0,5 por ciento y el interbancario día a día en 0,15 puntos.assistant
+
+COMP: del dinero en el",COMP: del dinero en el,"COMP: 0,5 por ciento"
+58,"En este sentido , ha subrayado que se ha conseguido esta pluralidad en la composición de la gestora porque "" ésta ha sido la voluntad de Chaves y de mucha gente y esto es positivo porque es algo que no pasó en el último congreso del de el PSOE "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En este sentido, ha subrayado que se ha conseguido esta pluralidad en la composición de la gestora porque "" ésta ha sido la voluntad de Chaves y de mucha gente y esto es positivo porque es algo que no pasó en el último congreso del de el PSOE "".assistant
+
+COMP: ha conseguido
+COMP: la voluntad","COMP: ha conseguido
+COMP: la voluntad",No compound found.
+59,"Los restantes grupos pasaron a números rojos y la caída más pronunciada fue la petroquímica , un 2,11 por ciento ; cartera e inversiones , un 1,76 por ciento , metal-mecánica , un 1,71 por ciento ; otros , un 1,43 por ciento ; construcción , un 0,41 por ciento , y eléctricas , un 0,01 por ciento .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Los restantes grupos pasaron a números rojos y la caída más pronunciada fue la petroquímica, un 2,11 por ciento ; cartera e inversiones, un 1,76 por ciento, metal-mecánica, un 1,71 por ciento ; otros, un 1,43 por ciento ; construcción, un 0,41 por ciento, y eléctricas, un 0,01 por ciento.assistant
+
+COMP: por ciento",COMP: por ciento,"COMP: 2,11 por ciento
+COMP: 1,76 por ciento
+COMP: 1,71 por ciento
+COMP: 1,43 por ciento
+COMP: 0,41 por ciento
+COMP: 0,01 por ciento"
+60,"Enterado Francisco Pizarro , envía una tropa a hacerles hacer les frente , más los incas los hacen retroceder .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Enterado Francisco Pizarro, envía una tropa a hacerles hacer les frente, más los incas los hacen retroceder.assistant
+
+COMP: Enterado Francisco",COMP: Enterado Francisco,No compound found.
+61,"Los integrantes de este grupo , tres de los cuales eran mujeres , fueron detenidos entre las 15 horas de ayer y las 7,30 horas de hoy en diferentes domicilios situados en la ciudad de Valencia y las localidades de Xátiva y Llombai .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Los integrantes de este grupo, tres de los cuales eran mujeres, fueron detenidos entre las 15 horas de ayer y las 7,30 horas de hoy en diferentes domicilios situados en la ciudad de Valencia y las localidades de Xátiva y Llombai.assistant
+
+COMP: de este grupo",COMP: de este grupo,"COMP: 15 horas
+COMP: 7,30 horas"
+62,"Según el estudio , los casos de extrema pobreza se concentran en áreas rurales del de el departamento de Cabañas ( noreste ) , donde casi nueve de cada diez personas ni siquiera tienen recursos para alimentarse alimentar se durante medio mes .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Según el estudio, los casos de extrema pobreza se concentran en áreas rurales del de el departamento de Cabañas ( noreste ), donde casi nueve de cada diez personas ni siquiera tienen recursos para alimentarse alimentar se durante medio mes.assistant
+
+COMP: el estudio",COMP: el estudio,COMP: nueve de cada diez
+63,"Al finalizar la Guerra Civil debió marchar al a el exilio en México , donde colaboró con La Nostra Revista y Senyera , ésta última publicada por la Casa de Valencia en México .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Al finalizar la Guerra Civil debió marchar al a el exilio en México, donde colaboró con La Nostra Revista y Senyera, ésta última publicada por la Casa de Valencia en México.assistant
+
+COMP: Guerra Civil
+COMP: La Nostra Revista","COMP: Guerra Civil
+COMP: La Nostra Revista",No compound found.
+64,"Pero tenía un detalle curioso : sus hombres se hubieran hecho matar por él , pero él mismo nunca entraba en combate ;","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Pero tenía un detalle curioso : sus hombres se hubieran hecho matar por él, pero él mismo nunca entraba en combate ;assistant
+
+COMP: Pero tenía
+COMP: un detalle","COMP: Pero tenía
+COMP: un detalle",No compound found.
+65,"Pese a informes sismológicos sobre dos explosiones en el interior del de el "" Kursk "" , las autoridades rusas han mantenido firmemente su versión sobre la colisión con un submarino extranjero .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Pese a informes sismológicos sobre dos explosiones en el interior del de el "" Kursk "", las autoridades rusas han mantenido firmemente su versión sobre la colisión con un submarino extranjero.assistant
+
+COMP: explosiones en el interior
+COMP: mantenido firmemente","COMP: explosiones en el interior
+COMP: mantenido firmemente",No compound found.
+66,"Lo importante en unos Juegos Olímpicos es conseguir una medalla "" , dijo Costa , y aseguró que repetiría "" dos mil veces "" la experiencia de participar en unos Juegos .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Lo importante en unos Juegos Olímpicos es conseguir una medalla "", dijo Costa, y aseguró que repetiría "" dos mil veces "" la experiencia de participar en unos Juegos.assistant
+
+COMP: Juegos Olímpicos",COMP: Juegos Olímpicos,"COMP: Juegos Olímpicos
+COMP: dos mil"
+67,"En los dos periódicos de Madrid , Sahin fue más o menos confuso porque en una portada dijo una cosa y en la otra , otra .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En los dos periódicos de Madrid, Sahin fue más o menos confuso porque en una portada dijo una cosa y en la otra, otra.assistant
+
+COMP: Madrid, Sahin","COMP: Madrid, Sahin",No compound found.
+68,"En cuanto a la incidencia que tendrá para la Caja Rural la reciente subida de tipos aprobada por el Banco Central Europeo , señaló que en el futuro oscilarán entre el 5 y el 6 por ciento y que rebajarlos rebajar los por debajo de esas cifras provoca "" una situación artificial "" que supone "" consciente o inconscientemente , una manipulación de la economía "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En cuanto a la incidencia que tendrá para la Caja Rural la reciente subida de tipos aprobada por el Banco Central Europeo, señaló que en el futuro oscilarán entre el 5 y el 6 por ciento y que rebajarlos rebajar los por debajo de esas cifras provoca "" una situación artificial "" que supone "" consciente o inconscientemente, una manipulación de la economía "".assistant
+
+COMP: señaló que",COMP: señaló que,COMP: 6 por ciento
+69,Cortlandville es un pueblo ubicado en el condado de Cortland en el estado estadounidense de Nueva York .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Cortlandville es un pueblo ubicado en el condado de Cortland en el estado estadounidense de Nueva York.assistant
+
+No compound found.",No compound found.,No compound found.
+70,"Fue este grupo quien registraría por primera vez una grabación con un bajo de doce cuerdas triples , en su álbum Heaven Tonight ( Epic , 1978 ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Fue este grupo quien registraría por primera vez una grabación con un bajo de doce cuerdas triples, en su álbum Heaven Tonight ( Epic, 1978 ).assistant
+
+COMP: Epic,","COMP: Epic,",No compound found.
+71,No me considero especialmente divertido .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+No me considero especialmente divertido.assistant
+
+No compound found.",No compound found.,No compound found.
+72,"Cuando ella se resiste , él abusa de ella .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Cuando ella se resiste, él abusa de ella.assistant
+
+No compound found.",No compound found.,No compound found.
+73,"Eso sí , hay que salir a ganar .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Eso sí, hay que salir a ganar.assistant
+
+No compound found.",No compound found.,No compound found.
+74,"El rally náutico partirá de Las Palmas de Gran Canaria el próximo día 19 con destino a la isla caribeña de Santa Lucía , y las 2.700 millas que separan a las dos islas atlánticas precisarán entre 13 y 26 días de navegación , dependiendo del de el tamaño del de el barco y del de el viento que acompañe .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El rally náutico partirá de Las Palmas de Gran Canaria el próximo día 19 con destino a la isla caribeña de Santa Lucía, y las 2.700 millas que separan a las dos islas atlánticas precisarán entre 13 y 26 días de navegación, dependiendo del de el tamaño del de el barco y del de el viento que acompañe.assistant
+
+COMP: Gran Canaria el próximo",COMP: Gran Canaria el próximo,COMP: día 19
+75,"Fue también el fundador de la galería pictórica de Kassel , en la que se incluyeron cuadros de Rembrandt y Rubens .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Fue también el fundador de la galería pictórica de Kassel, en la que se incluyeron cuadros de Rembrandt y Rubens.assistant
+
+COMP: fundador de la",COMP: fundador de la,No compound found.
+76,"Las ventas del de el grupo aumentaron un 16,8 por ciento , con lo que la facturación alcanzó los 113.363 millones de pesetas , y el beneficio antes de impuestos ascendió a 6.826 millones de pesetas , un 12,6 por ciento más que en el ejercicio anterior .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Las ventas del de el grupo aumentaron un 16,8 por ciento, con lo que la facturación alcanzó los 113.363 millones de pesetas, y el beneficio antes de impuestos ascendió a 6.826 millones de pesetas, un 12,6 por ciento más que en el ejercicio anterior.assistant
+
+COMP: por ciento",COMP: por ciento,"COMP: 16,8 por ciento
+COMP: 12,6 por ciento"
+77,Margarita ( 5 de junio de 1523 -- 14 de septiembre de 1574 ) .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Margarita ( 5 de junio de 1523 -- 14 de septiembre de 1574 ).assistant
+
+No compound found.",No compound found.,"COMP: 5 de junio de 1523
+COMP: 14 de septiembre de 1574"
+78,"Ambos clubes han llegado a un acuerdo para que el encuentro , previsto en principio para el 29 de enero , se juegue el último día de Febrero , después de que tuviera que ser aplazado porque la mayoría de la plantilla del de el equipo jerezano estaba afectada de gastroenteritis .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Ambos clubes han llegado a un acuerdo para que el encuentro, previsto en principio para el 29 de enero, se juegue el último día de Febrero, después de que tuviera que ser aplazado porque la mayoría de la plantilla del de el equipo jerezano estaba afectada de gastroenteritis.assistant
+
+COMP: acuerdo para que",COMP: acuerdo para que,COMP: 29 de enero
+79,Las incógnitas sobre la capacidad de movilización de socios se ciernen sobre el resto de posibles candidatos .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Las incógnitas sobre la capacidad de movilización de socios se ciernen sobre el resto de posibles candidatos.assistant
+
+COMP: sobre la",COMP: sobre la,No compound found.
+80,"El presidente yugoslavo Slobodan Milosevic se prepara para la segunda vuelta electoral , mientras que la oposición pretende una mediación internacional para poder presentar sus pruebas sobre el triunfo de Vojislav Kostunica por mayoría absoluta , lo que evitaría la segunda ronda del de el 8 de octubre .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El presidente yugoslavo Slobodan Milosevic se prepara para la segunda vuelta electoral, mientras que la oposición pretende una mediación internacional para poder presentar sus pruebas sobre el triunfo de Vojislav Kostunica por mayoría absoluta, lo que evitaría la segunda ronda del de el 8 de octubre.assistant
+
+COMP: Slobodan Milosevic",COMP: Slobodan Milosevic,COMP: 8 de octubre
+81,"Tales reglas , interpretadas y expandidas a lo largo de los siglos , determinan con precisión qué alimentos se consideran puros , es decir , cuáles cumplen con los preceptos de la religión y cuáles no son casher ( estos últimos se llaman , en hebreo , trefá , טְרֵפָה ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Tales reglas, interpretadas y expandidas a lo largo de los siglos, determinan con precisión qué alimentos se consideran puros, es decir, cuáles cumplen con los preceptos de la religión y cuáles no son casher ( estos últimos se llaman, en hebreo, trefá, טְרֵפָה ).assistant
+
+COMP: siglos, determinan","COMP: siglos, determinan",No compound found.
+82,Japón pidió perdón por las atrocidades de la guerra en 1998 durante la visita del de el entonces primer ministro japonés al a el Reino Unido .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Japón pidió perdón por las atrocidades de la guerra en 1998 durante la visita del de el entonces primer ministro japonés al a el Reino Unido.assistant
+
+COMP: Japon pidió
+COMP: perdón por las atrocidades","COMP: Japon pidió
+COMP: perdón por las atrocidades",No compound found.
+83,"El Gobierno se dispone a reducir la tarifa del de el impuesto de renta de 35 por ciento al a el 32 por ciento , una disminución que en las actuales condiciones fiscales debe ser compensado a través de otros ingresos , según los analistas .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El Gobierno se dispone a reducir la tarifa del de el impuesto de renta de 35 por ciento al a el 32 por ciento, una disminución que en las actuales condiciones fiscales debe ser compensado a través de otros ingresos, según los analistas.assistant
+
+COMP: de el impuesto",COMP: de el impuesto,"COMP: 35 por ciento
+COMP: 32 por ciento"
+84,"Indica asimismo que en repetidas ocasiones Sabariz le manifestó al a el presidente de la FGB su intención de dejar el cargo debido a las múltiples ocupaciones , por lo que se iniciaron conversaciones con diferentes personas para que , una vez que concluya la presente temporada , se pudieran hacer cargo del de el colectivo arbitral .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Indica asimismo que en repetidas ocasiones Sabariz le manifestó al a el presidente de la FGB su intención de dejar el cargo debido a las múltiples ocupaciones, por lo que se iniciaron conversaciones con diferentes personas para que, una vez que concluya la presente temporada, se pudieran hacer cargo del de el colectivo arbitral.assistant
+
+COMP: el presidente de la FGB su intención de dejar
+COMP: el cargo debido a las
+COMP: el colectivo arbitral","COMP: el presidente de la FGB su intención de dejar
+COMP: el cargo debido a las
+COMP: el colectivo arbitral",COMP: hacer cargo
+85,"El Ministerio agrega que la inflación acumulada alcanzó hasta agosto pasado un 3,4 por ciento , y el promedio anual registró un 1,3 por ciento .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El Ministerio agrega que la inflación acumulada alcanzó hasta agosto pasado un 3,4 por ciento, y el promedio anual registró un 1,3 por ciento.assistant
+
+COMP: Ministerio agrega",COMP: Ministerio agrega,"COMP: 3,4 por ciento
+COMP: 1,3 por ciento"
+86,"En su reunión de hoy , el máximo órgano rector del de el banco tampoco modificó la facilidad marginal de crédito ( por la que presta dinero a las entidades ) , ni la facilidad de depósito ( por la que remunera el dinero ) , dejándolas dejando las en el 4,75 y el 2,75 por ciento , respectivamente .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En su reunión de hoy, el máximo órgano rector del de el banco tampoco modificó la facilidad marginal de crédito ( por la que presta dinero a las entidades ), ni la facilidad de depósito ( por la que remunera el dinero ), dejándolas dejando las en el 4,75 y el 2,75 por ciento, respectivamente.assistant
+
+COMP: el banco tampoco modificó
+COMP: el dinero","COMP: el banco tampoco modificó
+COMP: el dinero","COMP: 2,75 por ciento"
+87,"Irureta precisó , respecto a Tristán , que lo que tendrán que hacer nuestros centrales es estar "" atentos "" y recalcó que él nunca ordena "" marcajes al a el hombre "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Irureta precisó, respecto a Tristán, que lo que tendrán que hacer nuestros centrales es estar "" atentos "" y recalcó que él nunca ordena "" marcajes al a el hombre "".assistant
+
+COMP: Irureta precisó",COMP: Irureta precisó,COMP: marcajes al
+88,"El 16 de agosto 1996 , pasa a ocupar la Secretaria de Estado de las Fuerzas Armadas ( Ministerio FFAA ) , luego de permanecer 6 años interrumpidos en la Jefatura de la Fuerza Aérea .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El 16 de agosto 1996, pasa a ocupar la Secretaria de Estado de las Fuerzas Armadas ( Ministerio FFAA ), luego de permanecer 6 años interrumpidos en la Jefatura de la Fuerza Aérea.assistant
+
+COMP: Fuerzas Armadas",COMP: Fuerzas Armadas,COMP: 16 de agosto 1996
+89,Compiten en ella 16 equipos de todo el territorio nacional .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Compiten en ella 16 equipos de todo el territorio nacional.assistant
+
+No compound found.",No compound found.,No compound found.
+90,Esta peculariedad se dilató hasta el siglo XIV con la aparición de los libros de horas .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Esta peculariedad se dilató hasta el siglo XIV con la aparición de los libros de horas.assistant
+
+No compound found.",No compound found.,COMP: siglo XIV
+91,"Jugó sucesivamente otros dos partidos , estrenándose estrenándo se en uno de ellos como goleador internacional ( frente a el 3 de diciembre de 1986 ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Jugó sucesivamente otros dos partidos, estrenándose estrenándo se en uno de ellos como goleador internacional ( frente a el 3 de diciembre de 1986 ).assistant
+
+COMP: Jugó sucesivamente
+COMP: otros dos partidos","COMP: Jugó sucesivamente
+COMP: otros dos partidos",COMP: 3 de diciembre de 1986
+92,La cubierta exterior de este salón se corresponde con la cota más alta del de el edificio .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La cubierta exterior de este salón se corresponde con la cota más alta del de el edificio.assistant
+
+No compound found.",No compound found.,No compound found.
+93,"Mirando las imágenes , no recuerdo en mi carrera otra jugada en la que haya definido con tanta tranquilidad .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Mirando las imágenes, no recuerdo en mi carrera otra jugada en la que haya definido con tanta tranquilidad.assistant
+
+COMP: en mi carrera",COMP: en mi carrera,No compound found.
+94,"Los dos grupos pondrán en marcha "" todas las medidas necesarias y establecerán un diálogo abierto con sus empleados y sus representantes tan pronto como se hayan definido más los planes de actuación "" , según el comunicado conjunto .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Los dos grupos pondrán en marcha "" todas las medidas necesarias y establecerán un diálogo abierto con sus empleados y sus representantes tan pronto como se hayan definido más los planes de actuación "", según el comunicado conjunto.assistant
+
+COMP: necesarias y establecerán",COMP: necesarias y establecerán,COMP: pondrán en marcha
+95,"Además de desatar un incidente diplomático en el mundo árabe , con ese desliz Jospin se ha granjeado en casa un torrente de críticas también sin precedentes desde su llegada al a el poder , en julio de 1997 .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Además de desatar un incidente diplomático en el mundo árabe, con ese desliz Jospin se ha granjeado en casa un torrente de críticas también sin precedentes desde su llegada al a el poder, en julio de 1997.assistant
+
+COMP: el mundo
+COMP: el poder","COMP: el mundo
+COMP: el poder",COMP: julio de 1997
+96,"Luego de la fallida experiencia del de el Congo , el Che Guevara organizó un foco guerrillero en Bolivia , donde instaló a partir del de el 3 de noviembre de 1967 , en una zona montañosa cercana a la ciudad de Santa Cruz , en una área que atraviesa el río estacional Ñancahuazú , afluente del de el importante río Grande ( Bolivia ) .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Luego de la fallida experiencia del de el Congo, el Che Guevara organizó un foco guerrillero en Bolivia, donde instaló a partir del de el 3 de noviembre de 1967, en una zona montañosa cercana a la ciudad de Santa Cruz, en una área que atraviesa el río estacional Ñancahuazú, afluente del de el importante río Grande ( Bolivia ).assistant
+
+COMP: experiencia del",COMP: experiencia del,COMP: 3 de noviembre de 1967
+97,"La construcción de caja se emplea en muchos bastidores convencionales , en especial cuando se necesita resistencia adicional ;","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La construcción de caja se emplea en muchos bastidores convencionales, en especial cuando se necesita resistencia adicional ;assistant
+
+COMP: caja se",COMP: caja se,No compound found.
+98,"Varios centenares de personas acudieron al a el palacio Brongniart , sede simbólica de la Bolsa parisiense , que amaneció cubierto con los colores de Euronext , el amarillo y el azul , en forma de bandas situadas entre las catorce columnas de la fachada del de el edificio .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Varios centenares de personas acudieron al a el palacio Brongniart, sede simbólica de la Bolsa parisiense, que amaneció cubierto con los colores de Euronext, el amarillo y el azul, en forma de bandas situadas entre las catorce columnas de la fachada del de el edificio.assistant
+
+COMP: amaneció cubierto",COMP: amaneció cubierto,No compound found.
+99,"Se vio obligado a enterrar en el huerto de un amigo sus pertenencias , y volvió a Madrid atravesando los montes , para evitar ser descubierto .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Se vio obligado a enterrar en el huerto de un amigo sus pertenencias, y volvió a Madrid atravesando los montes, para evitar ser descubierto.assistant
+
+COMP: enterrar en el huerto de un amigo",COMP: enterrar en el huerto de un amigo,No compound found.
+100,Los frentes sociales de Ecuador han decidido subir el tono de las protestas y preparan la manifestación del de el próximo 1 de mayo que será el inicio de un levantamiento popular contra el Gobierno .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Los frentes sociales de Ecuador han decidido subir el tono de las protestas y preparan la manifestación del de el próximo 1 de mayo que será el inicio de un levantamiento popular contra el Gobierno.assistant
+
+COMP: tono de las protestas",COMP: tono de las protestas,COMP: 1 de mayo
+101,"El programa tiene una duración de dos años y se lleva a cabo con el Gobierno de Colombia bajo los auspicios de la ONU "" , agregó .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El programa tiene una duración de dos años y se lleva a cabo con el Gobierno de Colombia bajo los auspicios de la ONU "", agregó.assistant
+
+COMP: El programa",COMP: El programa,COMP: lleva a cabo
+102,"En los principales países industrializados el promedio de impuestos suma hasta un 60 por ciento "" , dijo Rodríguez , al a el precisar que presentará su propuesta el próximo domingo en Viena , durante la 111 Conferencia de la Organización .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En los principales países industrializados el promedio de impuestos suma hasta un 60 por ciento "", dijo Rodríguez, al a el precisar que presentará su propuesta el próximo domingo en Viena, durante la 111 Conferencia de la Organización.assistant
+
+COMP: países industrializados",COMP: países industrializados,COMP: 60 por ciento
+103,El barrio fue fundado en 1944 por el Servicio Nacional de Regiones Devastadas y Reparaciones ( SNRDR ) .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El barrio fue fundado en 1944 por el Servicio Nacional de Regiones Devastadas y Reparaciones ( SNRDR ).assistant
+
+COMP: Servicio Nacional de Regiones Devastadas y Reparaciones",COMP: Servicio Nacional de Regiones Devastadas y Reparaciones,No compound found.
+104,"La Municipalidad Ndlambe es un área administrativa en la Provincia del de el Cabo Oriental de Sudáfrica , con su capital en Port Alfred , que comprende las poblaciones de Kenton - on - Sea , Boknes , Bathurst , Boesmansriviermond , Alexandria and Cannon Rocks .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La Municipalidad Ndlambe es un área administrativa en la Provincia del de el Cabo Oriental de Sudáfrica, con su capital en Port Alfred, que comprende las poblaciones de Kenton - on - Sea, Boknes, Bathurst, Boesmansriviermond, Alexandria and Cannon Rocks.assistant
+
+COMP: Municipalidad Ndlambe es
+COMP: Kenton - on - Sea, Boknes, Bathurst, Boesmansriviermond, Alexandria and Cannon Rocks","COMP: Municipalidad Ndlambe es
+COMP: Kenton - on - Sea, Boknes, Bathurst, Boesmansriviermond, Alexandria and Cannon Rocks",No compound found.
+105,"Juan Andrade Rodríguez ( Madrid , 3 de febrero de 1898 -- 1 de mayo de 1981 ) fue un político , periodista y editor comunista español .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Juan Andrade Rodríguez ( Madrid, 3 de febrero de 1898 -- 1 de mayo de 1981 ) fue un político, periodista y editor comunista español.assistant
+
+COMP: Madrid, 3 de febrero de
+COMP: fue un político, periodista","COMP: Madrid, 3 de febrero de
+COMP: fue un político, periodista","COMP: 3 de febrero de 1898
+COMP: 1 de mayo de 1981"
+106,"Según la Oficina del de el Censo de los Estados Unidos , Ludlow Falls tiene una superficie total de 0.46 km ² , de la cual 0.46 km ² corresponden a tierra firme y ( 0 % ) 0 km ² es agua .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Según la Oficina del de el Censo de los Estados Unidos, Ludlow Falls tiene una superficie total de 0.46 km ², de la cual 0.46 km ² corresponden a tierra firme y ( 0 % ) 0 km ² es agua.assistant
+
+COMP: de los Estados",COMP: de los Estados,No compound found.
+107,"Botella ha descrito la situación laboral en España y ha asegurado que "" aún considerando que los avances pueden , como mínimo , calificarse calificar se de notables , las estadísticas ponen de manifiesto que hay que continuar apostando por esta línea , puesto que el desempleo femenino supera en más de el doble a el masculino "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Botella ha descrito la situación laboral en España y ha asegurado que "" aún considerando que los avances pueden, como mínimo, calificarse calificar se de notables, las estadísticas ponen de manifiesto que hay que continuar apostando por esta línea, puesto que el desempleo femenino supera en más de el doble a el masculino "".assistant
+
+COMP: descrito la situación",COMP: descrito la situación,COMP: ponen de manifiesto
+108,"En 2003 , la marca desapareció para formar parte de Helados Nestlé , aunque muchos de sus productos originales continúan en la oferta del de el nuevo grupo .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En 2003, la marca desapareció para formar parte de Helados Nestlé, aunque muchos de sus productos originales continúan en la oferta del de el nuevo grupo.assistant
+
+COMP: En 2003, la marca desapareció","COMP: En 2003, la marca desapareció",COMP: formar parte
+109,"La empresa vendida formaba parte de las Centrales Telefónicas de Ribeirao Preto ( Ceterp ) , una pequeña compañía comprada en diciembre del de el año pasado por Telefónica en subasta pública .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La empresa vendida formaba parte de las Centrales Telefónicas de Ribeirao Preto ( Ceterp ), una pequeña compañía comprada en diciembre del de el año pasado por Telefónica en subasta pública.assistant
+
+COMP: Telefónicas de Ribeirao Preto ( Ceterp )",COMP: Telefónicas de Ribeirao Preto ( Ceterp ),"COMP: formaba parte
+COMP: diciembre del"
+110,El PP no había parado la suya contra el PNV .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El PP no había parado la suya contra el PNV.assistant
+
+No compound found.",No compound found.,COMP: la suya
+111,Nature 2000 .,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Nature 2000.assistant
+
+No compound found.",No compound found.,No compound found.
+112,"Debido a que las personas con acento coreano pronuncian "" G "" o "" J "" en el principio de las palabras de manera distinta , se usó 15 円 50 銭 ( jū - go - en , go - jū - sen ) y が ぎぐ げ ご ( gagigugego ) como un Shibboleth .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Debido a que las personas con acento coreano pronuncian "" G "" o "" J "" en el principio de las palabras de manera distinta, se usó 15 円 50 銭 ( jū - go - en, go - jū - sen ) y が ぎぐ げ ご ( gagigugego ) como un Shibboleth.assistant
+
+COMP: Shibboleth",COMP: Shibboleth,"COMP: 円 50 銭 ( jū - go - en , go - jū - sen ) y が ぎぐ げ ご
+COMP: go - en , go"
+113,"De Miguel , quien compareció en el Congreso ante la comisión mixta para la Unión Europea , apeló a un "" sentimiento elemental de solidaridad "" para defender la postura de España ante la ampliación europea , a la que definió como "" una oportunidad y no una amenaza "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+De Miguel, quien compareció en el Congreso ante la comisión mixta para la Unión Europea, apeló a un "" sentimiento elemental de solidaridad "" para defender la postura de España ante la ampliación europea, a la que definió como "" una oportunidad y no una amenaza "".assistant
+
+COMP: de Miguel, quien compareció en el Congreso ante la comisión mixta para la Unión Europea, apeló a un "" sentimiento elemental de solidaridad "" para defender la postura de España ante la ampliación europea, a la que definió como "" una oportunidad y no una amenaza ""","COMP: de Miguel, quien compareció en el Congreso ante la comisión mixta para la Unión Europea, apeló a un "" sentimiento elemental de solidaridad "" para defender la postura de España ante la ampliación europea, a la que definió como "" una oportunidad y no una amenaza """,No compound found.
+114,"En declaraciones a Televisión Española , Alvarez Areces dijo que de la reunión que celebrará mañana el Comité Federal "" debe surgir una dirección política que tenga , como gran objetivo , preparar el congreso , que tendría que ser antes del de el verano , para no dilatar demasiado el proceso "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+En declaraciones a Televisión Española, Alvarez Areces dijo que de la reunión que celebrará mañana el Comité Federal "" debe surgir una dirección política que tenga, como gran objetivo, preparar el congreso, que tendría que ser antes del de el verano, para no dilatar demasiado el proceso "".assistant
+
+COMP: Comité Federal",COMP: Comité Federal,No compound found.
+115,"El Rally El Corte Inglés acogerá una primera jornada - día 13 - de verificaciones administrativas y técnicas , y dos de competición .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El Rally El Corte Inglés acogerá una primera jornada - día 13 - de verificaciones administrativas y técnicas, y dos de competición.assistant
+
+COMP: El Corte Inglés",COMP: El Corte Inglés,COMP: día 13
+116,"La dependencia ecuatoriana del de el FMI también se expresa en la necesidad del de el acuerdo para iniciar una reestructuración de la deuda exterior que sobrepasa los 16.000 millones de dólares y que representa el 113 por ciento del de el producto interior bruto , el índice más alto de América Latina .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La dependencia ecuatoriana del de el FMI también se expresa en la necesidad del de el acuerdo para iniciar una reestructuración de la deuda exterior que sobrepasa los 16.000 millones de dólares y que representa el 113 por ciento del de el producto interior bruto, el índice más alto de América Latina.assistant
+
+COMP: de el
+COMP: de el","COMP: de el
+COMP: de el",COMP: 113 por ciento
+117,"Blatter abrió un hueco que fue de 17 segundos tras el segundo giro y que llegó a rozar el medio minuto en su amplitud máxima , pero a falta de dos kilómetros para completar la tercera vuelta , la ciclista balear enlazó con la suiza y la superó colocándose colocando se a el frente de la prueba .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Blatter abrió un hueco que fue de 17 segundos tras el segundo giro y que llegó a rozar el medio minuto en su amplitud máxima, pero a falta de dos kilómetros para completar la tercera vuelta, la ciclista balear enlazó con la suiza y la superó colocándose colocando se a el frente de la prueba.assistant
+
+COMP: Ciclista balear",COMP: Ciclista balear,No compound found.
+118,"Un submarinista ruso entró hoy por primera vez en el interior del de el "" Kursk "" , hundido en el Artico el 12 de agosto pasado con 118 marinos a bordo , en busca de restos de los tripulantes , y halló tres cadáveres , que ya fueron extraídos a la superficie .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Un submarinista ruso entró hoy por primera vez en el interior del de el "" Kursk "", hundido en el Artico el 12 de agosto pasado con 118 marinos a bordo, en busca de restos de los tripulantes, y halló tres cadáveres, que ya fueron extraídos a la superficie.assistant
+
+COMP: el 12 de agosto
+COMP: a bordo, en busca
+COMP: de los tripulantes,","COMP: el 12 de agosto
+COMP: a bordo, en busca
+COMP: de los tripulantes,",COMP: 12 de agosto
+119,"El "" Monumental de la Vicente López "" también apodado "" el Gigante del de el Norte "" , nace en los años 20 siendo el primer estadio de Salta .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+El "" Monumental de la Vicente López "" también apodado "" el Gigante del de el Norte "", nace en los años 20 siendo el primer estadio de Salta.assistant
+
+COMP: de la Vicente López",COMP: de la Vicente López,COMP: años 20
+120,"La estación se encuentra localizada en Hollywood Boulevard y Western Avenue en Hollywood , California .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+La estación se encuentra localizada en Hollywood Boulevard y Western Avenue en Hollywood, California.assistant
+
+No compound found.",No compound found.,No compound found.
+121,"Esta información está fundamentada en las modificaciones hechas por la industria automotriz brasileña al a el inicio del de el programa de etanol a finales de los años setenta , y refleja principalmente la experiencia de la Volkswagen de Brasil .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Esta información está fundamentada en las modificaciones hechas por la industria automotriz brasileña al a el inicio del de el programa de etanol a finales de los años setenta, y refleja principalmente la experiencia de la Volkswagen de Brasil.assistant
+
+COMP: experiencia de la",COMP: experiencia de la,COMP: años setenta
+122,"Con todo , Valero se muestra confiado en que el ejercicio actual cierre en el entorno de los 1,5 millones de turismos nuevos matriculados conforme a las previsiones iniciales que , en el caso del de el acumulado anual , está totalmente ajustado .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Con todo, Valero se muestra confiado en que el ejercicio actual cierre en el entorno de los 1,5 millones de turismos nuevos matriculados conforme a las previsiones iniciales que, en el caso del de el acumulado anual, está totalmente ajustado.assistant
+
+COMP: confiado en que",COMP: confiado en que,No compound found.
+123,"Mendizábal señaló que la rebaja de los impuestos solicitada por las petroleras y su patronal y presentada por éstas como la única solución para frenar la constante subida de los carburantes , es una medida que "" tiene poco sentido "" , ya que en España la fiscalidad que afecta a estos productos es una de las menores de la Unión Europea .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Mendizábal señaló que la rebaja de los impuestos solicitada por las petroleras y su patronal y presentada por éstas como la única solución para frenar la constante subida de los carburantes, es una medida que "" tiene poco sentido "", ya que en España la fiscalidad que afecta a estos productos es una de las menores de la Unión Europea.assistant
+
+COMP: la rebaja de los impuestos
+COMP: la fiscalidad que","COMP: la rebaja de los impuestos
+COMP: la fiscalidad que",No compound found.
+124,"Cuando el bancal está en mal estado tiende a formar una barriga antes de colapsar , hecho para el que los isleños utilizan el término "" parir "" .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Cuando el bancal está en mal estado tiende a formar una barriga antes de colapsar, hecho para el que los isleños utilizan el término "" parir "".assistant
+
+COMP: Cuando el bancal
+COMP: parir","COMP: Cuando el bancal
+COMP: parir",No compound found.
+125,"Estos dos supuestos jefes del de el aparato logístico de ETA cuando fueron detenidos en julio de 1996 , purgan ya otras penas en Francia por el mismo delito .","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 26 Jul 2024
+
+user
+
+Bileşik yapılar, birden fazla içerik/sözcüksel biçimbirimden oluşan ve tek bir anlam birimi oluşturan sözcük veya ifadelerdir. Bunlar arasında ad bileşikleri ve öbekçil eylemler yer alabilir ancak bunlarla sınırlı değildir. Bir bileşik yapının anlamı tamamen bileşimsel, yarı bileşimsel veya bileşimsel olmayan bir nitelik taşıyabilir.
+
+Aşağıdaki cümledeki tüm bileşik yapıları belirleyip etiketleyebilir misiniz? Her bileşik yapıyı şu formatta belirtiniz: bileşik yapı türü (örneğin 'COMP', 'COMP-PRT' vb.), ardından iki nokta ve bileşik yapı. Birden fazla bileşik yapı varsa her birini ayrı bir satırda belirtiniz. Bileşik yapı yoksa 'No compound found.' yazınız. İç içe geçmiş bileşik yapılarda, tek bir anlam birimi oluşturan en üst düzey bileşik yapıyı belirtiniz.
+
+
+
+İşte cümle:
+Estos dos supuestos jefes del de el aparato logístico de ETA cuando fueron detenidos en julio de 1996, purgan ya otras penas en Francia por el mismo delito.assistant
+
+COMP: del de el aparato",COMP: del de el aparato,COMP: julio de 1996
